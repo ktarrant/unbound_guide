@@ -18,7 +18,7 @@ Pokemon Unbound Guide Walkthrough
    walkthrough/Route_6
    walkthrough/Route_7
    walkthrough/Route_8
-   walkthrough/Route_9_+_Autl_Woods
+   walkthrough/Route_9
    walkthrough/Route_10
    walkthrough/Route_11
    walkthrough/Route_12
@@ -37,7 +37,7 @@ Pokemon Unbound Guide Walkthrough
    walkthrough/Auburn_Waterway
    walkthrough/Frozen_Forest
    walkthrough/Lost_Tunnel
-   walkthrough/Thundercap_Mt.
+   walkthrough/Thundercap_Mt
    walkthrough/Cliff_Cave
    walkthrough/Ruins_of_Void
    walkthrough/Rift_Cave

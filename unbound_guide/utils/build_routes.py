@@ -69,7 +69,7 @@ def write_row(values, file):
         file.write(prefix + str(value) + "\n")
 
 
-if __name__ == "__main__":
+def generate_routes():
     routes_file = os.path.join(json_dir, "locations.json")
     with open(routes_file, "r") as json_file:
         routes_data = json.load(json_file)
@@ -108,4 +108,8 @@ if __name__ == "__main__":
                     f.write("\n")
 
         route_toctree_list += "routes/" + route_file_name + "\n"
-    print(route_toctree_list)
+
+
+
+if __name__ == "__main__":
+    generate_routes()
