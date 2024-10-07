@@ -100,9 +100,9 @@ Crystal Peak
      - Metal Coat
      - 50%
      - Medium Fast
-     - Rockhead
-     - Sturdy
-     - Sheerforce
+     - Sandforce
+     - Sandforce
+     - 
    * - Skarmory
      - Steel
      - Flying
@@ -217,9 +217,9 @@ Crystal Peak
      - Metal Coat
      - 50%
      - Medium Fast
-     - Rockhead
-     - Sturdy
-     - Sheerforce
+     - Sandforce
+     - Sandforce
+     - 
    * - Skarmory
      - Steel
      - Flying
@@ -303,12 +303,12 @@ Crystal Peak
      - 2 Att
      - 
      - 
-     - Life Orb
+     - 
      - 50%
      - Medium Slow
-     - Pressure
-     - Superluck
-     - Justified
+     - Magicbounce
+     - Magicbounce
+     - 
 
 .. list-table:: Crystal Peak - Special Encounter - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
@@ -393,7 +393,7 @@ Crystal Peak
      - Water
      - Ground
      - 75
-     - 176
+     - 166
      - 2 HP
      - 
      - 
@@ -593,18 +593,18 @@ Crystal Peak
      - Hidden Ability
    * - Graveler
      - Rock
-     - Ground
+     - Electric
      - 120
      - 134
      - 2 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Onix
      - Rock
      - Ground

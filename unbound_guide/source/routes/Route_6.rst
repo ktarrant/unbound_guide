@@ -75,6 +75,20 @@ Route 6
      - Rivalry
      - Intimidate
      - Guts
+   * - Deerling
+     - Normal
+     - Grass
+     - 190
+     - 67
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Chlorophyll
+     - Sapsipper
+     - Serenegrace
    * - Sunkern
      - Grass
      - Grass

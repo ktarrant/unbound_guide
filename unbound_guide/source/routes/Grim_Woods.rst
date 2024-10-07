@@ -61,6 +61,20 @@ Grim Woods
      - Chlorophyll
      - Earlybird
      - Pickpocket
+   * - Pumpkaboo
+     - Ghost
+     - Grass
+     - 120
+     - 67
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Pickup
+     - Frisk
+     - Heatproof
    * - Gastly
      - Ghost
      - Poison

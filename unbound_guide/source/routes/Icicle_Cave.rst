@@ -200,12 +200,45 @@ Icicle Cave
      - 1 Att
      - 1 Def
      - 
-     - Metal Coat
+     - 
      - 50%
      - Fast
-     - Hypercutter
-     - Intimidate
-     - Sheerforce
+     - Hugepower
+     - Hugepower
+     - 
+
+.. list-table:: Icicle Cave - 4F (Outside) - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - Ho-Oh
+     - Ice
+     - Steel
+     - 255
+     - 93
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Snowcloak
+     - 
+     - Slushrush
 
 .. list-table:: Icicle Cave - 1F + B1F - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7

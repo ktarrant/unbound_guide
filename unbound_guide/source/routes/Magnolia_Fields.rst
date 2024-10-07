@@ -239,10 +239,10 @@ Magnolia Fields
      - 
      - 
      - 
-     - 50%
+     - 100%
      - Medium Fast
-     - Waterabsorb
      - Cursedbody
+     - Waterabsorb
      - Damp
    * - Jellicent
      - Water
@@ -253,10 +253,10 @@ Magnolia Fields
      - 
      - 
      - 
-     - 50%
+     - 100%
      - Medium Fast
-     - Waterabsorb
      - Cursedbody
+     - Waterabsorb
      - Damp
 
 .. list-table:: Magnolia Fields - Special Encounter - Surf

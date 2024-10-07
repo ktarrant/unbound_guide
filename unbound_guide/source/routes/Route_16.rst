@@ -546,18 +546,18 @@ Route 16
      - Pickpocket
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Corsola
      - Ghost
      - Ghost

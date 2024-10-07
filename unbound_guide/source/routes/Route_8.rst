@@ -75,6 +75,20 @@ Route 8
      - Snowcloak
      - Slushrush
      - Rattled
+   * - Deerling
+     - Normal
+     - Grass
+     - 190
+     - 67
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Chlorophyll
+     - Sapsipper
+     - Serenegrace
    * - Flaaffy
      - Electric
      - Electric
@@ -89,6 +103,20 @@ Route 8
      - Static
      - 
      - Cottondown
+   * - Minior
+     - Rock
+     - Flying
+     - 30
+     - 132
+     - 1 Att
+     - 1 SpA
+     - 
+     - Star Piece
+     - N/A
+     - Medium Slow
+     - Shieldsdown
+     - 
+     - 
 
 .. list-table:: Route 8 - Swarm - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7

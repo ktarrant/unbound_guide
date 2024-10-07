@@ -33,6 +33,20 @@ Cliff Cave
      - Innerfocus
      - 
      - Infiltrator
+   * - Geodude
+     - Rock
+     - Electric
+     - 255
+     - 86
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
    * - Machop
      - Fighting
      - Fighting
@@ -103,6 +117,20 @@ Cliff Cave
      - Damp
      - Waterabsorb
      - Unaware
+   * - Graveler
+     - Rock
+     - Electric
+     - 120
+     - 134
+     - 2 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
    * - Machoke
      - Fighting
      - Fighting
@@ -128,7 +156,7 @@ Cliff Cave
      - Metal Coat
      - 50%
      - Medium Fast
-     - Rockhead
-     - Sturdy
-     - Sheerforce
+     - Sandforce
+     - Sandforce
+     - 
 

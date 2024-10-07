@@ -61,6 +61,20 @@ Route 9 + Autl Woods
      - Thickfat
      - Hugepower
      - Sapsipper
+   * - Deerling
+     - Normal
+     - Grass
+     - 190
+     - 67
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Chlorophyll
+     - Sapsipper
+     - Serenegrace
    * - Shroomish
      - Grass
      - Grass
@@ -91,18 +105,18 @@ Route 9 + Autl Woods
      - Keeneye
    * - Audino
      - Normal
-     - Normal
+     - Fairy
      - 255
-     - 240
+     - 245
      - 2 HP
      - 
-     - Oran Berry
-     - Sitrus Berry
+     - 
+     - 
      - 50%
      - Fast
-     - Healer
-     - Regenerator
-     - Klutz
+     - Triage
+     - Triage
+     - 
 
 .. list-table:: Route 9 + Autl Woods - Swarm - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7

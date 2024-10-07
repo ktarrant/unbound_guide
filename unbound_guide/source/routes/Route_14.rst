@@ -65,7 +65,7 @@ Route 14
      - Water
      - Ground
      - 75
-     - 176
+     - 166
      - 2 HP
      - 
      - 
@@ -267,6 +267,39 @@ Route 14
      - Swiftswim
      - Waterabsorb
      - Waterveil
+
+.. list-table:: Route 14 - Special Encounter - Surf
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - Slowpoke
+     - Psychic
+     - Psychic
+     - 190
+     - 99
+     - 1 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Gluttony
+     - Owntempo
+     - Regenerator
 
 .. list-table:: Route 14 - Old Rod
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
@@ -709,18 +742,18 @@ Route 14
      - Pickpocket
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Corsola
      - Ghost
      - Ghost

@@ -61,6 +61,20 @@ Safari Zone
      - Synchronize
      - Earlybird
      - Magicbounce
+   * - Ho-Oh
+     - Dark
+     - Dark
+     - 255
+     - 69
+     - 1 Spe
+     - 
+     - 
+     - Quick Claw
+     - 50%
+     - Medium Fast
+     - Pickup
+     - Technician
+     - Rattled
    * - Plusle
      - Electric
      - Electric
@@ -234,6 +248,20 @@ Safari Zone
      - Synchronize
      - Earlybird
      - Magicbounce
+   * - Diglett
+     - Ground
+     - Steel
+     - 255
+     - 81
+     - 1 Spe
+     - 
+     - 
+     - Soft Sand
+     - 50%
+     - Medium Fast
+     - Sandforce
+     - Gooey
+     - Steelyspirit
    * - Spinda
      - Normal
      - Normal
@@ -477,6 +505,34 @@ Safari Zone
      - Dryskin
      - Sandveil
      - Solarpower
+   * - Muk
+     - Grass
+     - Psychic
+     - 90
+     - 98
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Chlorophyll
+     - 
+     - Harvest
+   * - Diglett
+     - Ground
+     - Steel
+     - 255
+     - 81
+     - 1 Spe
+     - 
+     - 
+     - Soft Sand
+     - 50%
+     - Medium Fast
+     - Sandforce
+     - Gooey
+     - Steelyspirit
    * - Golisopod
      - Bug
      - Water
@@ -622,6 +678,20 @@ Safari Zone
      - Shadowtag
      - 
      - Telepathy
+   * - Muk
+     - Grass
+     - Psychic
+     - 90
+     - 98
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Chlorophyll
+     - 
+     - Harvest
    * - Golisopod
      - Bug
      - Water
@@ -650,6 +720,20 @@ Safari Zone
      - Dryskin
      - Sandveil
      - Solarpower
+   * - Dugtrio
+     - Ground
+     - Steel
+     - 50
+     - 153
+     - 2 Att
+     - 
+     - 
+     - Soft Sand
+     - 50%
+     - Medium Fast
+     - Sandforce
+     - Gooey
+     - Steelyspirit
    * - Grovyle
      - Grass
      - Grass

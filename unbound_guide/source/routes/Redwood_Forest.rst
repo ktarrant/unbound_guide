@@ -194,7 +194,7 @@ Redwood Forest
      - Steadfast
    * - Pinsir
      - Bug
-     - Bug
+     - Flying
      - 45
      - 200
      - 2 Att
@@ -203,9 +203,9 @@ Redwood Forest
      - 
      - 50%
      - Slow
-     - Hypercutter
-     - Moldbreaker
-     - Moxie
+     - Aerilate
+     - Aerilate
+     - 
    * - Heracross
      - Bug
      - Fighting

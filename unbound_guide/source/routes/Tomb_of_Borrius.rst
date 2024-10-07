@@ -19,6 +19,76 @@ Tomb of Borrius
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown B
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - 
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
    * - Sigilyph
      - Psychic
      - Flying
@@ -52,6 +122,76 @@ Tomb of Borrius
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
    * - Sigilyph
      - Psychic
      - Flying
@@ -85,6 +225,76 @@ Tomb of Borrius
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
    * - Sigilyph
      - Psychic
      - Flying
@@ -118,6 +328,76 @@ Tomb of Borrius
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
    * - Sigilyph
      - Psychic
      - Flying
@@ -151,6 +431,76 @@ Tomb of Borrius
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
    * - Sigilyph
      - Psychic
      - Flying
@@ -184,6 +534,20 @@ Tomb of Borrius
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Unown
+     - Psychic
+     - Psychic
+     - 225
+     - 61
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Medium Fast
+     - Levitate
+     - 
+     - Adaptability
    * - Unown !
      - Psychic
      - Psychic
@@ -233,18 +597,18 @@ Tomb of Borrius
      - Hidden Ability
    * - Graveler
      - Rock
-     - Ground
+     - Electric
      - 120
      - 134
      - 2 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Shuckle
      - Bug
      - Rock

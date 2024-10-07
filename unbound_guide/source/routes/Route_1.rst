@@ -61,4 +61,18 @@ Route 1
      - Insomnia
      - Hustle
      - Prankster
+   * - Minior
+     - Rock
+     - Flying
+     - 30
+     - 132
+     - 1 Att
+     - 1 SpA
+     - 
+     - Star Piece
+     - N/A
+     - Medium Slow
+     - Shieldsdown
+     - 
+     - 
 

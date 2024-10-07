@@ -132,6 +132,39 @@ Route 4
      - Trace
      - Telepathy
 
+.. list-table:: Route 4 - Swarm - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - Burmy
+     - Bug
+     - Steel
+     - 3
+     - 255
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - N/A
+     - Slow
+     - Download
+     - 
+     - Analytic
+
 .. list-table:: Route 4 - Special Encounter - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
    :header-rows: 1

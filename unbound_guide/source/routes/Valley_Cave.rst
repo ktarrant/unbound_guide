@@ -230,6 +230,20 @@ Valley Cave
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Meowth
+     - Steel
+     - Steel
+     - 255
+     - 69
+     - 1 Att
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Pickup
+     - Toughclaws
+     - Unnerve
    * - Perrserker
      - Steel
      - Steel
@@ -481,18 +495,18 @@ Valley Cave
      - Hidden Ability
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Nosepass
      - Rock
      - Rock

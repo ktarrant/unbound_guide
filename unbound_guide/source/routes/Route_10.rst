@@ -183,6 +183,20 @@ Route 10
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Linoone
+     - Dark
+     - Normal
+     - 90
+     - 128
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Pickup
+     - Gluttony
+     - Quickfeet
    * - Obstagoon
      - Dark
      - Normal

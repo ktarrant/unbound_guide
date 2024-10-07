@@ -69,12 +69,12 @@ Ruins of Void
      - 1 Att
      - 1 Def
      - 
-     - Wide Lens
+     - 
      - 50%
      - Medium Slow
-     - Keeneye
-     - Stall
-     - Prankster
+     - Magicbounce
+     - Magicbounce
+     - 
    * - Bronzong
      - Steel
      - Psychic
@@ -228,12 +228,12 @@ Ruins of Void
      - 1 Att
      - 1 Def
      - 
-     - Wide Lens
+     - 
      - 50%
      - Medium Slow
-     - Keeneye
-     - Stall
-     - Prankster
+     - Magicbounce
+     - Magicbounce
+     - 
    * - Bronzong
      - Steel
      - Psychic
@@ -309,6 +309,20 @@ Ruins of Void
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Yamask
+     - Ground
+     - Ghost
+     - 190
+     - 61
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Wanderingspirit
+     - 
+     - 
    * - Runerigus
      - Ground
      - Ghost
@@ -686,18 +700,18 @@ Ruins of Void
      - Hidden Ability
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Baltoy
      - Ground
      - Psychic

@@ -90,19 +90,19 @@ Route 2
      - Keeneye
      - Tintedlens
    * - Rattata
-     - Normal
+     - Dark
      - Normal
      - 255
      - 57
      - 1 Spe
      - 
      - 
-     - Chilan Berry
+     - Pecha Berry
      - 50%
      - Medium Fast
-     - Strongjaw
-     - Guts
+     - Gluttony
      - Hustle
+     - Thickfat
    * - Electrike
      - Electric
      - Electric

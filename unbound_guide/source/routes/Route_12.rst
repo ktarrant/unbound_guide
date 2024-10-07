@@ -131,6 +131,34 @@ Route 12
      - Intimidate
      - Runaway
      - Strongjaw
+   * - Deerling
+     - Normal
+     - Grass
+     - 190
+     - 67
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Chlorophyll
+     - Sapsipper
+     - Serenegrace
+   * - Ho-Oh
+     - Fire
+     - Flying
+     - 120
+     - 134
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Flamebody
+     - 
+     - Galewings
    * - Noctowl
      - Normal
      - Flying
@@ -225,6 +253,20 @@ Route 12
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Ponyta
+     - Psychic
+     - Psychic
+     - 190
+     - 152
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Runaway
+     - Pastelveil
+     - Anticipation
    * - Applin
      - Grass
      - Dragon

@@ -47,6 +47,20 @@ Route 7
      - Tangledfeet
      - Earlybird
      - Reckless
+   * - Rattata
+     - Dark
+     - Normal
+     - 255
+     - 57
+     - 1 Spe
+     - 
+     - 
+     - Pecha Berry
+     - 50%
+     - Medium Fast
+     - Gluttony
+     - Hustle
+     - Thickfat
    * - Hoothoot
      - Normal
      - Flying
@@ -173,6 +187,20 @@ Route 7
      - Stakeout
      - Strongjaw
      - Adaptability
+   * - Raticate
+     - Dark
+     - Normal
+     - 127
+     - 116
+     - 2 Spe
+     - 
+     - 
+     - Pecha Berry
+     - 50%
+     - Medium Fast
+     - Gluttony
+     - Hustle
+     - Thickfat
 
 .. list-table:: Route 7 - Swarm - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
@@ -206,6 +234,53 @@ Route 7
      - Screencleaner
      - Insomnia
      - Icebody
+
+.. list-table:: Route 7 - Special Encounter - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - Indeedee
+     - Psychic
+     - Normal
+     - 30
+     - 166
+     - 2 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Fast
+     - Owntempo
+     - Synchronize
+     - Psychicsurge
+   * - Indeedee
+     - Psychic
+     - Normal
+     - 30
+     - 166
+     - 2 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Fast
+     - Owntempo
+     - Synchronize
+     - Psychicsurge
 
 .. list-table:: Route 7 - Surf
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7

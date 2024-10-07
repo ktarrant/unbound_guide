@@ -62,8 +62,8 @@ Route 18
      - Aftermath
      - Poisontouch
    * - Persian
-     - Normal
-     - Normal
+     - Dark
+     - Dark
      - 90
      - 148
      - 2 Spe
@@ -72,9 +72,9 @@ Route 18
      - Quick Claw
      - 50%
      - Medium Fast
-     - Limber
+     - Furcoat
      - Technician
-     - Sturdy
+     - Rattled
    * - Bouffalant
      - Normal
      - Normal
@@ -462,18 +462,18 @@ Route 18
      - Pickpocket
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Corsola
      - Ghost
      - Ghost

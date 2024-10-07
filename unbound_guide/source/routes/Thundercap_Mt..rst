@@ -755,6 +755,34 @@ Thundercap Mt.
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Geodude
+     - Rock
+     - Electric
+     - 255
+     - 86
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
+   * - Graveler
+     - Rock
+     - Electric
+     - 120
+     - 134
+     - 2 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
    * - Nosepass
      - Rock
      - Rock
@@ -816,6 +844,20 @@ Thundercap Mt.
      - Toughclaws
      - Sniper
      - Pickpocket
+   * - Geodude
+     - Rock
+     - Electric
+     - 255
+     - 86
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
    * - Corsola
      - Ghost
      - Ghost

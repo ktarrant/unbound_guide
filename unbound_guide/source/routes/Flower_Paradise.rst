@@ -19,6 +19,20 @@ Flower Paradise
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Flabebe
+     - Fairy
+     - Fairy
+     - 225
+     - 61
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Flowerveil
+     - Aromaveil
+     - Symbiosis
    * - Cutiefly
      - Bug
      - Fairy
@@ -34,13 +48,13 @@ Flower Paradise
      - Shielddust
      - Sweetveil
    * - Oricorio
-     - Fire
+     - Ghost
      - Flying
      - 45
      - 173
      - 2 SpA
      - 
-     - Red Nectar
+     - Purple Nectar
      - Honey
      - 75%
      - Medium Fast
@@ -80,6 +94,20 @@ Flower Paradise
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Flabebe
+     - Fairy
+     - Fairy
+     - 225
+     - 61
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Flowerveil
+     - Aromaveil
+     - Symbiosis
    * - Cutiefly
      - Bug
      - Fairy
@@ -95,13 +123,13 @@ Flower Paradise
      - Shielddust
      - Sweetveil
    * - Oricorio
-     - Fire
+     - Ghost
      - Flying
      - 45
      - 173
      - 2 SpA
      - 
-     - Red Nectar
+     - Purple Nectar
      - Honey
      - 75%
      - Medium Fast
@@ -169,6 +197,20 @@ Flower Paradise
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Flabebe
+     - Fairy
+     - Fairy
+     - 225
+     - 61
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Flowerveil
+     - Aromaveil
+     - Symbiosis
    * - Cutiefly
      - Bug
      - Fairy
@@ -230,6 +272,20 @@ Flower Paradise
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Flabebe
+     - Fairy
+     - Fairy
+     - 225
+     - 61
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Flowerveil
+     - Aromaveil
+     - Symbiosis
    * - Cutiefly
      - Bug
      - Fairy
@@ -245,13 +301,13 @@ Flower Paradise
      - Shielddust
      - Sweetveil
    * - Oricorio
-     - Fire
+     - Ghost
      - Flying
      - 45
      - 173
      - 2 SpA
      - 
-     - Red Nectar
+     - Purple Nectar
      - Honey
      - 75%
      - Medium Fast
@@ -319,6 +375,20 @@ Flower Paradise
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Flabebe
+     - Fairy
+     - Fairy
+     - 225
+     - 61
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Flowerveil
+     - Aromaveil
+     - Symbiosis
    * - Cutiefly
      - Bug
      - Fairy
@@ -334,13 +404,13 @@ Flower Paradise
      - Shielddust
      - Sweetveil
    * - Oricorio
-     - Fire
+     - Ghost
      - Flying
      - 45
      - 173
      - 2 SpA
      - 
-     - Red Nectar
+     - Purple Nectar
      - Honey
      - 75%
      - Medium Fast
@@ -380,6 +450,20 @@ Flower Paradise
      - Ability 1
      - Ability 2
      - Hidden Ability
+   * - Flabebe
+     - Fairy
+     - Fairy
+     - 225
+     - 61
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Flowerveil
+     - Aromaveil
+     - Symbiosis
    * - Cutiefly
      - Bug
      - Fairy
@@ -395,13 +479,13 @@ Flower Paradise
      - Shielddust
      - Sweetveil
    * - Oricorio
-     - Fire
+     - Ghost
      - Flying
      - 45
      - 173
      - 2 SpA
      - 
-     - Red Nectar
+     - Purple Nectar
      - Honey
      - 75%
      - Medium Fast

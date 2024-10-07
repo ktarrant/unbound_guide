@@ -133,23 +133,23 @@ Victory Road
      - Rawst Berry
      - 50%
      - Medium Fast
-     - Magmaarmor
-     - Filter
-     - Angerpoint
+     - Sheerforce
+     - Sheerforce
+     - 
    * - Graveler
      - Rock
-     - Ground
+     - Electric
      - 120
      - 134
      - 2 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Excadrill
      - Ground
      - Steel
@@ -253,6 +253,39 @@ Victory Road
      - Berserk
      - Sapsipper
      - Cloudnine
+
+.. list-table:: Victory Road - Special Encounter - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - Darmanitan
+     - Ice
+     - Ice
+     - 60
+     - 168
+     - 2 Att
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Gorillatactics
+     - 
+     - Zenmode
 
 .. list-table:: Victory Road - Maze Area - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
@@ -444,12 +477,12 @@ Victory Road
      - 1 Att
      - 1 SpA
      - 
-     - Never Melt Ice
+     - 
      - 50%
      - Slow
      - Snowwarning
      - 
-     - Soundproof
+     - 
    * - Glalie
      - Ice
      - Ice
@@ -461,9 +494,9 @@ Victory Road
      - Never Melt Ice
      - 50%
      - Medium Fast
-     - Innerfocus
-     - Icebody
-     - Moody
+     - Refrigerate
+     - Refrigerate
+     - 
    * - Vanillish
      - Ice
      - Ice
@@ -492,6 +525,20 @@ Victory Road
      - Snowcloak
      - Slushrush
      - Swiftswim
+   * - Minior
+     - Rock
+     - Flying
+     - 30
+     - 132
+     - 1 Att
+     - 1 SpA
+     - 
+     - Star Piece
+     - N/A
+     - Medium Slow
+     - Shieldsdown
+     - 
+     - 
 
 .. list-table:: Victory Road - 4F + Kyurem's Cave - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
@@ -592,9 +639,9 @@ Victory Road
      - Never Melt Ice
      - 50%
      - Medium Fast
-     - Innerfocus
-     - Icebody
-     - Moody
+     - Refrigerate
+     - Refrigerate
+     - 
    * - Piloswine
      - Ice
      - Ground

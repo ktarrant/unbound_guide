@@ -77,18 +77,18 @@ Cinder Volcano
      - Owntempo
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Drilbur
      - Ground
      - Ground
@@ -203,23 +203,23 @@ Cinder Volcano
      - Rawst Berry
      - 50%
      - Medium Fast
-     - Magmaarmor
-     - Filter
-     - Angerpoint
+     - Sheerforce
+     - Sheerforce
+     - 
    * - Graveler
      - Rock
-     - Ground
+     - Electric
      - 120
      - 134
      - 2 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Excadrill
      - Ground
      - Steel
@@ -282,19 +282,19 @@ Cinder Volcano
      - Ability 2
      - Hidden Ability
    * - Vulpix
-     - Fire
-     - Fire
+     - Ice
+     - Ice
      - 190
      - 63
      - 1 Spe
      - 
-     - Rawst Berry
-     - Charcoal
+     - 
+     - 
      - 75%
      - Medium Fast
-     - Flashfire
+     - Snowcloak
      - 
-     - Drought
+     - Snowwarning
 
 .. list-table:: Cinder Volcano - Special Encounter - Land
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
@@ -410,32 +410,32 @@ Cinder Volcano
      - Hidden Ability
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Graveler
      - Rock
-     - Ground
+     - Electric
      - 120
      - 134
      - 2 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Shuckle
      - Bug
      - Rock

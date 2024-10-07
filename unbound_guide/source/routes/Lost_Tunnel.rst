@@ -21,18 +21,18 @@ Lost Tunnel
      - Hidden Ability
    * - Graveler
      - Rock
-     - Ground
+     - Electric
      - 120
      - 134
      - 2 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Woobat
      - Psychic
      - Flying
@@ -63,7 +63,7 @@ Lost Tunnel
      - Heavymetal
    * - Diglett
      - Ground
-     - Ground
+     - Steel
      - 255
      - 81
      - 1 Spe
@@ -72,23 +72,23 @@ Lost Tunnel
      - Soft Sand
      - 50%
      - Medium Fast
-     - Sandveil
-     - Arenatrap
      - Sandforce
+     - Gooey
+     - Steelyspirit
    * - Dugtrio
      - Ground
-     - Ground
+     - Steel
      - 50
      - 153
-     - 2 Spe
+     - 2 Att
      - 
      - 
      - Soft Sand
      - 50%
      - Medium Fast
-     - Sandveil
-     - Arenatrap
      - Sandforce
+     - Gooey
+     - Steelyspirit
 
 .. list-table:: Lost Tunnel - Rock Smash
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
@@ -110,30 +110,30 @@ Lost Tunnel
      - Hidden Ability
    * - Geodude
      - Rock
-     - Ground
+     - Electric
      - 255
-     - 73
+     - 86
      - 1 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
    * - Graveler
      - Rock
-     - Ground
+     - Electric
      - 120
      - 134
      - 2 Def
      - 
      - 
-     - Everstone
+     - 
      - 50%
      - Medium Slow
-     - Rockhead
+     - Magnetpull
      - Sturdy
-     - Sandspit
+     - Galvanize
 

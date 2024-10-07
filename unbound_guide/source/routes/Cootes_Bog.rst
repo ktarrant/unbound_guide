@@ -165,6 +165,39 @@ Cootes Bog
      - 
      - Sheerforce
 
+.. list-table:: Cootes Bog - Special Encounter - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - Stunfisk
+     - Ground
+     - Steel
+     - 75
+     - 165
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Mimicry
+     - 
+     - 
+
 .. list-table:: Cootes Bog - Surf
    :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
    :header-rows: 1
@@ -215,7 +248,7 @@ Cootes Bog
      - Water
      - Ground
      - 75
-     - 176
+     - 166
      - 2 HP
      - 
      - 
