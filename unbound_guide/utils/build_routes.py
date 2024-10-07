@@ -78,10 +78,11 @@ if __name__ == "__main__":
     for route in routes_data:
         summary = summarize_location_data(routes_data[route])
         route_file_name = route.replace(" ", "_")
-        rst_path = os.path.join(routes_dir, f"{route_file_name}.rst")
+        rst_path = os.path.join(routes_dir, f"{route_file_name}_pokemon.rst")
         with open(rst_path, "w") as f:
-            f.write(route + "\n")
-            f.write("=" * len(route) + "\n\n")
+            title = route + " Wild Pokemon"
+            f.write(title + "\n")
+            f.write("-" * len(title) + "\n\n")
             for method in summary:
                 for area in summary[method]:
                     table = summary[method][area]
