@@ -11,13 +11,14 @@ clean_type = lambda type: key_to_name(type.replace("TYPE_", ""))
 clean_gender = lambda gender: f"{int(gender)}%" if isinstance(gender, float) else "N/A"
 
 
-def summarize_entry(entry):
+def summarize_entry(key, entry):
     evs = []
     for stat in ["HP", "Attack", "Defense", "SpAttack", "SpDefense", "Speed"]:
         value = entry[f"evYield_{stat}"]
         if value > 0:
             evs.append(f"{value} {stat[:3]}")
     summary = {
+        "key": key,
         "Name": entry["name"],
         "Type 1": "" if "NONE" in entry["type1"] else clean_type(entry['type1']),
         "Type 2": "" if "NONE" in entry["type2"] else clean_type(entry['type2']),
@@ -52,7 +53,7 @@ def summarize_location_data(location_data_entry):
                     continue
 
                 try:
-                    location_summary[clean_method][area].append(summarize_entry(pokedex_entry))
+                    location_summary[clean_method][area].append(summarize_entry(species, pokedex_entry))
                 except KeyError:
                     print(f"Species data imcomplete: {species}")
     return location_summary
@@ -95,7 +96,7 @@ def generate_routes():
                     else:
                         f.write(f".. list-table:: {route} - {method}\n")
 
-                    headers = list(table[0].keys())
+                    headers = [key for key in table[0].keys() if key is not "key"]
                     width = int(100 / len(headers))
                     width_list = ", ".join([str(width)] * len(headers))
 
@@ -104,11 +105,13 @@ def generate_routes():
 
                     write_row(headers, f)
                     for row in table:
+                        key = row.pop("key")
+                        # TODO: Add document link to Name
+                        row["Name"] = f":doc:`{row['Name']} </pokedex/{key}>`"
                         write_row(row.values(), f)
                     f.write("\n")
 
         route_toctree_list += "routes/" + route_file_name + "\n"
-
 
 
 if __name__ == "__main__":

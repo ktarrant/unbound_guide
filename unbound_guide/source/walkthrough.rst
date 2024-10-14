@@ -10,9 +10,8 @@ Pokemon Unbound Guide Walkthrough
    :maxdepth: 2
    :caption: Contents:
 
-   walkthrough/Route_1
-   walkthrough/Route_2
-   walkthrough/Route_3
+   walkthrough/Gym_1
+   walkthrough/Gym_2
    walkthrough/Route_4
    walkthrough/Route_5
    walkthrough/Route_6
@@ -27,7 +26,6 @@ Pokemon Unbound Guide Walkthrough
    walkthrough/Route_17
    walkthrough/Route_18
    walkthrough/Ice_Hole
-   walkthrough/Icicle_Cave
    walkthrough/Flower_Paradise
    walkthrough/Grim_Woods
    walkthrough/Cinder_Volcano

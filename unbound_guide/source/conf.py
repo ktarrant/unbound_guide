@@ -38,6 +38,7 @@ def _generate_pokedex(app):
 def _generate_routes(app):
     generate_routes()
 
+
 def setup(app):
     app.connect("builder-inited", _generate_pokedex)
     app.connect("builder-inited", _generate_routes)
