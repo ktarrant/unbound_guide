@@ -26,6 +26,15 @@ Valley Cave
 ===========
 Pretty straightforward, there is a Chansey to heal at the exit.
 
+Pokemon Spotlight: Gligar
+-------------------------
+Gligar is a good Pokemon Catcher, being able to learn False Swipe and Thief.
+Gligar also becomes Gliscor, which can be a very strong Pokemon.
+If you can get one with the hidden ability Poison Heal, you can use it
+in conjunction with a Toxic Orb to give Gliscor strong passive heal.
+Along with Roost, Gliscor can have strong sustain. It also can learn
+Swords Dance and Earthquake to make it a powerful sweeper.
+
 .. include:: /routes/Valley_Cave_pokemon.rst
 
 Route 6
@@ -58,3 +67,62 @@ Frost Mountain
 ==============
 
 .. include:: /routes/Frost_Mountain_pokemon.rst
+
+Blizzard City
+=============
+
+PokeMart
+--------
+The PokeMart sells TMs here:
+TM34 - Shock Wave
+TM39 - Rock Tomb
+TM55 - Brine
+TM63 - Venoshock
+TM78 - Low Sweep
+TM96 - Bulldoze
+TM88 - Pluck
+
+Electrode Trade
+---------------
+A little girl will give you an Electrode for an Onix.
+
+Pokemon Spotlight: Electrode
+----------------------------
+
+Setup Guy
+^^^^^^^^^
+- Ability: Aftermath
+    - Allows Electrode to cause some damage after it finishes
+      doing its setup.
+- Nature: Jolly or Timid
+    - Electrode needs as much as speed as possible to ensure
+      it has time to do at least one of its setup moves.
+- EVs: 252 HP, 4 Atk, 252 Spe
+- Moves:
+    - Reflect
+    - Light Screen
+    - Taunt
+    - Explosion / Volt Switch
+Item: Light Clay
+
+Electrode can use Taunt to prevent the enemy from using
+status moves to setup, and then can use Reflect and
+Light Screen to setup for your team's sweepers.
+Use Light Clay to extend the duration of Reflect and
+Light Screen to 8 turns.
+
+Rain Setter
+^^^^^^^^^^^
+- Ability: Soundproof
+- Nature: Timid
+- EVs: 252 HP, 4 Atk, 252 Spe
+- Moves:
+    - Rain Dance
+    - Taunt
+    - Thunder
+    - Explosion
+Item: Damp Rock
+
+Electrode can learn Rain Dance and Thunder making him
+a good setter for Rain teams. Use Damp Rock to extend
+the duration of Rain Dance to 8 turns.
