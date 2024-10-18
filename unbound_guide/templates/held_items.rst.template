@@ -1,0 +1,12 @@
+======================
+Held Items
+======================
+{% for held_item in held_items %}
+- {{ held_item }}
+    {% for entry in held_items[held_item] %}
+        - {{ entry.name }}
+        {% for location in entry.location %}
+            - {{ location.route }}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}

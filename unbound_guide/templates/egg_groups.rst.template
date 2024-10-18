@@ -1,0 +1,9 @@
+======================
+Egg Groups
+======================
+{% for egg_group in egg_groups %}
+- {{ egg_group }}
+    {% for species in egg_groups[egg_group] %}
+        - {{ species }}
+    {% endfor %}
+{% endfor %}
