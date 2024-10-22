@@ -1,9 +1,12 @@
 ======================
 Egg Groups
 ======================
+
 {% for egg_group in egg_groups %}
-- {{ egg_group }}
-    {% for species in egg_groups[egg_group] %}
-        - {{ species }}
-    {% endfor %}
+.. list-table:: {{ egg_group }}
+   :widths: {% for i in range(column_width) -%}25 {% endfor %}
+
+   {% for species in egg_groups[egg_group] -%}
+   {% if loop.index0 % column_width == 0 %}*{% else %} {% endif %} - {{ species }}
+   {% endfor %}
 {% endfor %}

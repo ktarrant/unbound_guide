@@ -1,6 +1,7 @@
 ======================
 Held Items
 ======================
+
 {% for held_item in held_items %}
 - {{ held_item }}
     {% for entry in held_items[held_item] %}

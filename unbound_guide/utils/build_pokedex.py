@@ -92,7 +92,7 @@ def generate_pokedex():
                 out_file.write(content)
 
     template = env.get_template("egg_groups.rst.template")
-    content = template.render(egg_groups=egg_groups)
+    content = template.render(egg_groups=egg_groups, column_width=4)
     egg_groups_out = os.path.join(source_dir, "appendix", "egg_groups.rst")
     with open(egg_groups_out, "w") as out_file:
         out_file.write(content)
