@@ -14,6 +14,8 @@ Battle with Zeph
 ================
 As soon as you head south from Crater Town, you will be ambushed.
 This ends up being kind of a tough battle, I decided to train up before it.
+Like the last enemy, they are very fast.
+So you may need to get someone beefy who can survive to land a return hit.
 Once you beat him, you will end up in the KBT Expressway and get Cut.
 
 Cut Locations
@@ -42,6 +44,8 @@ Route 6
 
 You will have an option to go south to see the shore of Auburn Waterway.
 Recommend ignore this for now.
+
+TM95 Struggle Bug is in between the ledges east of the Sun Trio.
 
 .. include:: /routes/Route_6_pokemon.rst
 
@@ -85,6 +89,7 @@ TM88 - Pluck
 Electrode Trade
 ---------------
 A little girl will give you an Electrode for an Onix.
+The Spotlight is below, but at this poin
 
 Pokemon Spotlight: Electrode
 ----------------------------
@@ -126,3 +131,18 @@ Item: Damp Rock
 Electrode can learn Rain Dance and Thunder making him
 a good setter for Rain teams. Use Damp Rock to extend
 the duration of Rain Dance to 8 turns.
+
+Gym 3: Fly Boy
+--------------
+Oh look, another speed freak.
+The gimmick of this gym is that Flying types are faster.
+Gligar is the big electricity counter, but he is 4x weak to ice.
+Someone also kindly gifts you Aurora Veil in Blizzard City.
+So my plan was:
+Use a Jynx to set up Aurora Veil, and give her Ice Punch too.
+Jynx - Ice Punch / Heart Stamp / Mean Look / Covet
+Clefable - Shock Wave? / Moonlight / Minimize / Stored Power
+Swanna - Defog / Air Slash / Brine / Roost
+Litleo - Incinerate / Endeavor / Round / Crunch
+Gabite - Sandstorm / Bite / Dual Chop / Rock Tomb
+Electrode - 

@@ -77,6 +77,12 @@ He comes with Keen Eye and Defog, and Aeriel Ace to boot which all
 counters the gym gimmick. Try to get one with high speed and
 special attack, where it excels.
 
+Gym 1: Stoner Gym
+-----------------
+I think this fight is generally easy.
+The game gives you a number of options to counter the gym gimmick.
+Your starter may know Sandstorm, or you can use the Ducklett to defog.
+
 Route 3
 =======
 

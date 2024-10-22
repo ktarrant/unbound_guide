@@ -107,3 +107,10 @@ Hidden Clefairy
 ---------------
 Behind the bookshelf
 Bold - HP/Def - Magic Guard (2nd ability)
+
+Gym 2: Dark Gym
+---------------
+Since I am playing on Expert I can afford to cheese this with Clefairy.
+The biggest issue here is that the enemy team is very fast,
+so you have to be able to afford to take a hit or two.
+EV training for Health can make a huge difference to help create a staller.
