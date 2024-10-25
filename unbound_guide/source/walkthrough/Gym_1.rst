@@ -12,7 +12,26 @@ Water, Ground, Rock, Ice, Dragon, and Dark will be vulnerable.
 Route 1
 =======
 
+Pokemon Spotlight: Vanillite
+----------------------------
+Vanillite is your only access to Hail in the early game.
+A Snow Clock Vanillite will gain Snow Warning once it evolves,
+which is very useful for setup.
+A Weak Armor (hidden ability) Vanillite may be more useful
+in the early game since it won't evolve for three gyms,
+and if using it for setup then the extra speed second turn
+could be powerful.
+Once you get to Blizzard Town you get Aurora Veil, which
+will be your main setup tool.
+
 .. include:: /routes/Route_1_pokemon.rst
+
+Bellin Town
+===========
+
+Free Skorupi
+------------
+You want Jolly, Spe/Atk
 
 Icicle Cave
 ===========
@@ -58,6 +77,10 @@ Pokemon Spotlight: Litleo
 This pokemon is very useful for the first gym.
 The first gym is a double battle, and Incinerate hits both enemies.
 Try to get one with high Special Attack and Speed.
+
+Pokemon Spotlight: Pikipek
+--------------------------
+Evolves to Toucannon. Useful for Gym 3.
 
 .. include:: /routes/Route_2_pokemon.rst
 

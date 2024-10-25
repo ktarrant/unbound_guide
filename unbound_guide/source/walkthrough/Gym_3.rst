@@ -91,6 +91,12 @@ Electrode Trade
 A little girl will give you an Electrode for an Onix.
 The Spotlight is below, but at this poin
 
+Aurora Veil
+-----------
+Someone in town will gift you Aurora Veil.
+It's hard to get Hail at this point, the best way
+that I can see is with a Vanillite.
+
 Pokemon Spotlight: Electrode
 ----------------------------
 
@@ -138,11 +144,23 @@ Oh look, another speed freak.
 The gimmick of this gym is that Flying types are faster.
 Gligar is the big electricity counter, but he is 4x weak to ice.
 Someone also kindly gifts you Aurora Veil in Blizzard City.
+However, Pinsir's brick break counters it easily.
+The Minior sets up Stealth Rock.
+The Mega Pinsir can deal fighting hits that counter Steel and Normal.
+The Gliscor may the toughest, immune to Electricity,
+and STAB Bulldozer hits hard.
+Gliscor also has huge Defense, so Special Attackers are better.
+
 So my plan was:
-Use a Jynx to set up Aurora Veil, and give her Ice Punch too.
-Jynx - Ice Punch / Heart Stamp / Mean Look / Covet
 Clefable - Shock Wave? / Moonlight / Minimize / Stored Power
 Swanna - Defog / Air Slash / Brine / Roost
-Litleo - Incinerate / Endeavor / Round / Crunch
-Gabite - Sandstorm / Bite / Dual Chop / Rock Tomb
-Electrode - 
+Electrode - Thunder Wave? / Shock Wave /
+Toucannon - Beak Blast
+Torkoal - Lava Plume
+Gyrados -
+Minior? Oricoco-Pom Pom?
+
+Personal notes:
+Pikipek - Route 2 (20% only during day)
+Magikarp - Route 2-7 with Old Rod (cannot DexNav without Surf)
+Torkoal - Cinder Volcano 1F - 4F
