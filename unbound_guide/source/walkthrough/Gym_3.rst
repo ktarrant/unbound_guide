@@ -8,7 +8,12 @@ The third gym is in Blizzard City and uses Flying types.
 More importantly, in Blizzard City you can get the DexNav.
 The DexNav is critical for getting strong Pokemon.
 Once you have the DexNav, it's recommended to go to Route 7
-and catch a bunch of Abra.
+and catch a bunch of Abra to use for Synchronize.
+From there you can start using the DexNav with a Sync pokemon
+to get strong Wild Pokemon with the correct nature.
+Getting a Torkoal or two to train up on the journey to Blizzard
+Town will also be very useful since he can tank the attacks of
+the fast Flying types in the Blizzard Gym.
 
 Battle with Zeph
 ================
@@ -151,16 +156,6 @@ The Gliscor may the toughest, immune to Electricity,
 and STAB Bulldozer hits hard.
 Gliscor also has huge Defense, so Special Attackers are better.
 
-So my plan was:
-Clefable - Shock Wave? / Moonlight / Minimize / Stored Power
-Swanna - Defog / Air Slash / Brine / Roost
-Electrode - Thunder Wave? / Shock Wave /
-Toucannon - Beak Blast
-Torkoal - Lava Plume
-Gyrados -
-Minior? Oricoco-Pom Pom?
-
-Personal notes:
-Pikipek - Route 2 (20% only during day)
-Magikarp - Route 2-7 with Old Rod (cannot DexNav without Surf)
-Torkoal - Cinder Volcano 1F - 4F
+Ultimately a beat this gym by using two Torkoal, Clefable,
+Swanna, Electrode, and Gabite with Eviolite.
+The Torkoal and Clefable were absolutely critical.

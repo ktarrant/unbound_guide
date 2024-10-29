@@ -37,6 +37,12 @@ your Sync pokemon.
 Cinder Volcano
 ==============
 
+Pokemon Spotlight: Torkoal
+--------------------------
+Torkoal can be very useful for when the third gym comes around.
+He learns Lava Plume early, which is strong and can set the opponent
+on fire. Get a Bold one and focus on HP and Defense.
+
 .. include:: /routes/Cinder_Volcano_pokemon.rst
 
 
