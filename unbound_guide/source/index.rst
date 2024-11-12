@@ -10,7 +10,10 @@ Pokemon Unbound Guide documentation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :glob:
 
    foreward
-   walkthrough
+   breeding
+   utility
+   walkthrough/*
    appendix
