@@ -54,6 +54,16 @@ and come back to get the trainers and items I missed.
 There are some useful things in Crater Town that you'll want
 while you are training.
 
+Pokemon Spotlight: Venonat
+--------------------------
+Venonat is the first Pokemon you can catch with the
+ability Compound Eyes. It can be caught on Route 5.
+Compound Eyes works outside of battle.
+If the first Pokemon in your party has Compound Eyes
+ability, then the chance of a wild Pokemon to have a held
+item increases.
+Venonat can also learn Thief, making it a great item farmer.
+
 Free Unova Starter
 ------------------
 A woman will give you a free Unova starter.
