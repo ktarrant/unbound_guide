@@ -1,0 +1,309 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 65
+    - Attack: 50
+    - Defense: 35
+    - Special Attack: 115
+    - Special Defense: 95
+    - Speed: 95
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 137
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Oblivious
+    - Ability 2: Dryskin
+    - Hidden Ability: Icescales
+
+**Evolution:**
+    - Evolves from: SMOOCHUM
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Aspear Berry
+    - Held Item 2: Aspear Berry
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Focusblast
+
+    - Energyball
+
+    - Endure
+
+    - Drainpunch
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Poweruppunch
+
+    - Psyshock
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Auroraveil
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Healbell
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Hypervoice
+
+    - Psychup
+
+    - Confide
+
+    - Encore
+
+    - Faketears
+
+    - Nastyplot
+
+    - Psychicterrain
+
+    - Iciclespear
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Psychocut
+
+    - Expandingforce
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

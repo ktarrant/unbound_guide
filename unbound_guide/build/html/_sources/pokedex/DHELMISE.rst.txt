@@ -1,0 +1,253 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 131
+    - Defense: 100
+    - Special Attack: 86
+    - Special Defense: 90
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_GHOST
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 207
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Steelworker
+    - Ability 2: None
+    - Hidden Ability: Aftermath
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Thief
+
+    - Energyball
+
+    - Brine
+
+    - Endure
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Gyroball
+
+    - Swordsdance
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Sludgewave
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Block
+
+    - Spite
+
+    - Synthesis
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Ironhead
+
+    - Painsplit
+
+    - Liquidation
+
+    - Knockoff
+
+    - Confide
+
+    - Whirlpool
+
+    - Bodypress
+
+    - Heavyslam
+
+    - Hex
+
+    - Muddywater
+
+    - Phantomforce
+
+    - Hydropump
+
+    - Powerwhip
+
+    - Solarblade
+
+    - Poltergeist
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

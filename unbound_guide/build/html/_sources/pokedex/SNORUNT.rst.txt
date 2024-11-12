@@ -1,0 +1,181 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 50
+    - Defense: 50
+    - Special Attack: 50
+    - Special Defense: 50
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 74
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Innerfocus
+    - Ability 2: Icebody
+    - Hidden Ability: Moody
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Snowball
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Flash
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Spite
+
+    - Icywind
+
+    - Confide
+
+    - Faketears
+
+    - Spikes
+
+    - Icefang
+
+    - Bodyslam
+
+    - Hex
+
+    - Weatherball
+
+    - Crunch
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

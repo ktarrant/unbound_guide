@@ -1,0 +1,243 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 118
+    - Defense: 90
+    - Special Attack: 70
+    - Special Defense: 80
+    - Speed: 42
+
+**Types:**
+    - Primary Type: TYPE_FIGHTING
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 168
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Limber
+    - Ability 2: None
+    - Hidden Ability: Technician
+
+**Evolution:**
+    - Evolves from: CLOBBOPUS
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Brine
+
+    - Endure
+
+    - Drainpunch
+
+    - Payback
+
+    - Gigaimpact
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Poweruppunch
+
+    - Brutalswing
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Bind
+
+    - Painsplit
+
+    - Liquidation
+
+    - Stompingtantrum
+
+    - Dualchop
+
+    - Superpower
+
+    - Knockoff
+
+    - Confide
+
+    - Scaryface
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Reversal
+
+    - Muddywater
+
+    - Closecombat
+
+    - Hydropump
+
+    - Skittersmack
+
+    - Coaching
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

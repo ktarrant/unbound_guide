@@ -1,0 +1,221 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 45
+    - Defense: 80
+    - Special Attack: 90
+    - Special Defense: 100
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 128
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Raindish
+    - Ability 2: Effectspore
+    - Hidden Ability: Magicbounce
+
+**Evolution:**
+    - Evolves from: MORELULL
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Big Mushroom
+    - Held Item 2: Tiny Mushroom
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Silverwind
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Worryseed
+
+    - Afteryou
+
+    - Synthesis
+
+    - Signalbeam
+
+    - Seedbomb
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Confide
+
+    - Weatherball
+
+    - Pollenpuff
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

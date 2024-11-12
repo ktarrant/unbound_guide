@@ -1,0 +1,166 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 52
+    - Attack: 57
+    - Defense: 75
+    - Special Attack: 35
+    - Special Defense: 50
+    - Speed: 46
+
+**Types:**
+    - Primary Type: TYPE_GROUND
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 63
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Sandspit
+    - Ability 2: Shedskin
+    - Hidden Ability: Sandveil
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - SANDACONDA
+            - Method: EVO_LEVEL
+            - Condition: 36
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Drillrun
+
+    - Earthpower
+
+    - Confide
+
+    - Screech
+
+    - Sandtomb
+
+    - Scaleshot
+
+    - Skittersmack
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

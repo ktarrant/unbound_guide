@@ -1,0 +1,235 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 95
+    - Attack: 60
+    - Defense: 79
+    - Special Attack: 100
+    - Special Defense: 125
+    - Speed: 81
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 154
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_ERRATIC
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Marvelscale
+    - Ability 2: Competitive
+    - Hidden Ability: Multiscale
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Brine
+
+    - Endure
+
+    - Dragonpulse
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Helpinghand
+
+    - Ironhead
+
+    - Aquatail
+
+    - Icywind
+
+    - Laserfocus
+
+    - Magiccoat
+
+    - Psychup
+
+    - Confide
+
+    - Dragondance
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Breakingswipe
+
+    - Weatherball
+
+    - Muddywater
+
+    - Hydropump
+
+    - Scaleshot
+
+    - Skittersmack
+
+    - Flipturn
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

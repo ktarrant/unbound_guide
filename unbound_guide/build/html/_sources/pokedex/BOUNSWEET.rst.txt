@@ -1,0 +1,186 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 42
+    - Attack: 30
+    - Defense: 38
+    - Special Attack: 30
+    - Special Defense: 38
+    - Speed: 32
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 235
+    - Experience Yield: 52
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Leafguard
+    - Ability 2: Oblivious
+    - Hidden Ability: Sweetveil
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - STEENEE
+            - Method: EVO_LEVEL
+            - Condition: 18
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Grassy Seed
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Covet
+
+    - Synthesis
+
+    - Bounce
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Confide
+
+    - Playrough
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

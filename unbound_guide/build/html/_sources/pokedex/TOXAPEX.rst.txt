@@ -1,0 +1,229 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 63
+    - Defense: 152
+    - Special Attack: 53
+    - Special Defense: 142
+    - Speed: 35
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 203
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Water 1
+
+**Abilities:**
+    - Ability 1: Merciless
+    - Ability 2: Limber
+    - Hidden Ability: Regenerator
+
+**Evolution:**
+    - Evolves from: MAREANIE
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Poison Barb
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Brine
+
+    - Endure
+
+    - Venoshock
+
+    - Payback
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Infestation
+
+    - Sludgewave
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Covet
+
+    - Snatch
+
+    - Spite
+
+    - Afteryou
+
+    - Irondefense
+
+    - Painsplit
+
+    - Icywind
+
+    - Magiccoat
+
+    - Liquidation
+
+    - Gastroacid
+
+    - Gunkshot
+
+    - Knockoff
+
+    - Confide
+
+    - Venomdrench
+
+    - Toxicspikes
+
+    - Pinmissile
+
+    - Hex
+
+    - Crosspoison
+
+    - Muddywater
+
+    - Hydropump
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

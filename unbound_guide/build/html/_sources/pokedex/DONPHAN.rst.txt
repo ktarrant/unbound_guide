@@ -1,0 +1,245 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 120
+    - Defense: 120
+    - Special Attack: 60
+    - Special Defense: 60
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_GROUND
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 189
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Sturdy
+    - Ability 2: None
+    - Hidden Ability: Sandveil
+
+**Evolution:**
+    - Evolves from: PHANPY
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Passho Berry
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Irondefense
+
+    - Bounce
+
+    - Endeavor
+
+    - Seedbomb
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Gunkshot
+
+    - Hypervoice
+
+    - Superpower
+
+    - Knockoff
+
+    - Lastresort
+
+    - Confide
+
+    - Focusenergy
+
+    - Encore
+
+    - Scaryface
+
+    - Sandtomb
+
+    - Thunderfang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heavyslam
+
+    - Highhorsepower
+
+    - Playrough
+
+    - Powerwhip
+
+    - Poltergeist
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

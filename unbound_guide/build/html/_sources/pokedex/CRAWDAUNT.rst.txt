@@ -1,0 +1,279 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 63
+    - Attack: 120
+    - Defense: 85
+    - Special Attack: 90
+    - Special Defense: 55
+    - Speed: 55
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 155
+    - Experience Yield: 161
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_FLUCTUATING
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Water 3
+
+**Abilities:**
+    - Ability 1: Hypercutter
+    - Ability 2: Shellarmor
+    - Hidden Ability: Adaptability
+
+**Evolution:**
+    - Evolves from: CORPHISH
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Payback
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Swordsdance
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Sludgewave
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Spite
+
+    - Irondefense
+
+    - Endeavor
+
+    - Icywind
+
+    - Liquidation
+
+    - Superpower
+
+    - Knockoff
+
+    - Confide
+
+    - Dragondance
+
+    - Nastyplot
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Razorshell
+
+    - Crunch
+
+    - Muddywater
+
+    - Closecombat
+
+    - Hydropump
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,269 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 52
+    - Defense: 168
+    - Special Attack: 47
+    - Special Defense: 138
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 199
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 30
+    - Growth Rate: GROWTH_ERRATIC
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Monster
+
+**Abilities:**
+    - Ability 1: Sturdy
+    - Ability 2: Soundproof
+    - Hidden Ability: Dauntlessshield
+
+**Evolution:**
+    - Evolves from: SHIELDON
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Avalanche
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Magiccoat
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Scaryface
+
+    - Rockblast
+
+    - Bodyslam
+
+    - Heavyslam
+
+    - Poltergeist
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

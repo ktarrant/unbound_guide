@@ -1,0 +1,336 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 65
+    - Attack: 130
+    - Defense: 60
+    - Special Attack: 75
+    - Special Defense: 60
+    - Speed: 75
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 30
+    - Experience Yield: 174
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Pressure
+    - Ability 2: Superluck
+    - Hidden Ability: Justified
+
+**Evolution:**
+    - Evolves from: ABSOL_MEGA
+    - Evolves to:
+
+        - ABSOL_MEGA
+            - Method: EVO_MEGA
+            - Condition: Absolite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Life Orb
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Willowisp
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Stoneedge
+
+    - Thunderwave
+
+    - Swordsdance
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Brutalswing
+
+    - Snarl
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Snatch
+
+    - Spite
+
+    - Bounce
+
+    - Roleplay
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Magiccoat
+
+    - Foulplay
+
+    - Throatchop
+
+    - Superpower
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Bodyslam
+
+    - Hex
+
+    - Airslash
+
+    - Playrough
+
+    - Psychocut
+
+    - Closecombat
+
+    - Megahorn
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

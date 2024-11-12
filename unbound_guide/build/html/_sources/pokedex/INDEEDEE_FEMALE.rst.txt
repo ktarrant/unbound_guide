@@ -1,0 +1,237 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 55
+    - Defense: 65
+    - Special Attack: 95
+    - Special Defense: 105
+    - Speed: 85
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 30
+    - Experience Yield: 166
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Owntempo
+    - Ability 2: Synchronize
+    - Hidden Ability: Psychicsurge
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Lightscreen
+
+    - Protect
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Recycle
+
+    - Flash
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Naturepower
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Covet
+
+    - Afteryou
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magicroom
+
+    - Hypervoice
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Encore
+
+    - Psychicterrain
+
+    - Storedpower
+
+    - Mysticalfire
+
+    - Playrough
+
+    - Expandingforce
+
+    - Terrainpulse
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

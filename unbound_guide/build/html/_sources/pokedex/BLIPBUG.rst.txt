@@ -1,0 +1,64 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 25
+    - Attack: 20
+    - Defense: 20
+    - Special Attack: 25
+    - Special Defense: 45
+    - Speed: 45
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_BUG
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 36
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Swarm
+    - Ability 2: Compoundeyes
+    - Hidden Ability: Telepathy
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - DOTTLER
+            - Method: EVO_LEVEL
+            - Condition: 10
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Strugglebug
+
+    - Infestation
+
+
+**Tutor Moves:**
+
+    - Confide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 

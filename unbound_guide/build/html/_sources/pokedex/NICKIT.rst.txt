@@ -1,0 +1,186 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 28
+    - Defense: 28
+    - Special Attack: 47
+    - Special Defense: 52
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 49
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Technician
+    - Ability 2: Unburden
+    - Hidden Ability: Stakeout
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - THIEVUL
+            - Method: EVO_LEVEL
+            - Condition: 18
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Honeclaws
+
+    - Endure
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Cut
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Covet
+
+    - Snatch
+
+    - Foulplay
+
+    - Knockoff
+
+    - Confide
+
+    - Batonpass
+
+    - Screech
+
+    - Faketears
+
+    - Agility
+
+    - Nastyplot
+
+    - Tailslap
+
+    - Playrough
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

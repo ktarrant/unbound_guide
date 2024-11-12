@@ -1,0 +1,287 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 100
+    - Defense: 135
+    - Special Attack: 65
+    - Special Defense: 135
+    - Speed: 45
+
+**Types:**
+    - Primary Type: TYPE_GHOST
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Amorphous
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Pressure
+    - Ability 2: None
+    - Hidden Ability: Ironfist
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Spell Tag
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Leechfang
+
+    - Focusblast
+
+    - Chargebeam
+
+    - Endure
+
+    - Willowisp
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Infestation
+
+    - Poweruppunch
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Bind
+
+    - Helpinghand
+
+    - Snatch
+
+    - Spite
+
+    - Gravity
+
+    - Telekinesis
+
+    - Painsplit
+
+    - Icywind
+
+    - Laserfocus
+
+    - Trick
+
+    - Wonderroom
+
+    - Psychup
+
+    - Confide
+
+    - Bodyslam
+
+    - Hex
+
+    - Darkestlariat
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

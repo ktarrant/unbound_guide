@@ -1,0 +1,237 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 109
+    - Attack: 81
+    - Defense: 99
+    - Special Attack: 66
+    - Special Defense: 84
+    - Speed: 32
+
+**Types:**
+    - Primary Type: TYPE_GROUND
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 165
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Mimicry
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Sludgebomb
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Payback
+
+    - Flash
+
+    - Stoneedge
+
+    - Thunderwave
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Infestation
+
+    - Sludgewave
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Surf
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Bind
+
+    - Spite
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Bounce
+
+    - Aquatail
+
+    - Painsplit
+
+    - Endeavor
+
+    - Foulplay
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Confide
+
+    - Screech
+
+    - Icefang
+
+    - Crunch
+
+    - Muddywater
+
+    - Terrainpulse
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

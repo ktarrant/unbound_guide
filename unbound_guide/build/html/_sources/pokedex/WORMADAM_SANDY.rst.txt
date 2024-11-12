@@ -1,0 +1,231 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 79
+    - Defense: 105
+    - Special Attack: 59
+    - Special Defense: 85
+    - Speed: 36
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 148
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Technician
+    - Ability 2: None
+    - Hidden Ability: Overcoat
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Silver Powder
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Endure
+
+    - Silverwind
+
+    - Venoshock
+
+    - Gigaimpact
+
+    - Flash
+
+    - Stealthrock
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Strugglebug
+
+    - Bulldoze
+
+    - Infestation
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Electroweb
+
+    - Uproar
+
+    - Bugbite
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Endeavor
+
+    - Earthpower
+
+    - Psychup
+
+    - Confide
+
+    - Rockblast
+
+    - Bugbuzz
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

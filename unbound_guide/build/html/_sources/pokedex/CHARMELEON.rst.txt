@@ -1,0 +1,262 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 58
+    - Attack: 64
+    - Defense: 58
+    - Special Attack: 80
+    - Special Defense: 65
+    - Speed: 80
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 142
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Blaze
+    - Ability 2: None
+    - Hidden Ability: Solarpower
+
+**Evolution:**
+    - Evolves from: CHARMANDER
+    - Evolves to:
+
+        - CHARIZARD
+            - Method: EVO_LEVEL
+            - Condition: 36
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Dragonclaw
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Dragonpulse
+
+    - Willowisp
+
+    - Shadowclaw
+
+    - Swordsdance
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Workup
+
+    - Poweruppunch
+
+    - Acrobatics
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Helpinghand
+
+    - Outrage
+
+    - Heatwave
+
+    - Confide
+
+    - Firepledge
+
+    - Scaryface
+
+    - Dragondance
+
+    - Firespin
+
+    - Firefang
+
+    - Bodyslam
+
+    - Weatherball
+
+    - Crunch
+
+    - Flareblitz
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

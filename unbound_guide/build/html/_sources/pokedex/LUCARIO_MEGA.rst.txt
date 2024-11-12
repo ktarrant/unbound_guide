@@ -1,0 +1,312 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 145
+    - Defense: 88
+    - Special Attack: 140
+    - Special Defense: 70
+    - Speed: 112
+
+**Types:**
+    - Primary Type: TYPE_FIGHTING
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 204
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Adaptability
+    - Ability 2: Adaptability
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: LUCARIO
+    - Evolves to:
+
+        - LUCARIO
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Honeclaws
+
+    - Endure
+
+    - Dragonpulse
+
+    - Drainpunch
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Swordsdance
+
+    - Lowsweep
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Helpinghand
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Roleplay
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Dualchop
+
+    - Vacuumwave
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Scaryface
+
+    - Agility
+
+    - Nastyplot
+
+    - Reversal
+
+    - Aurasphere
+
+    - Blazekick
+
+    - Crunch
+
+    - Closecombat
+
+    - Terrainpulse
+
+    - Coaching
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,267 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 75
+    - Attack: 103
+    - Defense: 80
+    - Special Attack: 70
+    - Special Defense: 80
+    - Speed: 92
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 186
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Swarm
+    - Ability 2: Chlorophyll
+    - Hidden Ability: Overcoat
+
+**Evolution:**
+    - Evolves from: SWADLOON
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Mental Herb
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Steelwing
+
+    - Energyball
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Silverwind
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Swordsdance
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Strugglebug
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Electroweb
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Bugbite
+
+    - Synthesis
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Seedbomb
+
+    - Laserfocus
+
+    - Magiccoat
+
+    - Throatchop
+
+    - Knockoff
+
+    - Confide
+
+    - Batonpass
+
+    - Screech
+
+    - Agility
+
+    - Grassyterrain
+
+    - Airslash
+
+    - Bugbuzz
+
+    - Leafblade
+
+    - Leafstorm
+
+    - Grassyglide
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

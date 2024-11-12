@@ -1,0 +1,779 @@
+Safari Zone Wild Pokemon
+------------------------
+
+.. list-table:: Safari Zone - Easy - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Skitty </pokedex/SKITTY>`
+     - Normal
+     - Normal
+     - 255
+     - 65
+     - 1 Spe
+     - 
+     - Pecha Berry
+     - Leppa Berry
+     - 75%
+     - Fast
+     - Cutecharm
+     - Normalize
+     - Wonderskin
+   * - :doc:`Rhyhorn </pokedex/RHYHORN>`
+     - Ground
+     - Rock
+     - 120
+     - 135
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Lightningrod
+     - Rockhead
+     - Reckless
+   * - :doc:`Natu </pokedex/NATU>`
+     - Psychic
+     - Flying
+     - 190
+     - 73
+     - 1 SpA
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Synchronize
+     - Earlybird
+     - Magicbounce
+   * - :doc:`Ho-Oh </pokedex/MEOWTH_A>`
+     - Dark
+     - Dark
+     - 255
+     - 69
+     - 1 Spe
+     - 
+     - 
+     - Quick Claw
+     - 50%
+     - Medium Fast
+     - Pickup
+     - Technician
+     - Rattled
+   * - :doc:`Plusle </pokedex/PLUSLE>`
+     - Electric
+     - Electric
+     - 200
+     - 120
+     - 1 Spe
+     - 
+     - 
+     - Cell Battery
+     - 50%
+     - Medium Fast
+     - Plus
+     - Lightningrod
+     - Electricsurge
+   * - :doc:`Minun </pokedex/MINUN>`
+     - Electric
+     - Electric
+     - 200
+     - 120
+     - 1 Spe
+     - 
+     - 
+     - Cell Battery
+     - 50%
+     - Medium Fast
+     - Minus
+     - Voltabsorb
+     - Electricsurge
+   * - :doc:`Bounsweet </pokedex/BOUNSWEET>`
+     - Grass
+     - Grass
+     - 235
+     - 52
+     - 1 HP
+     - 
+     - 
+     - Grassy Seed
+     - 100%
+     - Medium Slow
+     - Leafguard
+     - Oblivious
+     - Sweetveil
+   * - :doc:`Blitzle </pokedex/BLITZLE>`
+     - Electric
+     - Electric
+     - 190
+     - 99
+     - 1 Spe
+     - 
+     - Cheri Berry
+     - 
+     - 50%
+     - Medium Fast
+     - Moxie
+     - Motordrive
+     - Sapsipper
+   * - :doc:`Helioptile </pokedex/HELIOPTILE>`
+     - Electric
+     - Normal
+     - 190
+     - 58
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Dryskin
+     - Sandveil
+     - Solarpower
+   * - :doc:`Treecko </pokedex/TREECKO>`
+     - Grass
+     - Grass
+     - 45
+     - 65
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Overgrow
+     - 
+     - Unburden
+   * - :doc:`Torchic </pokedex/TORCHIC>`
+     - Fire
+     - Fire
+     - 45
+     - 65
+     - 1 SpA
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Blaze
+     - 
+     - Speedboost
+   * - :doc:`Mudkip </pokedex/MUDKIP>`
+     - Water
+     - Water
+     - 45
+     - 65
+     - 1 Att
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Torrent
+     - 
+     - Damp
+
+.. list-table:: Safari Zone - Medium - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Steenee </pokedex/STEENEE>`
+     - Grass
+     - Grass
+     - 120
+     - 132
+     - 2 Spe
+     - 
+     - 
+     - Grassy Seed
+     - 100%
+     - Medium Slow
+     - Leafguard
+     - Oblivious
+     - Sweetveil
+   * - :doc:`Zebstrika </pokedex/ZEBSTRIKA>`
+     - Electric
+     - Electric
+     - 75
+     - 164
+     - 2 Spe
+     - 
+     - Cheri Berry
+     - 
+     - 50%
+     - Medium Fast
+     - Moxie
+     - Motordrive
+     - Sapsipper
+   * - :doc:`Xatu </pokedex/XATU>`
+     - Psychic
+     - Flying
+     - 75
+     - 171
+     - 1 SpA
+     - 1 Spe
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Synchronize
+     - Earlybird
+     - Magicbounce
+   * - :doc:`Diglett </pokedex/DIGLETT_A>`
+     - Ground
+     - Steel
+     - 255
+     - 81
+     - 1 Spe
+     - 
+     - 
+     - Soft Sand
+     - 50%
+     - Medium Fast
+     - Sandforce
+     - Gooey
+     - Steelyspirit
+   * - :doc:`Spinda </pokedex/SPINDA>`
+     - Normal
+     - Normal
+     - 255
+     - 85
+     - 1 SpA
+     - 
+     - 
+     - Chesto Berry
+     - 50%
+     - Fast
+     - Owntempo
+     - Hugepower
+     - Contrary
+   * - :doc:`Wobbuffet </pokedex/WOBBUFFET>`
+     - Psychic
+     - Psychic
+     - 45
+     - 177
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Shadowtag
+     - 
+     - Telepathy
+   * - :doc:`Tauros </pokedex/TAUROS>`
+     - Normal
+     - Normal
+     - 45
+     - 211
+     - 1 Att
+     - 1 Spe
+     - 
+     - 
+     - 0%
+     - Slow
+     - Intimidate
+     - Angerpoint
+     - Sheerforce
+   * - :doc:`Rhyhorn </pokedex/RHYHORN>`
+     - Ground
+     - Rock
+     - 120
+     - 135
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Lightningrod
+     - Rockhead
+     - Reckless
+   * - :doc:`Helioptile </pokedex/HELIOPTILE>`
+     - Electric
+     - Normal
+     - 190
+     - 58
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Dryskin
+     - Sandveil
+     - Solarpower
+   * - :doc:`Kangaskhan </pokedex/KANGASKHAN>`
+     - Normal
+     - Normal
+     - 45
+     - 175
+     - 2 HP
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Earlybird
+     - Scrappy
+     - Innerfocus
+   * - :doc:`Treecko </pokedex/TREECKO>`
+     - Grass
+     - Grass
+     - 45
+     - 65
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Overgrow
+     - 
+     - Unburden
+   * - :doc:`Torchic </pokedex/TORCHIC>`
+     - Fire
+     - Fire
+     - 45
+     - 65
+     - 1 SpA
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Blaze
+     - 
+     - Speedboost
+   * - :doc:`Mudkip </pokedex/MUDKIP>`
+     - Water
+     - Water
+     - 45
+     - 65
+     - 1 Att
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Torrent
+     - 
+     - Damp
+
+.. list-table:: Safari Zone - Hard - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Rhydon </pokedex/RHYDON>`
+     - Ground
+     - Rock
+     - 60
+     - 204
+     - 2 Att
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Lightningrod
+     - Rockhead
+     - Reckless
+   * - :doc:`Wobbuffet </pokedex/WOBBUFFET>`
+     - Psychic
+     - Psychic
+     - 45
+     - 177
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Shadowtag
+     - 
+     - Telepathy
+   * - :doc:`Kangaskhan </pokedex/KANGASKHAN>`
+     - Normal
+     - Normal
+     - 45
+     - 175
+     - 2 HP
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Earlybird
+     - Scrappy
+     - Innerfocus
+   * - :doc:`Zebstrika </pokedex/ZEBSTRIKA>`
+     - Electric
+     - Electric
+     - 75
+     - 164
+     - 2 Spe
+     - 
+     - Cheri Berry
+     - 
+     - 50%
+     - Medium Fast
+     - Moxie
+     - Motordrive
+     - Sapsipper
+   * - :doc:`Spinda </pokedex/SPINDA>`
+     - Normal
+     - Normal
+     - 255
+     - 85
+     - 1 SpA
+     - 
+     - 
+     - Chesto Berry
+     - 50%
+     - Fast
+     - Owntempo
+     - Hugepower
+     - Contrary
+   * - :doc:`Tauros </pokedex/TAUROS>`
+     - Normal
+     - Normal
+     - 45
+     - 211
+     - 1 Att
+     - 1 Spe
+     - 
+     - 
+     - 0%
+     - Slow
+     - Intimidate
+     - Angerpoint
+     - Sheerforce
+   * - :doc:`Helioptile </pokedex/HELIOPTILE>`
+     - Electric
+     - Normal
+     - 190
+     - 58
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Dryskin
+     - Sandveil
+     - Solarpower
+   * - :doc:`Muk </pokedex/EXEGGCUTE_A>`
+     - Grass
+     - Psychic
+     - 90
+     - 98
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Chlorophyll
+     - 
+     - Harvest
+   * - :doc:`Diglett </pokedex/DIGLETT_A>`
+     - Ground
+     - Steel
+     - 255
+     - 81
+     - 1 Spe
+     - 
+     - 
+     - Soft Sand
+     - 50%
+     - Medium Fast
+     - Sandforce
+     - Gooey
+     - Steelyspirit
+   * - :doc:`Golisopod </pokedex/GOLISOPOD>`
+     - Bug
+     - Water
+     - 45
+     - 212
+     - 2 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Emergencyexit
+     - 
+     - Shellarmor
+   * - :doc:`Grovyle </pokedex/GROVYLE>`
+     - Grass
+     - Grass
+     - 45
+     - 141
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Overgrow
+     - 
+     - Unburden
+   * - :doc:`Combusken </pokedex/COMBUSKEN>`
+     - Fire
+     - Fighting
+     - 45
+     - 142
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Blaze
+     - 
+     - Speedboost
+   * - :doc:`Marshtomp </pokedex/MARSHTOMP>`
+     - Water
+     - Ground
+     - 45
+     - 143
+     - 2 Att
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Torrent
+     - 
+     - Damp
+
+.. list-table:: Safari Zone - Insane - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Rhydon </pokedex/RHYDON>`
+     - Ground
+     - Rock
+     - 60
+     - 204
+     - 2 Att
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Lightningrod
+     - Rockhead
+     - Reckless
+   * - :doc:`Tauros </pokedex/TAUROS>`
+     - Normal
+     - Normal
+     - 45
+     - 211
+     - 1 Att
+     - 1 Spe
+     - 
+     - 
+     - 0%
+     - Slow
+     - Intimidate
+     - Angerpoint
+     - Sheerforce
+   * - :doc:`Doublade </pokedex/DOUBLADE>`
+     - Steel
+     - Ghost
+     - 45
+     - 157
+     - 2 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Noguard
+     - 
+     - 
+   * - :doc:`Kangaskhan </pokedex/KANGASKHAN>`
+     - Normal
+     - Normal
+     - 45
+     - 175
+     - 2 HP
+     - 
+     - 
+     - 
+     - 100%
+     - Medium Fast
+     - Earlybird
+     - Scrappy
+     - Innerfocus
+   * - :doc:`Wobbuffet </pokedex/WOBBUFFET>`
+     - Psychic
+     - Psychic
+     - 45
+     - 177
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Shadowtag
+     - 
+     - Telepathy
+   * - :doc:`Muk </pokedex/EXEGGCUTE_A>`
+     - Grass
+     - Psychic
+     - 90
+     - 98
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Chlorophyll
+     - 
+     - Harvest
+   * - :doc:`Golisopod </pokedex/GOLISOPOD>`
+     - Bug
+     - Water
+     - 45
+     - 212
+     - 2 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Emergencyexit
+     - 
+     - Shellarmor
+   * - :doc:`Heliolisk </pokedex/HELIOLISK>`
+     - Electric
+     - Normal
+     - 75
+     - 168
+     - 1 SpA
+     - 1 Spe
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Dryskin
+     - Sandveil
+     - Solarpower
+   * - :doc:`Dugtrio </pokedex/DUGTRIO_A>`
+     - Ground
+     - Steel
+     - 50
+     - 153
+     - 2 Att
+     - 
+     - 
+     - Soft Sand
+     - 50%
+     - Medium Fast
+     - Sandforce
+     - Gooey
+     - Steelyspirit
+   * - :doc:`Grovyle </pokedex/GROVYLE>`
+     - Grass
+     - Grass
+     - 45
+     - 141
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Overgrow
+     - 
+     - Unburden
+   * - :doc:`Combusken </pokedex/COMBUSKEN>`
+     - Fire
+     - Fighting
+     - 45
+     - 142
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Blaze
+     - 
+     - Speedboost
+   * - :doc:`Marshtomp </pokedex/MARSHTOMP>`
+     - Water
+     - Ground
+     - 45
+     - 143
+     - 2 Att
+     - 
+     - 
+     - 
+     - 12%
+     - Medium Slow
+     - Torrent
+     - 
+     - Damp
+

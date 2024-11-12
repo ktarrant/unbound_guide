@@ -1,0 +1,261 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 72
+    - Attack: 95
+    - Defense: 67
+    - Special Attack: 103
+    - Special Defense: 71
+    - Speed: 122
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 239
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Water 1
+
+**Abilities:**
+    - Ability 1: Torrent
+    - Ability 2: Battlebond
+    - Hidden Ability: Protean
+
+**Evolution:**
+    - Evolves from: FROGADIER
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Gigaimpact
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Workup
+
+    - Poweruppunch
+
+    - Brutalswing
+
+    - Acrobatics
+
+    - Smackdown
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Lowkick
+
+    - Snatch
+
+    - Spite
+
+    - Bounce
+
+    - Roleplay
+
+    - Icywind
+
+    - Gunkshot
+
+    - Confide
+
+    - Waterpledge
+
+    - Hydrocannon
+
+    - Spikes
+
+    - Toxicspikes
+
+    - Hydropump
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

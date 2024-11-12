@@ -1,0 +1,64 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 37
+    - Attack: 25
+    - Defense: 41
+    - Special Attack: 25
+    - Special Defense: 41
+    - Speed: 25
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_BUG
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 54
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Shedskin
+    - Ability 2: None
+    - Hidden Ability: Technician
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - KRICKETUNE
+            - Method: EVO_LEVEL
+            - Condition: 10
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Metronome
+
+**TM Moves:**
+
+    - Strugglebug
+
+
+**Tutor Moves:**
+
+    - Uproar
+
+    - Bugbite
+
+    - Endeavor
+
+
+**Learnset:**
+
+    - Level : 

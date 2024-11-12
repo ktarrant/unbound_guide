@@ -1,0 +1,182 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 60
+    - Defense: 32
+    - Special Attack: 50
+    - Special Defense: 32
+    - Speed: 76
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_ELECTRIC
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 99
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Moxie
+    - Ability 2: Motordrive
+    - Hidden Ability: Sapsipper
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - ZEBSTRIKA
+            - Method: EVO_LEVEL
+            - Condition: 27
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Cheri Berry
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Chargebeam
+
+    - Endure
+
+    - Flash
+
+    - Thunderwave
+
+    - Flamecharge
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Voltswitch
+
+    - Wildcharge
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Snatch
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Bounce
+
+    - Confide
+
+    - Screech
+
+    - Agility
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

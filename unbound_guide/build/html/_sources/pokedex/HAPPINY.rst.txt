@@ -1,0 +1,242 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 100
+    - Attack: 5
+    - Defense: 5
+    - Special Attack: 15
+    - Special Defense: 65
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 130
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Naturalcure
+    - Ability 2: Serenegrace
+    - Hidden Ability: Friendguard
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - CHANSEY
+            - Method: EVO_HOLD_ITEM_DAY
+            - Condition: Oval Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Oval Stone
+    - Held Item 2: Lucky Egg
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Drainpunch
+
+    - Recycle
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Workup
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Gravity
+
+    - Endeavor
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Hypervoice
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Storedpower
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

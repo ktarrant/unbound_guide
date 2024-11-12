@@ -1,0 +1,246 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 122
+    - Attack: 130
+    - Defense: 69
+    - Special Attack: 80
+    - Special Defense: 69
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_STEEL
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 90
+    - Experience Yield: 175
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Sheerforce
+    - Ability 2: None
+    - Hidden Ability: Heavymetal
+
+**Evolution:**
+    - Evolves from: CUFANT, COPPERAJAH_GIGA
+    - Evolves to:
+
+        - COPPERAJAH_GIGA
+            - Method: EVO_GIGANTAMAX
+            - Condition: TRUE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Lagging Tail
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Payback
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Workup
+
+    - Brutalswing
+
+    - Snarl
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Irondefense
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Superpower
+
+    - Confide
+
+    - Screech
+
+    - Scaryface
+
+    - Rockblast
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heatcrash
+
+    - Heavyslam
+
+    - Highhorsepower
+
+    - Playrough
+
+    - Powerwhip
+
+    - Poltergeist
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

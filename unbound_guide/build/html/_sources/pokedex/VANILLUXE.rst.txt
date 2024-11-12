@@ -1,0 +1,191 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 71
+    - Attack: 95
+    - Defense: 85
+    - Special Attack: 110
+    - Special Defense: 95
+    - Speed: 79
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 241
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Icebody
+    - Ability 2: Snowwarning
+    - Hidden Ability: Weakarmor
+
+**Evolution:**
+    - Evolves from: VANILLISH
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Never Melt Ice
+    - Held Item 2: Casteliacone
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Explosion
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Frostbreath
+
+    - Round
+
+    - Naturalgift
+
+    - Auroraveil
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Icywind
+
+    - Magiccoat
+
+    - Hypervoice
+
+    - Confide
+
+    - Iciclespear
+
+    - Weatherball
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

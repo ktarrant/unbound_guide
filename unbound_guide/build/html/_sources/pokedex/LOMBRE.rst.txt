@@ -1,0 +1,262 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 50
+    - Defense: 50
+    - Special Attack: 60
+    - Special Defense: 70
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 141
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Swiftswim
+    - Ability 2: Raindish
+    - Hidden Ability: Owntempo
+
+**Evolution:**
+    - Evolves from: LOTAD
+    - Evolves to:
+
+        - LUDICOLO
+            - Method: EVO_ITEM
+            - Condition: Water Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Mental Herb
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Energyball
+
+    - Honeclaws
+
+    - Endure
+
+    - Drainpunch
+
+    - Flash
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Scald
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Poweruppunch
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Uproar
+
+    - Synthesis
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Confide
+
+    - Encore
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Muddywater
+
+    - Hydropump
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

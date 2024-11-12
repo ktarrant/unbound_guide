@@ -1,0 +1,196 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 55
+    - Defense: 99
+    - Special Attack: 40
+    - Special Defense: 79
+    - Speed: 47
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 126
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Poisonpoint
+    - Ability 2: Swarm
+    - Hidden Ability: Speedboost
+
+**Evolution:**
+    - Evolves from: VENIPEDE
+    - Evolves to:
+
+        - SCOLIPEDE
+            - Method: EVO_LEVEL
+            - Condition: 30
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Pecha Berry
+    - Held Item 2: Poison Barb
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Silverwind
+
+    - Venoshock
+
+    - Payback
+
+    - Gyroball
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Strugglebug
+
+    - Infestation
+
+    - Round
+
+    - Naturalgift
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bugbite
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Endeavor
+
+    - Confide
+
+    - Screech
+
+    - Venomdrench
+
+    - Spikes
+
+    - Toxicspikes
+
+    - Agility
+
+    - Pinmissile
+
+    - Hex
+
+    - Poltergeist
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

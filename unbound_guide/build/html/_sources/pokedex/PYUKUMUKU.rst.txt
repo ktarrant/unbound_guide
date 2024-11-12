@@ -1,0 +1,137 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 55
+    - Attack: 60
+    - Defense: 130
+    - Special Attack: 30
+    - Special Defense: 130
+    - Speed: 5
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 107
+    - EV Yield:
+    - Gender Ratio: 75.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Water 1
+
+**Abilities:**
+    - Ability 1: Innardsout
+    - Ability 2: None
+    - Hidden Ability: Unaware
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hail
+
+    - Taunt
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Doubleteam
+
+    - Reflect
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Recycle
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Quash
+
+
+**Tutor Moves:**
+
+    - Helpinghand
+
+    - Block
+
+    - Spite
+
+    - Painsplit
+
+    - Gastroacid
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Screech
+
+    - Venomdrench
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

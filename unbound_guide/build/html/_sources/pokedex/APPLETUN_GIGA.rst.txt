@@ -1,0 +1,240 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 110
+    - Attack: 85
+    - Defense: 80
+    - Special Attack: 100
+    - Special Defense: 80
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 170
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_ERRATIC
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Ripen
+    - Ability 2: Gluttony
+    - Hidden Ability: Thickfat
+
+**Evolution:**
+    - Evolves from: APPLETUN
+    - Evolves to:
+
+        - APPLETUN
+            - Method: EVO_GIGANTAMAX
+            - Condition: FALSE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Dragonpulse
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Gyroball
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Worryseed
+
+    - Synthesis
+
+    - Irondefense
+
+    - Seedbomb
+
+    - Gastroacid
+
+    - Outrage
+
+    - Superpower
+
+    - Confide
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heavyslam
+
+    - Highhorsepower
+
+    - Leafstorm
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

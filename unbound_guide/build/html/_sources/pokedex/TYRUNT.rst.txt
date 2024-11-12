@@ -1,0 +1,252 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 58
+    - Attack: 89
+    - Defense: 77
+    - Special Attack: 45
+    - Special Defense: 45
+    - Speed: 48
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 72
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 30
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Strongjaw
+    - Ability 2: None
+    - Hidden Ability: Sturdy
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - TYRANTRUM
+            - Method: EVO_LEVEL_DAY
+            - Condition: 39
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Honeclaws
+
+    - Endure
+
+    - Dragonpulse
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Stealthrock
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Irondefense
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Hypervoice
+
+    - Superpower
+
+    - Confide
+
+    - Scaryface
+
+    - Dragondance
+
+    - Rockblast
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Crunch
+
+    - Playrough
+
+    - Psychicfangs
+
+    - Closecombat
+
+    - Scaleshot
+
+    - Meteorbeam
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

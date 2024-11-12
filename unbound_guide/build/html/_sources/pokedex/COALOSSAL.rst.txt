@@ -1,0 +1,274 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 110
+    - Attack: 80
+    - Defense: 120
+    - Special Attack: 80
+    - Special Defense: 90
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 177
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Steamengine
+    - Ability 2: Flamebody
+    - Hidden Ability: Flashfire
+
+**Evolution:**
+    - Evolves from: CARKOL, COALOSSAL_GIGA
+    - Evolves to:
+
+        - COALOSSAL_GIGA
+            - Method: EVO_GIGANTAMAX
+            - Condition: TRUE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Reflect
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Endure
+
+    - Willowisp
+
+    - Explosion
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Poweruppunch
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Snore
+
+    - Block
+
+    - Irondefense
+
+    - Ironhead
+
+    - Earthpower
+
+    - Heatwave
+
+    - Confide
+
+    - Spikes
+
+    - Firespin
+
+    - Sandtomb
+
+    - Rockblast
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heatcrash
+
+    - Heavyslam
+
+    - Highhorsepower
+
+    - Flareblitz
+
+    - Meteorbeam
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

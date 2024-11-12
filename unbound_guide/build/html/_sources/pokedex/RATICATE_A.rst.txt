@@ -1,0 +1,281 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 75
+    - Attack: 71
+    - Defense: 70
+    - Special Attack: 40
+    - Special Defense: 80
+    - Speed: 77
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 127
+    - Experience Yield: 116
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Gluttony
+    - Ability 2: Hustle
+    - Hidden Ability: Thickfat
+
+**Evolution:**
+    - Evolves from: RATTATA_A
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Pecha Berry
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Sludgebomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Venoshock
+
+    - Gigaimpact
+
+    - Thunderwave
+
+    - Swordsdance
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Pluck
+
+    - Uturn
+
+    - Substitute
+
+    - Sludgewave
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Cut
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Covet
+
+    - Snatch
+
+    - Endeavor
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Superfang
+
+    - Throatchop
+
+    - Stompingtantrum
+
+    - Knockoff
+
+    - Lastresort
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Scaryface
+
+    - Bodyslam
+
+    - Reversal
+
+    - Crunch
+
+    - Psychicfangs
+
+    - Closecombat
+
+    - Burningjealousy
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

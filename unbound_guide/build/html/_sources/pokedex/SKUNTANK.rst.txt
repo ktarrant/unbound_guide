@@ -1,0 +1,257 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 103
+    - Attack: 93
+    - Defense: 67
+    - Special Attack: 71
+    - Special Defense: 61
+    - Speed: 84
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 209
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Stench
+    - Ability 2: Aftermath
+    - Hidden Ability: Poisontouch
+
+**Evolution:**
+    - Evolves from: STUNKY
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Pecha Berry
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Sludgebomb
+
+    - Fireblast
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Honeclaws
+
+    - Endure
+
+    - Venoshock
+
+    - Explosion
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Snarl
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Snatch
+
+    - Foulplay
+
+    - Throatchop
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Scaryface
+
+    - Venomdrench
+
+    - Nastyplot
+
+    - Firespin
+
+    - Tailslap
+
+    - Hex
+
+    - Crunch
+
+    - Playrough
+
+    - Burningjealousy
+
+    - Lashout
+
+    - Corrosivegas
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

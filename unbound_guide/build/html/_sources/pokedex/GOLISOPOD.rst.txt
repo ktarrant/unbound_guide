@@ -1,0 +1,309 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 75
+    - Attack: 125
+    - Defense: 140
+    - Special Attack: 60
+    - Special Defense: 90
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 212
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Water 3
+
+**Abilities:**
+    - Ability 1: Emergencyexit
+    - Ability 2: None
+    - Hidden Ability: Shellarmor
+
+**Evolution:**
+    - Evolves from: WIMPOD
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Leechfang
+
+    - Focusblast
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Venoshock
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Swordsdance
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Strugglebug
+
+    - Frostbreath
+
+    - Sludgewave
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bugbite
+
+    - Spite
+
+    - Irondefense
+
+    - Ironhead
+
+    - Painsplit
+
+    - Endeavor
+
+    - Icywind
+
+    - Laserfocus
+
+    - Drillrun
+
+    - Liquidation
+
+    - Throatchop
+
+    - Dualchop
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Screech
+
+    - Spikes
+
+    - Pinmissile
+
+    - Razorshell
+
+    - Bugbuzz
+
+    - Muddywater
+
+    - Closecombat
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

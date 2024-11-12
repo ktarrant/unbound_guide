@@ -1,0 +1,202 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 25
+    - Attack: 35
+    - Defense: 70
+    - Special Attack: 95
+    - Special Defense: 55
+    - Speed: 45
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 89
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Magnetpull
+    - Ability 2: Sturdy
+    - Hidden Ability: Analytic
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - MAGNETON
+            - Method: EVO_LEVEL
+            - Condition: 30
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Metal Coat
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Chargebeam
+
+    - Endure
+
+    - Explosion
+
+    - Recycle
+
+    - Flash
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Voltswitch
+
+    - Wildcharge
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Electroweb
+
+    - Signalbeam
+
+    - Gravity
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Magiccoat
+
+    - Psychup
+
+    - Confide
+
+    - Screech
+
+    - Electroball
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

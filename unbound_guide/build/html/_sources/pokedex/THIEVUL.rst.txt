@@ -1,0 +1,235 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 58
+    - Defense: 58
+    - Special Attack: 87
+    - Special Defense: 92
+    - Speed: 90
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 127
+    - Experience Yield: 159
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Technician
+    - Ability 2: Unburden
+    - Hidden Ability: Stakeout
+
+**Evolution:**
+    - Evolves from: NICKIT
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Gigaimpact
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Acrobatics
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Covet
+
+    - Snatch
+
+    - Foulplay
+
+    - Knockoff
+
+    - Confide
+
+    - Batonpass
+
+    - Screech
+
+    - Faketears
+
+    - Agility
+
+    - Nastyplot
+
+    - Tailslap
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Crunch
+
+    - Playrough
+
+    - Burningjealousy
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

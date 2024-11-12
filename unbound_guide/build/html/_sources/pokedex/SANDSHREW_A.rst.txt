@@ -1,0 +1,264 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 75
+    - Defense: 90
+    - Special Attack: 10
+    - Special Defense: 35
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 93
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Snowcloak
+    - Ability 2: None
+    - Hidden Ability: Slushrush
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - SANDSLASH_A
+            - Method: EVO_ITEM
+            - Condition: Ice Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Blizzard
+
+    - Protect
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Leechfang
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Avalanche
+
+    - Gyroball
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Frostbreath
+
+    - Workup
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Auroraveil
+
+    - Cut
+
+    - Strength
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Covet
+
+    - Irondefense
+
+    - Ironhead
+
+    - Aquatail
+
+    - Superfang
+
+    - Throatchop
+
+    - Knockoff
+
+    - Confide
+
+    - Bodyslam
+
+    - Poltergeist
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

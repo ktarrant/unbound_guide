@@ -1,0 +1,258 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 85
+    - Defense: 70
+    - Special Attack: 40
+    - Special Defense: 40
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 68
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Defiant
+    - Ability 2: Innerfocus
+    - Hidden Ability: Pressure
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - BISHARP
+            - Method: EVO_LEVEL
+            - Condition: 52
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Payback
+
+    - Rockpolish
+
+    - Thunderwave
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Lowsweep
+
+    - Darkpulse
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Poweruppunch
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Snatch
+
+    - Spite
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Roleplay
+
+    - Ironhead
+
+    - Foulplay
+
+    - Dualchop
+
+    - Knockoff
+
+    - Confide
+
+    - Screech
+
+    - Scaryface
+
+    - Psychocut
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

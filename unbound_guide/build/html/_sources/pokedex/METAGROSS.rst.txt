@@ -1,0 +1,294 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 135
+    - Defense: 130
+    - Special Attack: 95
+    - Special Defense: 90
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_STEEL
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Clearbody
+    - Ability 2: None
+    - Hidden Ability: Lightmetal
+
+**Evolution:**
+    - Evolves from: METANG, METAGROSS_MEGA
+    - Evolves to:
+
+        - METAGROSS_MEGA
+            - Method: EVO_MEGA
+            - Condition: Metagrossite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Metal Coat
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Sludgebomb
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Honeclaws
+
+    - Endure
+
+    - Explosion
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Flash
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Poweruppunch
+
+    - Psyshock
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Fly
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Block
+
+    - Signalbeam
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Trick
+
+    - Stompingtantrum
+
+    - Psychup
+
+    - Confide
+
+    - Cosmicpower
+
+    - Scaryface
+
+    - Agility
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Psychocut
+
+    - Expandingforce
+
+    - Poltergeist
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

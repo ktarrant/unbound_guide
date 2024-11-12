@@ -1,0 +1,218 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 45
+    - Defense: 30
+    - Special Attack: 55
+    - Special Defense: 40
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 53
+    - EV Yield:
+    - Gender Ratio: 0.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Prankster
+    - Ability 2: Frisk
+    - Hidden Ability: Pickpocket
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - MORGREM
+            - Method: EVO_LEVEL
+            - Condition: 32
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Leechfang
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Flash
+
+    - Thunderwave
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Naturepower
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Covet
+
+    - Snatch
+
+    - Trick
+
+    - Foulplay
+
+    - Knockoff
+
+    - Confide
+
+    - Faketears
+
+    - Nastyplot
+
+    - Playrough
+
+    - Burningjealousy
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

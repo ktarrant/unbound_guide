@@ -1,0 +1,265 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 75
+    - Defense: 85
+    - Special Attack: 100
+    - Special Defense: 85
+    - Speed: 115
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 207
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 3
+    - Group 2: Water 3
+
+**Abilities:**
+    - Ability 1: Victorystar
+    - Ability 2: Naturalcure
+    - Hidden Ability: Analytic
+
+**Evolution:**
+    - Evolves from: STARYU
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Stardust
+    - Held Item 2: Star Piece
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Reflect
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Skillswap
+
+    - Brine
+
+    - Endure
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Sleeptalk
+
+    - Scald
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Signalbeam
+
+    - Gravity
+
+    - Telekinesis
+
+    - Painsplit
+
+    - Icywind
+
+    - Trick
+
+    - Magiccoat
+
+    - Wonderroom
+
+    - Psychup
+
+    - Confide
+
+    - Cosmicpower
+
+    - Agility
+
+    - Whirlpool
+
+    - Powergem
+
+    - Psychocut
+
+    - Hydropump
+
+    - Expandingforce
+
+    - Meteorbeam
+
+    - Flipturn
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,196 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 55
+    - Attack: 75
+    - Defense: 85
+    - Special Attack: 25
+    - Special Defense: 25
+    - Speed: 15
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_ROCK
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 73
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Sturdy
+    - Ability 2: Weakarmor
+    - Hidden Ability: Sandforce
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - BOLDORE
+            - Method: EVO_LEVEL
+            - Condition: 25
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Everstone
+    - Held Item 2: Hard Stone
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Explosion
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Gravity
+
+    - Irondefense
+
+    - Earthpower
+
+    - Confide
+
+    - Sandtomb
+
+    - Rockblast
+
+    - Bodypress
+
+    - Heavyslam
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

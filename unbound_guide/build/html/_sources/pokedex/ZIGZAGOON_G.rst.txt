@@ -1,0 +1,272 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 38
+    - Attack: 30
+    - Defense: 41
+    - Special Attack: 30
+    - Special Defense: 41
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 60
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Pickup
+    - Ability 2: Gluttony
+    - Hidden Ability: Quickfeet
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - LINOONE_G
+            - Method: EVO_LEVEL
+            - Condition: 20
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Payback
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Snarl
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Quash
+
+    - Fling
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Covet
+
+    - Snatch
+
+    - Icywind
+
+    - Seedbomb
+
+    - Trick
+
+    - Superfang
+
+    - Gunkshot
+
+    - Hypervoice
+
+    - Lastresort
+
+    - Confide
+
+    - Screech
+
+    - Faketears
+
+    - Scaryface
+
+    - Whirlpool
+
+    - Pinmissile
+
+    - Bodyslam
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

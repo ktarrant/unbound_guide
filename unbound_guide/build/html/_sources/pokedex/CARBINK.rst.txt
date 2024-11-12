@@ -1,0 +1,231 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 50
+    - Defense: 150
+    - Special Attack: 50
+    - Special Defense: 150
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 100
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Clearbody
+    - Ability 2: Sturdy
+    - Hidden Ability: Mistysurge
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Reflect
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Skillswap
+
+    - Endure
+
+    - Explosion
+
+    - Rockpolish
+
+    - Flash
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Covet
+
+    - Afteryou
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Magnetrise
+
+    - Magiccoat
+
+    - Wonderroom
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Psychup
+
+    - Confide
+
+    - Sandtomb
+
+    - Bodypress
+
+    - Powergem
+
+    - Meteorbeam
+
+    - Mistyexplosion
+
+    - Terrainpulse
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

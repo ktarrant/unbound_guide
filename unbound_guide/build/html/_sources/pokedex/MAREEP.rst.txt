@@ -1,0 +1,198 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 55
+    - Attack: 40
+    - Defense: 40
+    - Special Attack: 65
+    - Special Defense: 45
+    - Speed: 35
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_ELECTRIC
+
+**Other Stats:**
+    - Catch Rate: 235
+    - Experience Yield: 59
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Static
+    - Ability 2: None
+    - Hidden Ability: Cottondown
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - FLAAFFY
+            - Method: EVO_LEVEL
+            - Condition: 15
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Chargebeam
+
+    - Endure
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Wildcharge
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Electroweb
+
+    - Afteryou
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Confide
+
+    - Screech
+
+    - Agility
+
+    - Electricterrain
+
+    - Bodyslam
+
+    - Electroball
+
+    - Powergem
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

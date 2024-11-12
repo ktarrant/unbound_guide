@@ -1,0 +1,223 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 69
+    - Attack: 69
+    - Defense: 76
+    - Special Attack: 69
+    - Special Defense: 86
+    - Speed: 91
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 156
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_ERRATIC
+
+**Egg Groups:**
+    - Group 1: Water 2
+    - Group 2: Water 2
+
+**Abilities:**
+    - Ability 1: Swiftswim
+    - Ability 2: Stormdrain
+    - Hidden Ability: Waterbubble
+
+**Evolution:**
+    - Evolves from: FINNEON
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Rindo Berry
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Roost
+
+    - Brine
+
+    - Endure
+
+    - Silverwind
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Signalbeam
+
+    - Bounce
+
+    - Aquatail
+
+    - Tailwind
+
+    - Icywind
+
+    - Psychup
+
+    - Confide
+
+    - Agility
+
+    - Whirlpool
+
+    - Airslash
+
+    - Scaleshot
+
+    - Flipturn
+
+    - Tripleaxel
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

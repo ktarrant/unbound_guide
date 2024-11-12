@@ -1,0 +1,232 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 20
+    - Attack: 40
+    - Defense: 90
+    - Special Attack: 30
+    - Special Defense: 90
+    - Speed: 25
+
+**Types:**
+    - Primary Type: TYPE_GHOST
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 97
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Amorphous
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Levitate
+    - Ability 2: None
+    - Hidden Ability: Frisk
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - DUSCLOPS
+            - Method: EVO_LEVEL
+            - Condition: 37
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Spell Tag
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Leechfang
+
+    - Chargebeam
+
+    - Endure
+
+    - Willowisp
+
+    - Payback
+
+    - Flash
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Infestation
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Snatch
+
+    - Spite
+
+    - Gravity
+
+    - Telekinesis
+
+    - Painsplit
+
+    - Icywind
+
+    - Trick
+
+    - Wonderroom
+
+    - Psychup
+
+    - Confide
+
+    - Bodyslam
+
+    - Hex
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

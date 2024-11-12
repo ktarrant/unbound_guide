@@ -1,0 +1,262 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 65
+    - Attack: 150
+    - Defense: 40
+    - Special Attack: 15
+    - Special Defense: 80
+    - Speed: 145
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 159
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Adaptability
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: BEEDRILL
+    - Evolves to:
+
+        - BEEDRILL
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Poison Barb
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Roost
+
+    - Falseswipe
+
+    - Endure
+
+    - Silverwind
+
+    - Venoshock
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Swordsdance
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Strugglebug
+
+    - Infestation
+
+    - Brutalswing
+
+    - Acrobatics
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Electroweb
+
+    - Bugbite
+
+    - Irondefense
+
+    - Tailwind
+
+    - Endeavor
+
+    - Laserfocus
+
+    - Drillrun
+
+    - Outrage
+
+    - Throatchop
+
+    - Knockoff
+
+    - Confide
+
+    - Focusenergy
+
+    - Batonpass
+
+    - Screech
+
+    - Toxicspikes
+
+    - Agility
+
+    - Pinmissile
+
+    - Crosspoison
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

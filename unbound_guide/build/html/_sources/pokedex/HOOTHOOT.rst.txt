@@ -1,0 +1,228 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 30
+    - Defense: 30
+    - Special Attack: 36
+    - Special Defense: 56
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 58
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Flying
+    - Group 2: Flying
+
+**Abilities:**
+    - Ability 1: Insomnia
+    - Ability 2: Keeneye
+    - Hidden Ability: Tintedlens
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - NOCTOWL
+            - Method: EVO_LEVEL
+            - Condition: 20
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Steelwing
+
+    - Roost
+
+    - Endure
+
+    - Silverwind
+
+    - Recycle
+
+    - Flash
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Pluck
+
+    - Substitute
+
+    - Workup
+
+    - Defog
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fly
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Tailwind
+
+    - Zenheadbutt
+
+    - Magiccoat
+
+    - Skyattack
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Psychup
+
+    - Confide
+
+    - Screech
+
+    - Agility
+
+    - Nastyplot
+
+    - Storedpower
+
+    - Airslash
+
+    - Hurricane
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

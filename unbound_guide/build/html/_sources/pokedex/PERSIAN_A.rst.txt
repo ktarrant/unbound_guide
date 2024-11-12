@@ -1,0 +1,273 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 65
+    - Attack: 60
+    - Defense: 60
+    - Special Attack: 75
+    - Special Defense: 65
+    - Speed: 115
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 90
+    - Experience Yield: 148
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Furcoat
+    - Ability 2: Technician
+    - Hidden Ability: Rattled
+
+**Evolution:**
+    - Evolves from: MEOWTH_A
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Quick Claw
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Workup
+
+    - Snarl
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Quash
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Covet
+
+    - Snatch
+
+    - Spite
+
+    - Icywind
+
+    - Seedbomb
+
+    - Foulplay
+
+    - Throatchop
+
+    - Gunkshot
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Screech
+
+    - Faketears
+
+    - Nastyplot
+
+    - Bodyslam
+
+    - Playrough
+
+    - Powergem
+
+    - Skittersmack
+
+    - Burningjealousy
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

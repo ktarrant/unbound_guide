@@ -1,0 +1,238 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 61
+    - Attack: 84
+    - Defense: 65
+    - Special Attack: 70
+    - Special Defense: 70
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 144
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Shedskin
+    - Ability 2: None
+    - Hidden Ability: Marvelscale
+
+**Evolution:**
+    - Evolves from: DRATINI
+    - Evolves to:
+
+        - DRAGONITE
+            - Method: EVO_LEVEL
+            - Condition: 55
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Dragon Scale
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Dragonpulse
+
+    - Gigaimpact
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Aquatail
+
+    - Icywind
+
+    - Outrage
+
+    - Confide
+
+    - Dragondance
+
+    - Agility
+
+    - Whirlpool
+
+    - Firespin
+
+    - Bodyslam
+
+    - Breakingswipe
+
+    - Hydropump
+
+    - Scaleshot
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

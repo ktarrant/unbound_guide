@@ -1,0 +1,227 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 94
+    - Defense: 50
+    - Special Attack: 94
+    - Special Defense: 50
+    - Speed: 66
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 159
+    - EV Yield:
+    - Gender Ratio: 0.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Adaptability
+    - Ability 2: Compoundeyes
+    - Hidden Ability: Protean
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Silver Powder
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Roost
+
+    - Energyball
+
+    - Endure
+
+    - Silverwind
+
+    - Venoshock
+
+    - Gigaimpact
+
+    - Flash
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Strugglebug
+
+    - Infestation
+
+    - Acrobatics
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Electroweb
+
+    - Bugbite
+
+    - Signalbeam
+
+    - Tailwind
+
+    - Psychup
+
+    - Confide
+
+    - Airslash
+
+    - Bugbuzz
+
+    - Hurricane
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

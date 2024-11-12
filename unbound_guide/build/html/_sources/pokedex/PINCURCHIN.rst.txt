@@ -1,0 +1,203 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 48
+    - Attack: 101
+    - Defense: 95
+    - Special Attack: 91
+    - Special Defense: 85
+    - Speed: 15
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_ELECTRIC
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 152
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Lightningrod
+    - Ability 2: None
+    - Hidden Ability: Electricsurge
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Brine
+
+    - Chargebeam
+
+    - Endure
+
+    - Venoshock
+
+    - Payback
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Infestation
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Surf
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Magnetrise
+
+    - Liquidation
+
+    - Throatchop
+
+    - Confide
+
+    - Venomdrench
+
+    - Spikes
+
+    - Toxicspikes
+
+    - Electricterrain
+
+    - Pinmissile
+
+    - Reversal
+
+    - Hex
+
+    - Muddywater
+
+    - Hydropump
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

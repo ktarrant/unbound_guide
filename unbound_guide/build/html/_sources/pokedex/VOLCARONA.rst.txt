@@ -1,0 +1,247 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 85
+    - Attack: 60
+    - Defense: 65
+    - Special Attack: 135
+    - Special Defense: 105
+    - Speed: 100
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 15
+    - Experience Yield: 248
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Flamebody
+    - Ability 2: None
+    - Hidden Ability: Swarm
+
+**Evolution:**
+    - Evolves from: LARVESTA
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Silver Powder
+    - Held Item 2: Silver Powder
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Leechfang
+
+    - Overheat
+
+    - Roost
+
+    - Endure
+
+    - Willowisp
+
+    - Silverwind
+
+    - Gigaimpact
+
+    - Flamecharge
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Incinerate
+
+    - Strugglebug
+
+    - Wildcharge
+
+    - Acrobatics
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Fly
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bugbite
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Tailwind
+
+    - Zenheadbutt
+
+    - Heatwave
+
+    - Confide
+
+    - Firespin
+
+    - Bugbuzz
+
+    - Mysticalfire
+
+    - Flareblitz
+
+    - Hurricane
+
+    - Skittersmack
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

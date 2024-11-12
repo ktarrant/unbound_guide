@@ -1,0 +1,146 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 28
+    - Attack: 60
+    - Defense: 30
+    - Special Attack: 40
+    - Special Defense: 30
+    - Speed: 82
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 54
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Amorphous
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Clearbody
+    - Ability 2: Infiltrator
+    - Hidden Ability: Cursedbody
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - DRAKLOAK
+            - Method: EVO_LEVEL
+            - Condition: 50
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Willowisp
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Infestation
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Confide
+
+    - Batonpass
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

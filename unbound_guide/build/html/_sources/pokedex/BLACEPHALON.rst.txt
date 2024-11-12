@@ -1,0 +1,247 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 53
+    - Attack: 127
+    - Defense: 53
+    - Special Attack: 151
+    - Special Defense: 79
+    - Speed: 107
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 30
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Beastboost
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Thief
+
+    - Overheat
+
+    - Endure
+
+    - Willowisp
+
+    - Explosion
+
+    - Shadowclaw
+
+    - Payback
+
+    - Recycle
+
+    - Flamecharge
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Psyshock
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Snore
+
+    - Uproar
+
+    - Spite
+
+    - Afteryou
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Foulplay
+
+    - Heatwave
+
+    - Knockoff
+
+    - Lastresort
+
+    - Confide
+
+    - Encore
+
+    - Firespin
+
+    - Rockblast
+
+    - Storedpower
+
+    - Mysticalfire
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,245 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 97
+    - Attack: 101
+    - Defense: 103
+    - Special Attack: 107
+    - Special Defense: 101
+    - Speed: 61
+
+**Types:**
+    - Primary Type: TYPE_STEEL
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Beastboost
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Energyball
+
+    - Endure
+
+    - Silverwind
+
+    - Explosion
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Smartstrike
+
+    - Acrobatics
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Fly
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Gravity
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Stompingtantrum
+
+    - Superpower
+
+    - Confide
+
+    - Cosmicpower
+
+    - Bodyslam
+
+    - Heavyslam
+
+    - Airslash
+
+    - Megahorn
+
+    - Poltergeist
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

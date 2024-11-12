@@ -1,0 +1,200 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 80
+    - Defense: 95
+    - Special Attack: 10
+    - Special Defense: 45
+    - Speed: 10
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_ROCK
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 68
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Sturdy
+    - Ability 2: Rockhead
+    - Hidden Ability: Sapsipper
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - SUDOWOODO
+            - Method: EVO_MOVE
+            - Condition: Mimic
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Explosion
+
+    - Rockpolish
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Helpinghand
+
+    - Block
+
+    - Covet
+
+    - Afteryou
+
+    - Roleplay
+
+    - Foulplay
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Psychup
+
+    - Confide
+
+    - Faketears
+
+    - Sandtomb
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

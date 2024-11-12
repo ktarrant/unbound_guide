@@ -1,0 +1,269 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 71
+    - Attack: 120
+    - Defense: 95
+    - Special Attack: 120
+    - Special Defense: 95
+    - Speed: 99
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Download
+    - Ability 2: None
+    - Hidden Ability: Analytic
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Energyball
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Silverwind
+
+    - Explosion
+
+    - Shadowclaw
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Flash
+
+    - Thunderwave
+
+    - Flamecharge
+
+    - Darkpulse
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Flashcannon
+
+    - Strugglebug
+
+    - Infestation
+
+    - Round
+
+    - Naturalgift
+
+    - Fly
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Electroweb
+
+    - Bugbite
+
+    - Signalbeam
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Magiccoat
+
+    - Gunkshot
+
+    - Confide
+
+    - Screech
+
+    - Blazekick
+
+    - Bugbuzz
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

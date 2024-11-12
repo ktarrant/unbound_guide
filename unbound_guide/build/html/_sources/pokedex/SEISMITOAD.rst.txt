@@ -1,0 +1,279 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 105
+    - Attack: 95
+    - Defense: 75
+    - Special Attack: 85
+    - Special Defense: 75
+    - Speed: 74
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 185
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Water 1
+
+**Abilities:**
+    - Ability 1: Swiftswim
+    - Ability 2: Poisontouch
+    - Hidden Ability: Waterabsorb
+
+**Evolution:**
+    - Evolves from: PALPITOAD
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Pecha Berry
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Endure
+
+    - Drainpunch
+
+    - Venoshock
+
+    - Payback
+
+    - Gigaimpact
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Infestation
+
+    - Poweruppunch
+
+    - Sludgewave
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Afteryou
+
+    - Bounce
+
+    - Endeavor
+
+    - Icywind
+
+    - Liquidation
+
+    - Gastroacid
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Confide
+
+    - Screech
+
+    - Venomdrench
+
+    - Weatherball
+
+    - Muddywater
+
+    - Hydropump
+
+    - Powerwhip
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

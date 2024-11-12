@@ -1,0 +1,297 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 123
+    - Attack: 77
+    - Defense: 72
+    - Special Attack: 99
+    - Special Defense: 92
+    - Speed: 58
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 104
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 30
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Monster
+
+**Abilities:**
+    - Ability 1: Refrigerate
+    - Ability 2: None
+    - Hidden Ability: Snowwarning
+
+**Evolution:**
+    - Evolves from: AMAURA
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Reflect
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Chargebeam
+
+    - Endure
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Flash
+
+    - Stoneedge
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Stealthrock
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Frostbreath
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Auroraveil
+
+    - Naturepower
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Aquatail
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Outrage
+
+    - Earthpower
+
+    - Hypervoice
+
+    - Psychup
+
+    - Confide
+
+    - Encore
+
+    - Iciclespear
+
+    - Rockblast
+
+    - Bodyslam
+
+    - Weatherball
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,270 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 150
+    - Defense: 140
+    - Special Attack: 65
+    - Special Defense: 100
+    - Speed: 75
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 25
+    - Experience Yield: 200
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Technician
+    - Ability 2: Technician
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: SCIZOR
+    - Evolves to:
+
+        - SCIZOR
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Steelwing
+
+    - Roost
+
+    - Falseswipe
+
+    - Endure
+
+    - Silverwind
+
+    - Venoshock
+
+    - Gigaimpact
+
+    - Swordsdance
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Flashcannon
+
+    - Strugglebug
+
+    - Brutalswing
+
+    - Acrobatics
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bugbite
+
+    - Irondefense
+
+    - Ironhead
+
+    - Tailwind
+
+    - Laserfocus
+
+    - Superpower
+
+    - Knockoff
+
+    - Confide
+
+    - Focusenergy
+
+    - Batonpass
+
+    - Agility
+
+    - Sandtomb
+
+    - Reversal
+
+    - Airslash
+
+    - Bugbuzz
+
+    - Crosspoison
+
+    - Psychocut
+
+    - Closecombat
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

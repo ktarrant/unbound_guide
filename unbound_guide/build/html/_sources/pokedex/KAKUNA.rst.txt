@@ -1,0 +1,60 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 25
+    - Defense: 50
+    - Special Attack: 25
+    - Special Defense: 25
+    - Speed: 35
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 71
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Shedskin
+    - Ability 2: Shedskin
+    - Hidden Ability: Shedskin
+
+**Evolution:**
+    - Evolves from: WEEDLE
+    - Evolves to:
+
+        - BEEDRILL
+            - Method: EVO_LEVEL
+            - Condition: 10
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+
+**Tutor Moves:**
+
+    - Electroweb
+
+    - Bugbite
+
+    - Irondefense
+
+
+**Learnset:**

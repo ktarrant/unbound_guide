@@ -4,7 +4,6 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/unbound_guide" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
-      <excludeFolder url="file://$MODULE_DIR$/unbound_guide/build" />
       <excludeFolder url="file://$MODULE_DIR$/unbound_guide/source/pokedex" />
       <excludeFolder url="file://$MODULE_DIR$/unbound_guide/source/routes" />
       <excludeFolder url="file://$MODULE_DIR$/unbound_guide/source/appendix" />

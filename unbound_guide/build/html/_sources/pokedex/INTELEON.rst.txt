@@ -1,0 +1,260 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 85
+    - Defense: 65
+    - Special Attack: 125
+    - Special Defense: 65
+    - Speed: 120
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Torrent
+    - Ability 2: None
+    - Hidden Ability: Sniper
+
+**Evolution:**
+    - Evolves from: DRIZZILE, INTELEON_GIGA
+    - Evolves to:
+
+        - INTELEON_GIGA
+            - Method: EVO_GIGANTAMAX
+            - Condition: TRUE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Gigaimpact
+
+    - Swordsdance
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Dragontail
+
+    - Workup
+
+    - Acrobatics
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Fling
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Bounce
+
+    - Icywind
+
+    - Liquidation
+
+    - Gastroacid
+
+    - Knockoff
+
+    - Confide
+
+    - Waterpledge
+
+    - Hydrocannon
+
+    - Focusenergy
+
+    - Batonpass
+
+    - Agility
+
+    - Whirlpool
+
+    - Iciclespear
+
+    - Breakingswipe
+
+    - Weatherball
+
+    - Airslash
+
+    - Muddywater
+
+    - Hydropump
+
+    - Scaleshot
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

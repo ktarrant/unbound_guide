@@ -1,0 +1,357 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 95
+    - Attack: 65
+    - Defense: 80
+    - Special Attack: 110
+    - Special Defense: 110
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 70
+    - Experience Yield: 172
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Water 1
+
+**Abilities:**
+    - Ability 1: Curiousmedicine
+    - Ability 2: Owntempo
+    - Hidden Ability: Regenerator
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Sludgebomb
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Brine
+
+    - Endure
+
+    - Drainpunch
+
+    - Venoshock
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Poweruppunch
+
+    - Sludgewave
+
+    - Psyshock
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Block
+
+    - Afteryou
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Aquatail
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Trick
+
+    - Magiccoat
+
+    - Wonderroom
+
+    - Liquidation
+
+    - Gastroacid
+
+    - Foulplay
+
+    - Psychup
+
+    - Confide
+
+    - Venomdrench
+
+    - Nastyplot
+
+    - Psychicterrain
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Razorshell
+
+    - Hex
+
+    - Weatherball
+
+    - Muddywater
+
+    - Powergem
+
+    - Hydropump
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

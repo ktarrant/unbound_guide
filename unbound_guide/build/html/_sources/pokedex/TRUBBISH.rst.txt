@@ -1,0 +1,192 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 50
+    - Defense: 62
+    - Special Attack: 40
+    - Special Defense: 62
+    - Speed: 65
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 66
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Stench
+    - Ability 2: Stickyhold
+    - Hidden Ability: Aftermath
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - GARBODOR
+            - Method: EVO_LEVEL
+            - Condition: 36
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Black Sludge
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Drainpunch
+
+    - Venoshock
+
+    - Explosion
+
+    - Payback
+
+    - Recycle
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Infestation
+
+    - Sludgewave
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Spite
+
+    - Painsplit
+
+    - Seedbomb
+
+    - Gunkshot
+
+    - Confide
+
+    - Venomdrench
+
+    - Spikes
+
+    - Toxicspikes
+
+    - Rockblast
+
+    - Corrosivegas
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

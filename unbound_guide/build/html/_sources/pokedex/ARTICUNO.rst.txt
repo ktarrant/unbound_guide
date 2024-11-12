@@ -1,0 +1,233 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 85
+    - Defense: 100
+    - Special Attack: 95
+    - Special Defense: 125
+    - Speed: 85
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 215
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 80
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Pressure
+    - Ability 2: Snowcloak
+    - Hidden Ability: Competitive
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Sandstorm
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Steelwing
+
+    - Roost
+
+    - Endure
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Pluck
+
+    - Uturn
+
+    - Substitute
+
+    - Frostbreath
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Auroraveil
+
+    - Skydrop
+
+    - Fly
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Signalbeam
+
+    - Tailwind
+
+    - Icywind
+
+    - Laserfocus
+
+    - Skyattack
+
+    - Confide
+
+    - Agility
+
+    - Iciclespear
+
+    - Weatherball
+
+    - Airslash
+
+    - Bravebird
+
+    - Hurricane
+
+    - Tripleaxel
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
