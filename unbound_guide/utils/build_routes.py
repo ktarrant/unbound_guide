@@ -75,6 +75,8 @@ def generate_routes():
     with open(routes_file, "r") as json_file:
         routes_data = json.load(json_file)
 
+    os.makedirs(routes_dir, exist_ok=True)
+
     route_toctree_list = ""
     for route in routes_data:
         summary = summarize_location_data(routes_data[route])
@@ -96,7 +98,7 @@ def generate_routes():
                     else:
                         f.write(f".. list-table:: {route} - {method}\n")
 
-                    headers = [key for key in table[0].keys() if key is not "key"]
+                    headers = [key for key in table[0].keys() if key != "key"]
                     width = int(100 / len(headers))
                     width_list = ", ".join([str(width)] * len(headers))
 

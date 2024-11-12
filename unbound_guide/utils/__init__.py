@@ -1,7 +1,7 @@
 import os
 import json
 
-root_dir = os.path.dirname(os.path.dirname(__file__))
+root_dir = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 source_dir = os.path.join(root_dir, "source")
 json_dir = os.path.join(source_dir, "json")
 pokedex_dir = os.path.join(json_dir, "pokedex")

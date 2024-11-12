@@ -5,11 +5,11 @@ Appendix
 Egg Groups
 ----------
 
-.. include:: appendix/egg_groups
+.. include:: /appendix/egg_groups.rst
 
 Held Items
 -----------
-.. include:: appendix/held_items
+.. include:: /appendix/held_items.rst
 
 Pokemon Natures
 ---------------

@@ -91,15 +91,18 @@ def generate_pokedex():
             with open(os.path.join(output_dir, file.replace(".json", ".rst")), "w") as out_file:
                 out_file.write(content)
 
+    appendix_dir = os.path.join(source_dir, "appendix")
+    os.makedirs(appendix_dir, exist_ok=True)
+
     template = env.get_template("egg_groups.rst.template")
     content = template.render(egg_groups=egg_groups, column_width=4)
-    egg_groups_out = os.path.join(source_dir, "appendix", "egg_groups.rst")
+    egg_groups_out = os.path.join(appendix_dir, "egg_groups.rst")
     with open(egg_groups_out, "w") as out_file:
         out_file.write(content)
 
     template = env.get_template("held_items.rst.template")
     content = template.render(held_items=held_items)
-    held_items_out = os.path.join(source_dir, "appendix", "held_items.rst")
+    held_items_out = os.path.join(appendix_dir, "held_items.rst")
     with open(held_items_out, "w") as out_file:
         out_file.write(content)
 
