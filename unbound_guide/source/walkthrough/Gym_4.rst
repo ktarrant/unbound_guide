@@ -9,16 +9,9 @@ However, it's gimmick is that it is an Inverse battle area, so
 all type matchups are reversed.
 A non-Ghost type Pokemon with a Ghost-type move is the best way
 to get a Super Effective hit.
-A common method is to use Toxic Spikes to apply poison and then use
-a Pokemon with Hex to deal bonus damage.
-Hex can be taught by an NPC on Route 9.
-Nidoqueen or Nidoking is a good way to lay Toxic Spikes.
-Skorupi is another option, but will not evolve before this gym.
-The nice thing about Nidoqueen is you can evolve her all the way
-before this fight.
-For Hex, Vulpix (either kind) or Froslass are good options.
-Nidoqueen can also learn it via the Move Tutor.
-Nidoran can be found on Route 5.
+Slowing down the enemy, poisoning them, and hitting them with Hex
+is a good bet.
+Nidoqueen and Crobat are great candidates for using Hex.
 
 
 KBT Expressway
@@ -42,3 +35,13 @@ Route 10
 Tehl Town
 =========
 - Secret Passage
+
+Gym 4: Inverse Battle
+---------------------
+I had a lot of trouble with this gym.
+Ultimately I built a super cheesy composition built
+around Sticky Web, Toxic Spikes, and Hex.
+Ribombee - Sticky Web (egg move)
+Crobat - Toxic / Hex / Air Cutter / Venoshock
+Nidoqueen (x2) - Toxic Spikes / Hex / Venoshock / Toxic
+Torkoal - For healing the others.
