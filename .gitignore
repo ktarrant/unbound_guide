@@ -2,6 +2,7 @@
 **/.idea/workspace.xml
 **/.idea/tasks.xml
 docs/
+unbound_guide/build
 unbound_guide/source/pokedex
 unbound_guide/source/routes
 unbound_guide/source/appendix
