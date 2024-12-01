@@ -1,0 +1,253 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 62
+    - Attack: 48
+    - Defense: 54
+    - Special Attack: 63
+    - Special Defense: 60
+    - Speed: 68
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 71
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Keeneye
+    - Ability 2: Infiltrator
+    - Hidden Ability: Owntempo
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Skillswap
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Payback
+
+    - Recycle
+
+    - Flash
+
+    - Thunderwave
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Psyshock
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Helpinghand
+
+    - Covet
+
+    - Snatch
+
+    - Signalbeam
+
+    - Gravity
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Psychup
+
+    - Confide
+
+    - Faketears
+
+    - Nastyplot
+
+    - Playrough
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,279 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 73
+    - Attack: 84
+    - Defense: 78
+    - Special Attack: 119
+    - Special Defense: 85
+    - Speed: 95
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 209
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Blaze
+    - Ability 2: None
+    - Hidden Ability: Flashfire
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Focusblast
+
+    - Endure
+
+    - Willowisp
+
+    - Shadowclaw
+
+    - Gigaimpact
+
+    - Gyroball
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Workup
+
+    - Wildcharge
+
+    - Poweruppunch
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Covet
+
+    - Spite
+
+    - Laserfocus
+
+    - Throatchop
+
+    - Stompingtantrum
+
+    - Heatwave
+
+    - Confide
+
+    - Firepledge
+
+    - Blastburn
+
+    - Reversal
+
+    - Hex
+
+    - Mysticalfire
+
+    - Flareblitz
+
+    - Burningjealousy
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

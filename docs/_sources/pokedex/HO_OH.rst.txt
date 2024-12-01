@@ -1,0 +1,307 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 106
+    - Attack: 130
+    - Defense: 90
+    - Special Attack: 110
+    - Special Defense: 154
+    - Speed: 90
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 6
+    - Experience Yield: 220
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Pressure
+    - Ability 2: None
+    - Hidden Ability: Regenerator
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Sacred Ash
+    - Held Item 2: Sacred Ash
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Steelwing
+
+    - Overheat
+
+    - Roost
+
+    - Chargebeam
+
+    - Endure
+
+    - Willowisp
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Flamecharge
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Pluck
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Defog
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Skydrop
+
+    - Fly
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Signalbeam
+
+    - Ironhead
+
+    - Tailwind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Skyattack
+
+    - Earthpower
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Psychup
+
+    - Confide
+
+    - Firespin
+
+    - Weatherball
+
+    - Airslash
+
+    - Mysticalfire
+
+    - Bravebird
+
+    - Flareblitz
+
+    - Dualwingbeat
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

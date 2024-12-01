@@ -1,0 +1,238 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 72
+    - Attack: 60
+    - Defense: 30
+    - Special Attack: 20
+    - Special Defense: 30
+    - Speed: 25
+
+**Types:**
+    - Primary Type: TYPE_FIGHTING
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 180
+    - Experience Yield: 87
+    - EV Yield:
+    - Gender Ratio: 25.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_FLUCTUATING
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Thickfat
+    - Ability 2: Guts
+    - Hidden Ability: Sheerforce
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - HARIYAMA
+            - Method: EVO_LEVEL
+            - Condition: 24
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Black Belt
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Endure
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Surf
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Helpinghand
+
+    - Roleplay
+
+    - Superpower
+
+    - Knockoff
+
+    - Vacuumwave
+
+    - Confide
+
+    - Focusenergy
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Heavyslam
+
+    - Reversal
+
+    - Closecombat
+
+    - Coaching
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

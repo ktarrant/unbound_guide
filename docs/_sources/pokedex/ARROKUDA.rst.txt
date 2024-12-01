@@ -1,0 +1,190 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 41
+    - Attack: 63
+    - Defense: 40
+    - Special Attack: 40
+    - Special Defense: 30
+    - Speed: 66
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 56
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 2
+    - Group 2: Water 2
+
+**Abilities:**
+    - Ability 1: Swiftswim
+    - Ability 2: None
+    - Hidden Ability: Stalwart
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - BARRASKEWDA
+            - Method: EVO_LEVEL
+            - Condition: 26
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Round
+
+    - Naturalgift
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bounce
+
+    - Aquatail
+
+    - Laserfocus
+
+    - Drillrun
+
+    - Liquidation
+
+    - Throatchop
+
+    - Confide
+
+    - Focusenergy
+
+    - Agility
+
+    - Whirlpool
+
+    - Icefang
+
+    - Crunch
+
+    - Psychicfangs
+
+    - Closecombat
+
+    - Scaleshot
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

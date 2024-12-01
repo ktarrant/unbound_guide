@@ -1,0 +1,386 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 100
+    - Attack: 164
+    - Defense: 150
+    - Special Attack: 95
+    - Special Defense: 120
+    - Speed: 71
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 218
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Monster
+
+**Abilities:**
+    - Ability 1: Sandstream
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: TYRANITAR
+    - Evolves to:
+
+        - TYRANITAR
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Dragonclaw
+
+    - Waterpulse
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Honeclaws
+
+    - Endure
+
+    - Dragonpulse
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Stealthrock
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Poweruppunch
+
+    - Brutalswing
+
+    - Snarl
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Block
+
+    - Spite
+
+    - Irondefense
+
+    - Ironhead
+
+    - Aquatail
+
+    - Foulplay
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Superpower
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Scaryface
+
+    - Dragondance
+
+    - Whirlpool
+
+    - Sandtomb
+
+    - Rockblast
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heavyslam
+
+    - Breakingswipe
+
+    - Crunch
+
+    - Highhorsepower
+
+    - Muddywater
+
+    - Hydropump
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

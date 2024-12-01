@@ -1,0 +1,230 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 72
+    - Attack: 107
+    - Defense: 125
+    - Special Attack: 65
+    - Special Defense: 70
+    - Speed: 71
+
+**Types:**
+    - Primary Type: TYPE_GROUND
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 179
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Sandspit
+    - Ability 2: Shedskin
+    - Hidden Ability: Sandveil
+
+**Evolution:**
+    - Evolves from: SILICOBRA, SANDACONDA_GIGA
+    - Evolves to:
+
+        - SANDACONDA_GIGA
+            - Method: EVO_GIGANTAMAX
+            - Condition: TRUE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Irondefense
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Drillrun
+
+    - Outrage
+
+    - Earthpower
+
+    - Knockoff
+
+    - Confide
+
+    - Screech
+
+    - Sandtomb
+
+    - Rockblast
+
+    - Firefang
+
+    - Bodypress
+
+    - Highhorsepower
+
+    - Hurricane
+
+    - Scaleshot
+
+    - Skittersmack
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

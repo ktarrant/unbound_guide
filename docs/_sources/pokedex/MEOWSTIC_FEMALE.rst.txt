@@ -1,0 +1,279 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 74
+    - Attack: 48
+    - Defense: 76
+    - Special Attack: 83
+    - Special Defense: 81
+    - Speed: 104
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 163
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Competitive
+    - Ability 2: Infiltrator
+    - Hidden Ability: Psychicsurge
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Skillswap
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Poweruppunch
+
+    - Psyshock
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Helpinghand
+
+    - Covet
+
+    - Snatch
+
+    - Signalbeam
+
+    - Gravity
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Psychup
+
+    - Confide
+
+    - Faketears
+
+    - Nastyplot
+
+    - Psychicterrain
+
+    - Tailslap
+
+    - Storedpower
+
+    - Playrough
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

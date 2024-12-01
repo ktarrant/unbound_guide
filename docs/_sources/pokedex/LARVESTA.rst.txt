@@ -1,0 +1,210 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 55
+    - Attack: 85
+    - Defense: 55
+    - Special Attack: 50
+    - Special Defense: 55
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 72
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Flamebody
+    - Ability 2: None
+    - Hidden Ability: Swarm
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - VOLCARONA
+            - Method: EVO_LEVEL
+            - Condition: 59
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Leechfang
+
+    - Overheat
+
+    - Endure
+
+    - Willowisp
+
+    - Flamecharge
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Incinerate
+
+    - Strugglebug
+
+    - Wildcharge
+
+    - Acrobatics
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bugbite
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Zenheadbutt
+
+    - Heatwave
+
+    - Confide
+
+    - Bugbuzz
+
+    - Flareblitz
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

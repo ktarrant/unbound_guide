@@ -1,0 +1,274 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 80
+    - Defense: 50
+    - Special Attack: 40
+    - Special Defense: 50
+    - Speed: 25
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 90
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Amorphous
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Poisontouch
+    - Ability 2: Gluttony
+    - Hidden Ability: Receiver
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - MUK_A
+            - Method: EVO_LEVEL
+            - Condition: 38
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sludgebomb
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Venoshock
+
+    - Explosion
+
+    - Payback
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Infestation
+
+    - Poweruppunch
+
+    - Sludgewave
+
+    - Brutalswing
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Fling
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Helpinghand
+
+    - Spite
+
+    - Painsplit
+
+    - Gastroacid
+
+    - Gunkshot
+
+    - Knockoff
+
+    - Confide
+
+    - Screech
+
+    - Scaryface
+
+    - Bodyslam
+
+    - Crunch
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,220 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 42
+    - Attack: 30
+    - Defense: 45
+    - Special Attack: 56
+    - Special Defense: 53
+    - Speed: 39
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 235
+    - Experience Yield: 53
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Healer
+    - Ability 2: Anticipation
+    - Hidden Ability: Magicbounce
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - HATTREM
+            - Method: EVO_LEVEL
+            - Condition: 32
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Skillswap
+
+    - Chargebeam
+
+    - Endure
+
+    - Recycle
+
+    - Flash
+
+    - Thunderwave
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Covet
+
+    - Afteryou
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Magnetrise
+
+    - Confide
+
+    - Batonpass
+
+    - Storedpower
+
+    - Mysticalfire
+
+    - Playrough
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

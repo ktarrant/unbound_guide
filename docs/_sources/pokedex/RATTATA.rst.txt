@@ -1,0 +1,242 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 30
+    - Attack: 56
+    - Defense: 35
+    - Special Attack: 25
+    - Special Defense: 35
+    - Speed: 72
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 57
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Strongjaw
+    - Ability 2: Guts
+    - Hidden Ability: Hustle
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - RATICATE
+            - Method: EVO_LEVEL
+            - Condition: 20
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Chilan Berry
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Sludgebomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Chargebeam
+
+    - Endure
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Pluck
+
+    - Uturn
+
+    - Substitute
+
+    - Workup
+
+    - Wildcharge
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Covet
+
+    - Endeavor
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Superfang
+
+    - Lastresort
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Reversal
+
+    - Crunch
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

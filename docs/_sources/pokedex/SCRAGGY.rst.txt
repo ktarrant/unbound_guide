@@ -1,0 +1,296 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 75
+    - Defense: 70
+    - Special Attack: 35
+    - Special Defense: 70
+    - Speed: 48
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 180
+    - Experience Yield: 70
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Dragon
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Shedskin
+    - Ability 2: Moxie
+    - Hidden Ability: Intimidate
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - SCRAFTY
+            - Method: EVO_LEVEL
+            - Condition: 39
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Shed Shell
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Focusblast
+
+    - Endure
+
+    - Dragonpulse
+
+    - Drainpunch
+
+    - Payback
+
+    - Stoneedge
+
+    - Lowsweep
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Workup
+
+    - Poweruppunch
+
+    - Snarl
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Snatch
+
+    - Spite
+
+    - Irondefense
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Foulplay
+
+    - Superfang
+
+    - Dualchop
+
+    - Knockoff
+
+    - Confide
+
+    - Faketears
+
+    - Scaryface
+
+    - Dragondance
+
+    - Crunch
+
+    - Lashout
+
+    - Coaching
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

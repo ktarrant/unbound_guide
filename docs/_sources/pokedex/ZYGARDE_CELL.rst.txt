@@ -1,0 +1,119 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 50
+    - Defense: 50
+    - Special Attack: 50
+    - Special Defense: 50
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Aurabreak
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Silverwind
+
+    - Swagger
+
+    - Dragontail
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Bind
+
+    - Block
+
+    - Spite
+
+    - Painsplit
+
+    - Confide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

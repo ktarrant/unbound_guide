@@ -1,0 +1,167 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 200
+    - Attack: 100
+    - Defense: 50
+    - Special Attack: 100
+    - Special Defense: 50
+    - Speed: 80
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Dragonsmaw
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Endure
+
+    - Dragonpulse
+
+    - Explosion
+
+    - Gigaimpact
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Laserfocus
+
+    - Outrage
+
+    - Confide
+
+    - Focusenergy
+
+    - Dragondance
+
+    - Thunderfang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Reversal
+
+    - Breakingswipe
+
+    - Crunch
+
+    - Scaleshot
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,839 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 100
+    - Attack: 100
+    - Defense: 100
+    - Special Attack: 100
+    - Special Defense: 100
+    - Speed: 100
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 215
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Synchronize
+    - Ability 2: None
+    - Hidden Ability: Magicguard
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Lum Berry
+    - Held Item 2: Lum Berry
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Dragonclaw
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Bulkup
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sludgebomb
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Steelwing
+
+    - Skillswap
+
+    - Leechfang
+
+    - Overheat
+
+    - Roost
+
+    - Focusblast
+
+    - Energyball
+
+    - Falseswipe
+
+    - Brine
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Dragonpulse
+
+    - Drainpunch
+
+    - Willowisp
+
+    - Silverwind
+
+    - Venoshock
+
+    - Explosion
+
+    - Shadowclaw
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Flash
+
+    - Stoneedge
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Flamecharge
+
+    - Lowsweep
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Pluck
+
+    - Uturn
+
+    - Substitute
+
+    - Flashcannon
+
+    - Voltswitch
+
+    - Dragontail
+
+    - Incinerate
+
+    - Strugglebug
+
+    - Bulldoze
+
+    - Frostbreath
+
+    - Workup
+
+    - Wildcharge
+
+    - Infestation
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Sludgewave
+
+    - Psyshock
+
+    - Brutalswing
+
+    - Smartstrike
+
+    - Acrobatics
+
+    - Snarl
+
+    - Defog
+
+    - Drainingkiss
+
+    - Smackdown
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Quash
+
+    - Trickroom
+
+    - Fling
+
+    - Auroraveil
+
+    - Skydrop
+
+    - Naturepower
+
+    - Cut
+
+    - Fly
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Healbell
+
+    - Electroweb
+
+    - Lowkick
+
+    - Uproar
+
+    - Bind
+
+    - Helpinghand
+
+    - Block
+
+    - Worryseed
+
+    - Covet
+
+    - Bugbite
+
+    - Snatch
+
+    - Spite
+
+    - Afteryou
+
+    - Synthesis
+
+    - Signalbeam
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Magnetrise
+
+    - Bounce
+
+    - Roleplay
+
+    - Ironhead
+
+    - Aquatail
+
+    - Painsplit
+
+    - Tailwind
+
+    - Endeavor
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Laserfocus
+
+    - Trick
+
+    - Drillrun
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Liquidation
+
+    - Gastroacid
+
+    - Foulplay
+
+    - Superfang
+
+    - Outrage
+
+    - Skyattack
+
+    - Throatchop
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Gunkshot
+
+    - Dualchop
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Superpower
+
+    - Knockoff
+
+    - Psychup
+
+    - Vacuumwave
+
+    - Lastresort
+
+    - Confide
+
+    - Focusenergy
+
+    - Cosmicpower
+
+    - Batonpass
+
+    - Encore
+
+    - Screech
+
+    - Faketears
+
+    - Scaryface
+
+    - Venomdrench
+
+    - Spikes
+
+    - Toxicspikes
+
+    - Dragondance
+
+    - Agility
+
+    - Nastyplot
+
+    - Grassyterrain
+
+    - Mistyterrain
+
+    - Electricterrain
+
+    - Psychicterrain
+
+    - Whirlpool
+
+    - Firespin
+
+    - Sandtomb
+
+    - Pinmissile
+
+    - Iciclespear
+
+    - Tailslap
+
+    - Rockblast
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heatcrash
+
+    - Heavyslam
+
+    - Reversal
+
+    - Electroball
+
+    - Storedpower
+
+    - Breakingswipe
+
+    - Razorshell
+
+    - Hex
+
+    - Weatherball
+
+    - Airslash
+
+    - Aurasphere
+
+    - Blazekick
+
+    - Bugbuzz
+
+    - Crosspoison
+
+    - Crunch
+
+    - Darkestlariat
+
+    - Highhorsepower
+
+    - Leafblade
+
+    - Muddywater
+
+    - Mysticalfire
+
+    - Phantomforce
+
+    - Playrough
+
+    - Pollenpuff
+
+    - Powergem
+
+    - Psychicfangs
+
+    - Psychocut
+
+    - Bravebird
+
+    - Closecombat
+
+    - Flareblitz
+
+    - Hurricane
+
+    - Hydropump
+
+    - Leafstorm
+
+    - Megahorn
+
+    - Powerwhip
+
+    - Solarblade
+
+    - Expandingforce
+
+    - Poltergeist
+
+    - Scaleshot
+
+    - Meteorbeam
+
+    - Mistyexplosion
+
+    - Grassyglide
+
+    - Risingvoltage
+
+    - Terrainpulse
+
+    - Skittersmack
+
+    - Burningjealousy
+
+    - Lashout
+
+    - Corrosivegas
+
+    - Coaching
+
+    - Flipturn
+
+    - Tripleaxel
+
+    - Dualwingbeat
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,256 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 65
+    - Attack: 95
+    - Defense: 85
+    - Special Attack: 55
+    - Special Defense: 55
+    - Speed: 85
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 100
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 2
+    - Group 2: Water 2
+
+**Abilities:**
+    - Ability 1: Poisonpoint
+    - Ability 2: Swiftswim
+    - Hidden Ability: Intimidate
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - OVERQWIL
+            - Method: EVO_MOVE
+            - Condition: Barbbarrage
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Poison Barb
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Sludgebomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Brine
+
+    - Endure
+
+    - Venoshock
+
+    - Explosion
+
+    - Payback
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Swordsdance
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Scald
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Sludgewave
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Signalbeam
+
+    - Bounce
+
+    - Aquatail
+
+    - Painsplit
+
+    - Icywind
+
+    - Liquidation
+
+    - Foulplay
+
+    - Throatchop
+
+    - Confide
+
+    - Scaryface
+
+    - Venomdrench
+
+    - Spikes
+
+    - Toxicspikes
+
+    - Whirlpool
+
+    - Pinmissile
+
+    - Reversal
+
+    - Hex
+
+    - Hydropump
+
+    - Poltergeist
+
+    - Scaleshot
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

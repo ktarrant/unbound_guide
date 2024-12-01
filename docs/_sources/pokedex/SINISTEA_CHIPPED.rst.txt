@@ -1,0 +1,176 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 45
+    - Defense: 45
+    - Special Attack: 74
+    - Special Defense: 54
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_GHOST
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 62
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Weakarmor
+    - Ability 2: None
+    - Hidden Ability: Cursedbody
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - POLTEAGEIST_CHIPPED
+            - Method: EVO_ITEM
+            - Condition: Chipped Pot
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Endure
+
+    - Willowisp
+
+    - Explosion
+
+    - Payback
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Psyshock
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Spite
+
+    - Roleplay
+
+    - Painsplit
+
+    - Trick
+
+    - Wonderroom
+
+    - Foulplay
+
+    - Confide
+
+    - Batonpass
+
+    - Nastyplot
+
+    - Storedpower
+
+    - Hex
+
+    - Phantomforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

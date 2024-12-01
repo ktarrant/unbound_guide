@@ -1,0 +1,133 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 97
+    - Attack: 167
+    - Defense: 97
+    - Special Attack: 167
+    - Special Defense: 97
+    - Speed: 129
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 220
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Neuroforce
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: NECROZMA_DUSK_MANE, NECROZMA_DAWN_WINGS
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Recycle
+
+    - Rockpolish
+
+    - Flash
+
+    - Swagger
+
+    - Cut
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Signalbeam
+
+    - Gravity
+
+    - Telekinesis
+
+    - Magnetrise
+
+    - Knockoff
+
+    - Confide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

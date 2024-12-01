@@ -1,0 +1,404 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 68
+    - Attack: 165
+    - Defense: 95
+    - Special Attack: 65
+    - Special Defense: 115
+    - Speed: 110
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 233
+    - EV Yield:
+    - Gender Ratio: 0.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Water 1
+
+**Abilities:**
+    - Ability 1: Innerfocus
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: GALLADE
+    - Evolves to:
+
+        - GALLADE
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Focusblast
+
+    - Energyball
+
+    - Falseswipe
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Willowisp
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Stoneedge
+
+    - Thunderwave
+
+    - Swordsdance
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Helpinghand
+
+    - Snatch
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Painsplit
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Throatchop
+
+    - Dualchop
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Psychup
+
+    - Vacuumwave
+
+    - Confide
+
+    - Focusenergy
+
+    - Encore
+
+    - Mistyterrain
+
+    - Bodyslam
+
+    - Reversal
+
+    - Storedpower
+
+    - Airslash
+
+    - Aurasphere
+
+    - Leafblade
+
+    - Psychocut
+
+    - Closecombat
+
+    - Solarblade
+
+    - Expandingforce
+
+    - Coaching
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

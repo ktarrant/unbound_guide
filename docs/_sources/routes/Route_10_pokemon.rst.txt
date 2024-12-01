@@ -1,0 +1,435 @@
+Route 10 Wild Pokemon
+---------------------
+
+.. list-table:: Route 10 - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Lotad </pokedex/LOTAD>`
+     - Water
+     - Grass
+     - 255
+     - 74
+     - 1 SpD
+     - 
+     - 
+     - Mental Herb
+     - 50%
+     - Medium Slow
+     - Swiftswim
+     - Raindish
+     - Owntempo
+   * - :doc:`Tympole </pokedex/TYMPOLE>`
+     - Water
+     - Water
+     - 255
+     - 77
+     - 1 Spe
+     - 
+     - Pecha Berry
+     - 
+     - 50%
+     - Medium Slow
+     - Swiftswim
+     - Hydration
+     - Waterabsorb
+   * - :doc:`Marill </pokedex/MARILL>`
+     - Water
+     - Fairy
+     - 190
+     - 58
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Fast
+     - Thickfat
+     - Hugepower
+     - Sapsipper
+   * - :doc:`Linoone </pokedex/LINOONE_G>`
+     - Dark
+     - Normal
+     - 90
+     - 128
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Pickup
+     - Gluttony
+     - Quickfeet
+   * - :doc:`Lombre </pokedex/LOMBRE>`
+     - Water
+     - Grass
+     - 120
+     - 141
+     - 2 SpD
+     - 
+     - 
+     - Mental Herb
+     - 50%
+     - Medium Slow
+     - Swiftswim
+     - Raindish
+     - Owntempo
+   * - :doc:`Palpitoad </pokedex/PALPITOAD>`
+     - Water
+     - Ground
+     - 120
+     - 131
+     - 2 HP
+     - 
+     - Pecha Berry
+     - 
+     - 50%
+     - Medium Slow
+     - Swiftswim
+     - Hydration
+     - Waterabsorb
+   * - :doc:`Goomy </pokedex/GOOMY>`
+     - Dragon
+     - Dragon
+     - 45
+     - 60
+     - 1 SpD
+     - 
+     - 
+     - Shed Shell
+     - 50%
+     - Slow
+     - Sapsipper
+     - Hydration
+     - Gooey
+   * - :doc:`Ditto </pokedex/DITTO>`
+     - Normal
+     - Normal
+     - 35
+     - 61
+     - 1 HP
+     - 
+     - Quick Powder
+     - Metal Powder
+     - N/A
+     - Medium Fast
+     - Limber
+     - 
+     - Imposter
+
+.. list-table:: Route 10 - Swarm - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Shelmet </pokedex/SHELMET>`
+     - Bug
+     - Bug
+     - 200
+     - 61
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Hydration
+     - Shellarmor
+     - Overcoat
+
+.. list-table:: Route 10 - Special Encounter - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Linoone </pokedex/LINOONE_G>`
+     - Dark
+     - Normal
+     - 90
+     - 128
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Pickup
+     - Gluttony
+     - Quickfeet
+   * - :doc:`Obstagoon </pokedex/OBSTAGOON>`
+     - Dark
+     - Normal
+     - 45
+     - 196
+     - 3 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Reckless
+     - Guts
+     - Defiant
+
+.. list-table:: Route 10 - Surf
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Palpitoad </pokedex/PALPITOAD>`
+     - Water
+     - Ground
+     - 120
+     - 131
+     - 2 HP
+     - 
+     - Pecha Berry
+     - 
+     - 50%
+     - Medium Slow
+     - Swiftswim
+     - Hydration
+     - Waterabsorb
+   * - :doc:`Surskit </pokedex/SURSKIT>`
+     - Bug
+     - Water
+     - 200
+     - 63
+     - 1 Spe
+     - 
+     - 
+     - Honey
+     - 50%
+     - Medium Fast
+     - Swiftswim
+     - Swiftswim
+     - Raindish
+   * - :doc:`Lombre </pokedex/LOMBRE>`
+     - Water
+     - Grass
+     - 120
+     - 141
+     - 2 SpD
+     - 
+     - 
+     - Mental Herb
+     - 50%
+     - Medium Slow
+     - Swiftswim
+     - Raindish
+     - Owntempo
+   * - :doc:`Masquerain </pokedex/MASQUERAIN>`
+     - Bug
+     - Flying
+     - 75
+     - 128
+     - 1 SpA
+     - 1 SpD
+     - 
+     - Silver Powder
+     - 50%
+     - Medium Fast
+     - Intimidate
+     - Compoundeyes
+     - Unnerve
+
+.. list-table:: Route 10 - Special Encounter - Surf
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Cramorant </pokedex/CRAMORANT_GORGING>`
+     - Flying
+     - Water
+     - 45
+     - 166
+     - 2 SpD
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Gulpmissile
+     - 
+     - 
+
+.. list-table:: Route 10 - Old Rod
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Magikarp </pokedex/MAGIKARP>`
+     - Water
+     - Water
+     - 255
+     - 20
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Swiftswim
+     - 
+     - Rattled
+
+.. list-table:: Route 10 - Good Rod
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Wishiwashi </pokedex/WISHIWASHI>`
+     - Water
+     - Water
+     - 60
+     - 88
+     - 1 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Fast
+     - Schooling
+     - 
+     - 
+
+.. list-table:: Route 10 - Super Rod
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Wishiwashi </pokedex/WISHIWASHI>`
+     - Water
+     - Water
+     - 60
+     - 88
+     - 1 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Fast
+     - Schooling
+     - 
+     - 
+   * - :doc:`Bruxish </pokedex/BRUXISH>`
+     - Water
+     - Psychic
+     - 80
+     - 173
+     - 2 Att
+     - 
+     - 
+     - Razor Fang
+     - 50%
+     - Medium Slow
+     - Dazzling
+     - Strongjaw
+     - Wonderskin
+

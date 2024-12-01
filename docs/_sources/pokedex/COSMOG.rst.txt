@@ -1,0 +1,54 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 43
+    - Attack: 29
+    - Defense: 31
+    - Special Attack: 29
+    - Special Defense: 31
+    - Speed: 37
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 20
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Unaware
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - COSMOEM
+            - Method: EVO_LEVEL
+            - Condition: 43
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+
+**Tutor Moves:**
+
+
+**Learnset:**

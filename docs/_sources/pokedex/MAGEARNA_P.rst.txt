@@ -1,0 +1,243 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 95
+    - Defense: 115
+    - Special Attack: 130
+    - Special Defense: 115
+    - Speed: 65
+
+**Types:**
+    - Primary Type: TYPE_STEEL
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 120
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Soulheart
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Return
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Secretpower
+
+    - Rest
+
+    - Focusblast
+
+    - Energyball
+
+    - Falseswipe
+
+    - Chargebeam
+
+    - Endure
+
+    - Explosion
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Voltswitch
+
+    - Dazzlinggleam
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Electroweb
+
+    - Helpinghand
+
+    - Afteryou
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Confide
+
+    - Batonpass
+
+    - Encore
+
+    - Agility
+
+    - Electroball
+
+    - Storedpower
+
+    - Aurasphere
+
+    - Poltergeist
+
+    - Mistyexplosion
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

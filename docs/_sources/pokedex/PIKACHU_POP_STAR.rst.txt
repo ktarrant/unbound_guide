@@ -1,0 +1,256 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 35
+    - Attack: 55
+    - Defense: 40
+    - Special Attack: 50
+    - Special Defense: 50
+    - Speed: 90
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_ELECTRIC
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 82
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 10
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Lightningrod
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - PIKACHU_GIGA
+            - Method: EVO_GIGANTAMAX
+            - Condition: TRUE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Oran Berry
+    - Held Item 2: Light Ball
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Chargebeam
+
+    - Endure
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Voltswitch
+
+    - Wildcharge
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Surf
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Thunderpunch
+
+    - Snore
+
+    - Electroweb
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Endeavor
+
+    - Laserfocus
+
+    - Knockoff
+
+    - Confide
+
+    - Encore
+
+    - Agility
+
+    - Nastyplot
+
+    - Electricterrain
+
+    - Bodyslam
+
+    - Reversal
+
+    - Electroball
+
+    - Playrough
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

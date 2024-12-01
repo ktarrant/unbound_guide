@@ -1,0 +1,192 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 48
+    - Defense: 43
+    - Special Attack: 46
+    - Special Defense: 41
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 92
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 2
+    - Group 2: Water 2
+
+**Abilities:**
+    - Ability 1: Oblivious
+    - Ability 2: Anticipation
+    - Hidden Ability: Adaptability
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - WHISCASH
+            - Method: EVO_LEVEL
+            - Condition: 30
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bounce
+
+    - Aquatail
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Earthpower
+
+    - Confide
+
+    - Dragondance
+
+    - Whirlpool
+
+    - Muddywater
+
+    - Hydropump
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

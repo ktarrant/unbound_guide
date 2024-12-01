@@ -1,0 +1,200 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 35
+    - Attack: 35
+    - Defense: 40
+    - Special Attack: 35
+    - Special Defense: 55
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 74
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Chlorophyll
+    - Ability 2: Infiltrator
+    - Hidden Ability: Simple
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - SKIPLOOM
+            - Method: EVO_LEVEL
+            - Condition: 18
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Silverwind
+
+    - Flash
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Infestation
+
+    - Dazzlinggleam
+
+    - Acrobatics
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Synthesis
+
+    - Bounce
+
+    - Seedbomb
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Encore
+
+    - Grassyterrain
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

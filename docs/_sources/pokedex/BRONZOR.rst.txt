@@ -1,0 +1,248 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 57
+    - Attack: 24
+    - Defense: 86
+    - Special Attack: 24
+    - Special Defense: 86
+    - Speed: 23
+
+**Types:**
+    - Primary Type: TYPE_STEEL
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 72
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Levitate
+    - Ability 2: Heatproof
+    - Hidden Ability: Heavymetal
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - BRONZONG
+            - Method: EVO_LEVEL
+            - Condition: 33
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Metal Coat
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Skillswap
+
+    - Chargebeam
+
+    - Endure
+
+    - Payback
+
+    - Recycle
+
+    - Rockpolish
+
+    - Flash
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Psyshock
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Signalbeam
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Trick
+
+    - Wonderroom
+
+    - Psychup
+
+    - Confide
+
+    - Heavyslam
+
+    - Hex
+
+    - Expandingforce
+
+    - Poltergeist
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

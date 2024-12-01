@@ -1,0 +1,210 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 62
+    - Defense: 50
+    - Special Attack: 62
+    - Special Defense: 60
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 131
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Snowwarning
+    - Ability 2: None
+    - Hidden Ability: Soundproof
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - ABOMASNOW
+            - Method: EVO_LEVEL
+            - Condition: 40
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Never Melt Ice
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Flash
+
+    - Avalanche
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Worryseed
+
+    - Synthesis
+
+    - Roleplay
+
+    - Icywind
+
+    - Seedbomb
+
+    - Confide
+
+    - Weatherball
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

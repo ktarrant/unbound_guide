@@ -1,0 +1,308 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 79
+    - Attack: 103
+    - Defense: 120
+    - Special Attack: 135
+    - Special Defense: 115
+    - Speed: 78
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Water 1
+
+**Abilities:**
+    - Ability 1: Megalauncher
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - BLASTOISE
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Falseswipe
+
+    - Brine
+
+    - Endure
+
+    - Dragonpulse
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Gyroball
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Helpinghand
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Aquatail
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Liquidation
+
+    - Outrage
+
+    - Confide
+
+    - Waterpledge
+
+    - Hydrocannon
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Weatherball
+
+    - Aurasphere
+
+    - Crunch
+
+    - Muddywater
+
+    - Hydropump
+
+    - Terrainpulse
+
+    - Flipturn
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,311 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 115
+    - Defense: 85
+    - Special Attack: 80
+    - Special Defense: 85
+    - Speed: 115
+
+**Types:**
+    - Primary Type: TYPE_GHOST
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 0
+    - Experience Yield: 165
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Toughclaws
+    - Ability 2: None
+    - Hidden Ability: Wonderguard
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Skillswap
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Willowisp
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Psyshock
+
+    - Snarl
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Quash
+
+    - Trickroom
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Snatch
+
+    - Spite
+
+    - Synthesis
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Trick
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Foulplay
+
+    - Stompingtantrum
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Encore
+
+    - Scaryface
+
+    - Agility
+
+    - Nastyplot
+
+    - Grassyterrain
+
+    - Psychicterrain
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Hex
+
+    - Crunch
+
+    - Phantomforce
+
+    - Pollenpuff
+
+    - Psychocut
+
+    - Leafstorm
+
+    - Powerwhip
+
+    - Solarblade
+
+    - Expandingforce
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,319 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 75
+    - Attack: 95
+    - Defense: 125
+    - Special Attack: 45
+    - Special Defense: 75
+    - Speed: 95
+
+**Types:**
+    - Primary Type: TYPE_GROUND
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 30
+    - Experience Yield: 192
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Hypercutter
+    - Ability 2: Sandveil
+    - Hidden Ability: Poisonheal
+
+**Evolution:**
+    - Evolves from: GLIGAR
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Steelwing
+
+    - Roost
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Venoshock
+
+    - Payback
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Strugglebug
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Acrobatics
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bugbite
+
+    - Aquatail
+
+    - Tailwind
+
+    - Skyattack
+
+    - Throatchop
+
+    - Earthpower
+
+    - Knockoff
+
+    - Confide
+
+    - Batonpass
+
+    - Screech
+
+    - Scaryface
+
+    - Spikes
+
+    - Agility
+
+    - Sandtomb
+
+    - Pinmissile
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Crosspoison
+
+    - Psychicfangs
+
+    - Powerwhip
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

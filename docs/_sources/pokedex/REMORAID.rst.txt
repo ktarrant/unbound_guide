@@ -1,0 +1,224 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 35
+    - Attack: 65
+    - Defense: 35
+    - Special Attack: 65
+    - Special Defense: 35
+    - Speed: 65
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 78
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Water 2
+
+**Abilities:**
+    - Ability 1: Hustle
+    - Ability 2: Skilllink
+    - Hidden Ability: Moody
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - OCTILLERY
+            - Method: EVO_LEVEL
+            - Condition: 25
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Brine
+
+    - Chargebeam
+
+    - Endure
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Signalbeam
+
+    - Bounce
+
+    - Icywind
+
+    - Seedbomb
+
+    - Gunkshot
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Whirlpool
+
+    - Rockblast
+
+    - Hydropump
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

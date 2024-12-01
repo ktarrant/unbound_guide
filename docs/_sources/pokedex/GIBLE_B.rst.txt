@@ -1,0 +1,229 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 58
+    - Attack: 70
+    - Defense: 45
+    - Special Attack: 45
+    - Special Defense: 45
+    - Speed: 42
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 67
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Flashfire
+    - Ability 2: None
+    - Hidden Ability: Roughskin
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Haban Berry
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Honeclaws
+
+    - Endure
+
+    - Dragonpulse
+
+    - Shadowclaw
+
+    - Stoneedge
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Ironhead
+
+    - Outrage
+
+    - Earthpower
+
+    - Confide
+
+    - Scaryface
+
+    - Sandtomb
+
+    - Bodyslam
+
+    - Scaleshot
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

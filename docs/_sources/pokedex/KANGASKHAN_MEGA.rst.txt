@@ -1,0 +1,324 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 105
+    - Attack: 125
+    - Defense: 100
+    - Special Attack: 60
+    - Special Defense: 100
+    - Speed: 100
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 175
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Monster
+
+**Abilities:**
+    - Ability 1: Parentalbond
+    - Ability 2: Parentalbond
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: KANGASKHAN
+    - Evolves to:
+
+        - KANGASKHAN
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Focusblast
+
+    - Endure
+
+    - Drainpunch
+
+    - Shadowclaw
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Spite
+
+    - Aquatail
+
+    - Endeavor
+
+    - Icywind
+
+    - Outrage
+
+    - Confide
+
+    - Focusenergy
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Reversal
+
+    - Crunch
+
+    - Hydropump
+
+    - Terrainpulse
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

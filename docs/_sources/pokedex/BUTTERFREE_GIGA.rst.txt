@@ -1,0 +1,242 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 45
+    - Defense: 50
+    - Special Attack: 90
+    - Special Defense: 80
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 160
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Bug
+
+**Abilities:**
+    - Ability 1: Compoundeyes
+    - Ability 2: None
+    - Hidden Ability: Tintedlens
+
+**Evolution:**
+    - Evolves from: BUTTERFREE
+    - Evolves to:
+
+        - BUTTERFREE
+            - Method: EVO_GIGANTAMAX
+            - Condition: FALSE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Silver Powder
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Roost
+
+    - Energyball
+
+    - Endure
+
+    - Silverwind
+
+    - Venoshock
+
+    - Gigaimpact
+
+    - Flash
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Strugglebug
+
+    - Infestation
+
+    - Acrobatics
+
+    - Defog
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Electroweb
+
+    - Bugbite
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Tailwind
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Airslash
+
+    - Bugbuzz
+
+    - Pollenpuff
+
+    - Hurricane
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

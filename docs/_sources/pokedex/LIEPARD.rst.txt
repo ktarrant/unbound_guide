@@ -1,0 +1,251 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 64
+    - Attack: 88
+    - Defense: 50
+    - Special Attack: 88
+    - Special Defense: 50
+    - Speed: 106
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 90
+    - Experience Yield: 148
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Limber
+    - Ability 2: Unburden
+    - Hidden Ability: Prankster
+
+**Evolution:**
+    - Evolves from: PURRLOIN
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Thunderwave
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Snarl
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Cut
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Covet
+
+    - Snatch
+
+    - Spite
+
+    - Roleplay
+
+    - Seedbomb
+
+    - Laserfocus
+
+    - Trick
+
+    - Foulplay
+
+    - Throatchop
+
+    - Gunkshot
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Encore
+
+    - Screech
+
+    - Faketears
+
+    - Nastyplot
+
+    - Playrough
+
+    - Psychocut
+
+    - Skittersmack
+
+    - Burningjealousy
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

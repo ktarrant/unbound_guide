@@ -1,0 +1,60 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 95
+    - Attack: 23
+    - Defense: 48
+    - Special Attack: 23
+    - Special Defense: 48
+    - Speed: 23
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 125
+    - Experience Yield: 44
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Shadowtag
+    - Ability 2: None
+    - Hidden Ability: Telepathy
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - WOBBUFFET
+            - Method: EVO_LEVEL
+            - Condition: 15
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Safeguard
+
+
+**Tutor Moves:**
+
+    - Encore
+
+
+**Learnset:**
+
+    - Level : 

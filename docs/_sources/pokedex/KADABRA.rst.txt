@@ -1,0 +1,267 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 35
+    - Defense: 30
+    - Special Attack: 120
+    - Special Defense: 70
+    - Speed: 105
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 100
+    - Experience Yield: 145
+    - EV Yield:
+    - Gender Ratio: 25.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Synchronize
+    - Ability 2: Innerfocus
+    - Hidden Ability: Magicguard
+
+**Evolution:**
+    - Evolves from: ABRA
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Twisted Spoon
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Recycle
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Snatch
+
+    - Signalbeam
+
+    - Gravity
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Foulplay
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Encore
+
+    - Psychicterrain
+
+    - Bodyslam
+
+    - Psychocut
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

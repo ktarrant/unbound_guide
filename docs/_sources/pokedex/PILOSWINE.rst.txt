@@ -1,0 +1,224 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 100
+    - Attack: 100
+    - Defense: 80
+    - Special Attack: 60
+    - Special Defense: 60
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 160
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Oblivious
+    - Ability 2: Snowcloak
+    - Hidden Ability: Thickfat
+
+**Evolution:**
+    - Evolves from: SWINUB
+    - Evolves to:
+
+        - MAMOSWINE
+            - Method: EVO_MOVE
+            - Condition: Ancientpower
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Aspear Berry
+    - Held Item 2: Never Melt Ice
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Reflect
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Avalanche
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Endeavor
+
+    - Icywind
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Superpower
+
+    - Confide
+
+    - Scaryface
+
+    - Sandtomb
+
+    - Iciclespear
+
+    - Icefang
+
+    - Bodyslam
+
+    - Highhorsepower
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

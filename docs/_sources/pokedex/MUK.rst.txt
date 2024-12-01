@@ -1,0 +1,279 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 105
+    - Attack: 105
+    - Defense: 75
+    - Special Attack: 65
+    - Special Defense: 100
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 157
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Amorphous
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Gooey
+    - Ability 2: Stickyhold
+    - Hidden Ability: Poisontouch
+
+**Evolution:**
+    - Evolves from: GRIMER
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Black Sludge
+    - Held Item 2: Toxic Orb
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sludgebomb
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Focusblast
+
+    - Endure
+
+    - Venoshock
+
+    - Explosion
+
+    - Payback
+
+    - Gigaimpact
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Infestation
+
+    - Poweruppunch
+
+    - Sludgewave
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Helpinghand
+
+    - Block
+
+    - Painsplit
+
+    - Gunkshot
+
+    - Knockoff
+
+    - Confide
+
+    - Screech
+
+    - Scaryface
+
+    - Venomdrench
+
+    - Bodyslam
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

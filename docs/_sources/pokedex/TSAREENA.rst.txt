@@ -1,0 +1,231 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 72
+    - Attack: 120
+    - Defense: 98
+    - Special Attack: 50
+    - Special Defense: 98
+    - Speed: 72
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 194
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Leafguard
+    - Ability 2: Dazzling
+    - Hidden Ability: Sweetveil
+
+**Evolution:**
+    - Evolves from: STEENEE
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Grassy Seed
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Payback
+
+    - Gigaimpact
+
+    - Lowsweep
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Acrobatics
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Covet
+
+    - Synthesis
+
+    - Bounce
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Laserfocus
+
+    - Knockoff
+
+    - Confide
+
+    - Playrough
+
+    - Leafstorm
+
+    - Powerwhip
+
+    - Solarblade
+
+    - Grassyglide
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

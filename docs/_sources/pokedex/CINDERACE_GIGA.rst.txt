@@ -1,0 +1,264 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 116
+    - Defense: 75
+    - Special Attack: 65
+    - Special Defense: 75
+    - Speed: 119
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Blaze
+    - Ability 2: None
+    - Hidden Ability: Protean
+
+**Evolution:**
+    - Evolves from: CINDERACE
+    - Evolves to:
+
+        - CINDERACE
+            - Method: EVO_GIGANTAMAX
+            - Condition: FALSE
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Roar
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Focusblast
+
+    - Endure
+
+    - Gigaimpact
+
+    - Flamecharge
+
+    - Lowsweep
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Incinerate
+
+    - Workup
+
+    - Poweruppunch
+
+    - Acrobatics
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Snore
+
+    - Lowkick
+
+    - Helpinghand
+
+    - Bounce
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Superfang
+
+    - Gunkshot
+
+    - Heatwave
+
+    - Knockoff
+
+    - Confide
+
+    - Firepledge
+
+    - Blastburn
+
+    - Focusenergy
+
+    - Batonpass
+
+    - Agility
+
+    - Firespin
+
+    - Firefang
+
+    - Reversal
+
+    - Electroball
+
+    - Blazekick
+
+    - Flareblitz
+
+    - Coaching
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

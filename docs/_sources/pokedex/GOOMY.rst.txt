@@ -1,0 +1,171 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 50
+    - Defense: 35
+    - Special Attack: 55
+    - Special Defense: 75
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 60
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Dragon
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Sapsipper
+    - Ability 2: Hydration
+    - Hidden Ability: Gooey
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Shed Shell
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Sludgebomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Dragonpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Infestation
+
+    - Sludgewave
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Outrage
+
+    - Confide
+
+    - Bodyslam
+
+    - Muddywater
+
+    - Hydropump
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

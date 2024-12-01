@@ -1,0 +1,242 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 80
+    - Defense: 80
+    - Special Attack: 80
+    - Special Defense: 80
+    - Speed: 80
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 187
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Innerfocus
+    - Ability 2: Icebody
+    - Hidden Ability: Moody
+
+**Evolution:**
+    - Evolves from: GLALIE_MEGA
+    - Evolves to:
+
+        - GLALIE_MEGA
+            - Method: EVO_MEGA
+            - Condition: Glalitite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Never Melt Ice
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Explosion
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Avalanche
+
+    - Gyroball
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Frostbreath
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Spite
+
+    - Signalbeam
+
+    - Ironhead
+
+    - Icywind
+
+    - Laserfocus
+
+    - Superfang
+
+    - Hypervoice
+
+    - Confide
+
+    - Faketears
+
+    - Scaryface
+
+    - Spikes
+
+    - Iciclespear
+
+    - Icefang
+
+    - Bodyslam
+
+    - Hex
+
+    - Weatherball
+
+    - Crunch
+
+    - Poltergeist
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

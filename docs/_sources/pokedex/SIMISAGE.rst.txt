@@ -1,0 +1,279 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 75
+    - Attack: 98
+    - Defense: 63
+    - Special Attack: 98
+    - Special Defense: 63
+    - Speed: 101
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 164
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Gluttony
+    - Ability 2: None
+    - Hidden Ability: Adaptability
+
+**Evolution:**
+    - Evolves from: PANSAGE
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Oran Berry
+    - Held Item 2: Leaf Stone
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Focusblast
+
+    - Energyball
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Poweruppunch
+
+    - Acrobatics
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Cut
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Covet
+
+    - Synthesis
+
+    - Roleplay
+
+    - Endeavor
+
+    - Seedbomb
+
+    - Gastroacid
+
+    - Throatchop
+
+    - Gunkshot
+
+    - Superpower
+
+    - Knockoff
+
+    - Confide
+
+    - Grasspledge
+
+    - Nastyplot
+
+    - Crunch
+
+    - Leafstorm
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

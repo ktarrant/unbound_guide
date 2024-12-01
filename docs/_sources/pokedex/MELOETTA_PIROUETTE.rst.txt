@@ -1,0 +1,327 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 100
+    - Attack: 128
+    - Defense: 90
+    - Special Attack: 77
+    - Special Defense: 77
+    - Speed: 128
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Serenegrace
+    - Ability 2: None
+    - Hidden Ability: Defiant
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Skillswap
+
+    - Focusblast
+
+    - Energyball
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Shadowclaw
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Stoneedge
+
+    - Thunderwave
+
+    - Lowsweep
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Workup
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Acrobatics
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Healbell
+
+    - Lowkick
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Snatch
+
+    - Signalbeam
+
+    - Gravity
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Dualchop
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Closecombat
+
+    - Expandingforce
+
+    - Coaching
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

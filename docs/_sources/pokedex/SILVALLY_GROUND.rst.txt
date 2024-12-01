@@ -1,0 +1,289 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 95
+    - Attack: 95
+    - Defense: 95
+    - Special Attack: 95
+    - Special Defense: 95
+    - Speed: 95
+
+**Types:**
+    - Primary Type: TYPE_GROUND
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 114
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Rks System
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Steelwing
+
+    - Honeclaws
+
+    - Endure
+
+    - Explosion
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Thunderwave
+
+    - Swordsdance
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Flashcannon
+
+    - Incinerate
+
+    - Workup
+
+    - Snarl
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Surf
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Ironhead
+
+    - Tailwind
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Magiccoat
+
+    - Outrage
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Lastresort
+
+    - Confide
+
+    - Grasspledge
+
+    - Firepledge
+
+    - Waterpledge
+
+    - Scaryface
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Reversal
+
+    - Airslash
+
+    - Crunch
+
+    - Psychicfangs
+
+    - Terrainpulse
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

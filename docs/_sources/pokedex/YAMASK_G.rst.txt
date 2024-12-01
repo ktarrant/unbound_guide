@@ -1,0 +1,247 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 38
+    - Attack: 55
+    - Defense: 85
+    - Special Attack: 30
+    - Special Defense: 65
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_GROUND
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 61
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Wanderingspirit
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Energyball
+
+    - Endure
+
+    - Willowisp
+
+    - Payback
+
+    - Flash
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Infestation
+
+    - Brutalswing
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Snatch
+
+    - Spite
+
+    - Afteryou
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Wonderroom
+
+    - Earthpower
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Faketears
+
+    - Toxicspikes
+
+    - Nastyplot
+
+    - Hex
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

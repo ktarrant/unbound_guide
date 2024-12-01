@@ -1,0 +1,310 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 97
+    - Attack: 157
+    - Defense: 127
+    - Special Attack: 113
+    - Special Defense: 109
+    - Speed: 77
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 220
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Prismarmor
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - NECROZMA_ULTRA
+            - Method: EVO_MEGA
+            - Condition: Ultranecrozium Z
+            - Extra: MEGA_VARIANT_ULTRA_BURST
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Thief
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Dragonpulse
+
+    - Shadowclaw
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Flash
+
+    - Stoneedge
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Bulldoze
+
+    - Psyshock
+
+    - Brutalswing
+
+    - Smartstrike
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Signalbeam
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Outrage
+
+    - Earthpower
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Confide
+
+    - Cosmicpower
+
+    - Scaryface
+
+    - Dragondance
+
+    - Rockblast
+
+    - Storedpower
+
+    - Breakingswipe
+
+    - Powergem
+
+    - Psychicfangs
+
+    - Psychocut
+
+    - Expandingforce
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

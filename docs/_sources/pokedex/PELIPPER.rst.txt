@@ -1,0 +1,241 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 50
+    - Defense: 100
+    - Special Attack: 95
+    - Special Defense: 70
+    - Speed: 65
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 164
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Flying
+
+**Abilities:**
+    - Ability 1: Keeneye
+    - Ability 2: Drizzle
+    - Hidden Ability: Raindish
+
+**Evolution:**
+    - Evolves from: WINGULL
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Pretty Wing
+    - Held Item 2: Lucky Egg
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Steelwing
+
+    - Roost
+
+    - Brine
+
+    - Endure
+
+    - Payback
+
+    - Gigaimpact
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Pluck
+
+    - Uturn
+
+    - Substitute
+
+    - Defog
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Skydrop
+
+    - Fly
+
+    - Surf
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Tailwind
+
+    - Icywind
+
+    - Seedbomb
+
+    - Liquidation
+
+    - Skyattack
+
+    - Gunkshot
+
+    - Knockoff
+
+    - Confide
+
+    - Agility
+
+    - Whirlpool
+
+    - Weatherball
+
+    - Airslash
+
+    - Bravebird
+
+    - Hurricane
+
+    - Hydropump
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

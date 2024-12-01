@@ -1,0 +1,266 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 70
+    - Defense: 40
+    - Special Attack: 60
+    - Special Defense: 40
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_DARK
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 141
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Chlorophyll
+    - Ability 2: Earlybird
+    - Hidden Ability: Pickpocket
+
+**Evolution:**
+    - Evolves from: SEEDOT
+    - Evolves to:
+
+        - SHIFTRY
+            - Method: EVO_ITEM
+            - Condition: Leaf Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Power Herb
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Energyball
+
+    - Falseswipe
+
+    - Endure
+
+    - Explosion
+
+    - Payback
+
+    - Flash
+
+    - Swordsdance
+
+    - Lowsweep
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Poweruppunch
+
+    - Snarl
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Worryseed
+
+    - Spite
+
+    - Synthesis
+
+    - Seedbomb
+
+    - Foulplay
+
+    - Psychup
+
+    - Confide
+
+    - Nastyplot
+
+    - Grassyterrain
+
+    - Bodyslam
+
+    - Leafblade
+
+    - Solarblade
+
+    - Grassyglide
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

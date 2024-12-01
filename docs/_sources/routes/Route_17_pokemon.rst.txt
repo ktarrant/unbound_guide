@@ -1,0 +1,631 @@
+Route 17 Wild Pokemon
+---------------------
+
+.. list-table:: Route 17 - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Skiploom </pokedex/SKIPLOOM>`
+     - Grass
+     - Flying
+     - 120
+     - 136
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Chlorophyll
+     - Infiltrator
+     - Simple
+   * - :doc:`Noctowl </pokedex/NOCTOWL>`
+     - Normal
+     - Flying
+     - 90
+     - 162
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Insomnia
+     - Keeneye
+     - Tintedlens
+   * - :doc:`Pelipper </pokedex/PELIPPER>`
+     - Water
+     - Flying
+     - 45
+     - 164
+     - 2 Def
+     - 
+     - Pretty Wing
+     - Lucky Egg
+     - 50%
+     - Medium Fast
+     - Keeneye
+     - Drizzle
+     - Raindish
+   * - :doc:`Tropius </pokedex/TROPIUS>`
+     - Grass
+     - Flying
+     - 200
+     - 169
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Chlorophyll
+     - Ripen
+     - Harvest
+   * - :doc:`Pidgeotto </pokedex/PIDGEOTTO>`
+     - Normal
+     - Flying
+     - 120
+     - 113
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Keeneye
+     - Tangledfeet
+     - Galewings
+   * - :doc:`Zangoose </pokedex/ZANGOOSE>`
+     - Normal
+     - Normal
+     - 90
+     - 165
+     - 2 Att
+     - 
+     - 
+     - Quick Claw
+     - 50%
+     - Erratic
+     - Immunity
+     - Toxicboost
+     - Toughclaws
+   * - :doc:`Seviper </pokedex/SEVIPER>`
+     - Poison
+     - Poison
+     - 90
+     - 165
+     - 1 Att
+     - 1 SpA
+     - 
+     - Shed Shell
+     - 50%
+     - Fluctuating
+     - Shedskin
+     - Infiltrator
+     - Galewings
+   * - :doc:`Bagon </pokedex/BAGON>`
+     - Dragon
+     - Dragon
+     - 45
+     - 89
+     - 1 Att
+     - 
+     - 
+     - Dragon Fang
+     - 50%
+     - Slow
+     - Rockhead
+     - 
+     - Sheerforce
+
+.. list-table:: Route 17 - Swarm - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Volbeat </pokedex/VOLBEAT>`
+     - Bug
+     - Bug
+     - 150
+     - 146
+     - 1 Spe
+     - 
+     - 
+     - Bright Powder
+     - 0%
+     - Erratic
+     - Illuminate
+     - Swarm
+     - Prankster
+   * - :doc:`Illumise </pokedex/ILLUMISE>`
+     - Bug
+     - Bug
+     - 150
+     - 146
+     - 1 Spe
+     - 
+     - 
+     - Bright Powder
+     - 100%
+     - Fluctuating
+     - Oblivious
+     - Tintedlens
+     - Prankster
+
+.. list-table:: Route 17 - Special Encounter - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Sirfetch'd </pokedex/SIRFETCHD>`
+     - Fighting
+     - Fighting
+     - 45
+     - 177
+     - 2 Att
+     - 
+     - 
+     - Leek
+     - 50%
+     - Medium Fast
+     - Steadfast
+     - 
+     - Scrappy
+
+.. list-table:: Route 17 - Surf
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Tentacool </pokedex/TENTACOOL>`
+     - Water
+     - Poison
+     - 190
+     - 105
+     - 1 SpD
+     - 
+     - 
+     - Poison Barb
+     - 50%
+     - Slow
+     - Clearbody
+     - Liquidooze
+     - Raindish
+   * - :doc:`Pelipper </pokedex/PELIPPER>`
+     - Water
+     - Flying
+     - 45
+     - 164
+     - 2 Def
+     - 
+     - Pretty Wing
+     - Lucky Egg
+     - 50%
+     - Medium Fast
+     - Keeneye
+     - Drizzle
+     - Raindish
+   * - :doc:`Tentacruel </pokedex/TENTACRUEL>`
+     - Water
+     - Poison
+     - 60
+     - 205
+     - 2 SpD
+     - 
+     - 
+     - Poison Barb
+     - 50%
+     - Slow
+     - Clearbody
+     - Liquidooze
+     - Raindish
+   * - :doc:`Mantyke </pokedex/MANTYKE>`
+     - Water
+     - Flying
+     - 25
+     - 108
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Swiftswim
+     - Waterabsorb
+     - Waterveil
+
+.. list-table:: Route 17 - Old Rod
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Magikarp </pokedex/MAGIKARP>`
+     - Water
+     - Water
+     - 255
+     - 20
+     - 1 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Slow
+     - Swiftswim
+     - 
+     - Rattled
+
+.. list-table:: Route 17 - Good Rod
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Remoraid </pokedex/REMORAID>`
+     - Water
+     - Water
+     - 190
+     - 78
+     - 1 SpA
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Hustle
+     - Skilllink
+     - Moody
+   * - :doc:`Corsola </pokedex/CORSOLA_G>`
+     - Ghost
+     - Ghost
+     - 60
+     - 113
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 75%
+     - Fast
+     - Weakarmor
+     - 
+     - Cursedbody
+   * - :doc:`Horsea </pokedex/HORSEA>`
+     - Water
+     - Water
+     - 225
+     - 83
+     - 1 SpA
+     - 
+     - 
+     - Dragon Scale
+     - 50%
+     - Medium Fast
+     - Swiftswim
+     - Sniper
+     - Damp
+
+.. list-table:: Route 17 - Super Rod
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Octillery </pokedex/OCTILLERY>`
+     - Water
+     - Water
+     - 75
+     - 164
+     - 1 Att
+     - 1 SpA
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Suctioncups
+     - Skilllink
+     - Moody
+   * - :doc:`Seadra </pokedex/SEADRA>`
+     - Water
+     - Water
+     - 75
+     - 155
+     - 1 Def
+     - 1 SpA
+     - 
+     - Dragon Scale
+     - 50%
+     - Medium Fast
+     - Poisonpoint
+     - Sniper
+     - Damp
+   * - :doc:`Corsola </pokedex/CORSOLA_G>`
+     - Ghost
+     - Ghost
+     - 60
+     - 113
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 75%
+     - Fast
+     - Weakarmor
+     - 
+     - Cursedbody
+   * - :doc:`Lapras </pokedex/LAPRAS_GIGA>`
+     - Water
+     - Ice
+     - 45
+     - 219
+     - 2 HP
+     - 
+     - Mystic Water
+     - Mystic Water
+     - 50%
+     - Slow
+     - Waterabsorb
+     - Shellarmor
+     - Hydration
+   * - :doc:`Clamperl </pokedex/CLAMPERL>`
+     - Water
+     - Water
+     - 255
+     - 142
+     - 1 Def
+     - 
+     - Pearl
+     - Big Pearl
+     - 50%
+     - Erratic
+     - Shellarmor
+     - 
+     - Rattled
+   * - :doc:`Carvanha </pokedex/CARVANHA>`
+     - Water
+     - Dark
+     - 225
+     - 88
+     - 1 Att
+     - 
+     - 
+     - Deep Sea Tooth
+     - 50%
+     - Slow
+     - Roughskin
+     - 
+     - Speedboost
+   * - :doc:`Sharpedo </pokedex/SHARPEDO>`
+     - Water
+     - Dark
+     - 60
+     - 175
+     - 2 Att
+     - 
+     - 
+     - Deep Sea Tooth
+     - 50%
+     - Slow
+     - Roughskin
+     - 
+     - Speedboost
+   * - :doc:`Chinchou </pokedex/CHINCHOU>`
+     - Water
+     - Electric
+     - 190
+     - 90
+     - 1 HP
+     - 
+     - 
+     - Deep Sea Scale
+     - 50%
+     - Slow
+     - Voltabsorb
+     - Waterabsorb
+     - Lightningrod
+   * - :doc:`Lanturn </pokedex/LANTURN>`
+     - Water
+     - Electric
+     - 75
+     - 156
+     - 2 HP
+     - 
+     - 
+     - Deep Sea Scale
+     - 50%
+     - Slow
+     - Voltabsorb
+     - Waterabsorb
+     - Lightningrod
+   * - :doc:`Corsola </pokedex/CORSOLA_G>`
+     - Ghost
+     - Ghost
+     - 60
+     - 113
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 75%
+     - Fast
+     - Weakarmor
+     - 
+     - Cursedbody
+
+.. list-table:: Route 17 - Rock Smash
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Binacle </pokedex/BINACLE>`
+     - Rock
+     - Water
+     - 120
+     - 61
+     - 1 Att
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Toughclaws
+     - Sniper
+     - Pickpocket
+   * - :doc:`Geodude </pokedex/GEODUDE_A>`
+     - Rock
+     - Electric
+     - 255
+     - 86
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
+   * - :doc:`Corsola </pokedex/CORSOLA_G>`
+     - Ghost
+     - Ghost
+     - 60
+     - 113
+     - 1 SpD
+     - 
+     - 
+     - 
+     - 75%
+     - Fast
+     - Weakarmor
+     - 
+     - Cursedbody
+   * - :doc:`Krabby </pokedex/KRABBY>`
+     - Water
+     - Water
+     - 225
+     - 115
+     - 1 Att
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Hypercutter
+     - Shellarmor
+     - Sheerforce
+   * - :doc:`Kingler </pokedex/KINGLER_GIGA>`
+     - Water
+     - Water
+     - 60
+     - 206
+     - 2 Att
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Hypercutter
+     - Shellarmor
+     - Sheerforce
+

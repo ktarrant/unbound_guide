@@ -1,0 +1,245 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 130
+    - Attack: 65
+    - Defense: 60
+    - Special Attack: 110
+    - Special Defense: 95
+    - Speed: 65
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 196
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 35
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Waterabsorb
+    - Ability 2: Waterabsorb
+    - Hidden Ability: Hydration
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Brine
+
+    - Endure
+
+    - Gigaimpact
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Helpinghand
+
+    - Covet
+
+    - Signalbeam
+
+    - Aquatail
+
+    - Icywind
+
+    - Laserfocus
+
+    - Liquidation
+
+    - Hypervoice
+
+    - Lastresort
+
+    - Confide
+
+    - Focusenergy
+
+    - Batonpass
+
+    - Faketears
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Weatherball
+
+    - Muddywater
+
+    - Hydropump
+
+    - Flipturn
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

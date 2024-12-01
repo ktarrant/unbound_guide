@@ -1,0 +1,218 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 52
+    - Attack: 65
+    - Defense: 50
+    - Special Attack: 45
+    - Special Defense: 50
+    - Speed: 38
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 60
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Dragon
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Hustle
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - ZWEILOUS
+            - Method: EVO_LEVEL
+            - Condition: 50
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Dragonpulse
+
+    - Thunderwave
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Workup
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Spite
+
+    - Aquatail
+
+    - Zenheadbutt
+
+    - Outrage
+
+    - Earthpower
+
+    - Hypervoice
+
+    - Superpower
+
+    - Psychup
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Scaryface
+
+    - Nastyplot
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Crunch
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

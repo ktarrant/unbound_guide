@@ -1,0 +1,247 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 86
+    - Attack: 81
+    - Defense: 97
+    - Special Attack: 81
+    - Special Defense: 107
+    - Speed: 43
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 199
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 30
+    - Growth Rate: GROWTH_ERRATIC
+
+**Egg Groups:**
+    - Group 1: Water 3
+    - Group 2: Water 3
+
+**Abilities:**
+    - Ability 1: Suctioncups
+    - Ability 2: Simple
+    - Hidden Ability: Stormdrain
+
+**Evolution:**
+    - Evolves from: LILEEP
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Big Root
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Brine
+
+    - Endure
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Flash
+
+    - Stoneedge
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Infestation
+
+    - Sludgewave
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Block
+
+    - Worryseed
+
+    - Synthesis
+
+    - Painsplit
+
+    - Seedbomb
+
+    - Gastroacid
+
+    - Earthpower
+
+    - Confide
+
+    - Grassyterrain
+
+    - Rockblast
+
+    - Bodyslam
+
+    - Powerwhip
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

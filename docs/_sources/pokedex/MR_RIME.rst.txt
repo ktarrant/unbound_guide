@@ -1,0 +1,361 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 85
+    - Defense: 75
+    - Special Attack: 110
+    - Special Defense: 100
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 182
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Screencleaner
+    - Ability 2: Tangledfeet
+    - Hidden Ability: Icebody
+
+**Evolution:**
+    - Evolves from: MR_MIME_G
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Focusblast
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Payback
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Infestation
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Auroraveil
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Uproar
+
+    - Helpinghand
+
+    - Block
+
+    - Covet
+
+    - Snatch
+
+    - Afteryou
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Foulplay
+
+    - Stompingtantrum
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Encore
+
+    - Screech
+
+    - Faketears
+
+    - Nastyplot
+
+    - Mistyterrain
+
+    - Psychicterrain
+
+    - Iciclespear
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Expandingforce
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,313 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 78
+    - Attack: 60
+    - Defense: 85
+    - Special Attack: 135
+    - Special Defense: 91
+    - Speed: 36
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 70
+    - Experience Yield: 168
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Monster
+
+**Abilities:**
+    - Ability 1: Berserk
+    - Ability 2: Sapsipper
+    - Hidden Ability: Cloudnine
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Persim Berry
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Steelwing
+
+    - Roost
+
+    - Focusblast
+
+    - Energyball
+
+    - Endure
+
+    - Dragonpulse
+
+    - Shadowclaw
+
+    - Gigaimpact
+
+    - Thunderwave
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Workup
+
+    - Snarl
+
+    - Defog
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Fly
+
+    - Surf
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Helpinghand
+
+    - Block
+
+    - Signalbeam
+
+    - Tailwind
+
+    - Endeavor
+
+    - Icywind
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Superpower
+
+    - Psychup
+
+    - Confide
+
+    - Dragondance
+
+    - Breakingswipe
+
+    - Playrough
+
+    - Hurricane
+
+    - Hydropump
+
+    - Scaleshot
+
+    - Lashout
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,206 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 75
+    - Defense: 37
+    - Special Attack: 70
+    - Special Defense: 55
+    - Speed: 83
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 117
+    - EV Yield:
+    - Gender Ratio: 25.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Flamebody
+    - Ability 2: None
+    - Hidden Ability: Insomnia
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - MAGMAR
+            - Method: EVO_LEVEL
+            - Condition: 30
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Magmarizer
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Psychic
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Overheat
+
+    - Endure
+
+    - Willowisp
+
+    - Flamecharge
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Poweruppunch
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Dualchop
+
+    - Heatwave
+
+    - Confide
+
+    - Focusenergy
+
+    - Screech
+
+    - Firespin
+
+    - Bodyslam
+
+    - Flareblitz
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

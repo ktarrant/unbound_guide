@@ -1,0 +1,232 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 60
+    - Defense: 90
+    - Special Attack: 60
+    - Special Defense: 70
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 144
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Steamengine
+    - Ability 2: Flamebody
+    - Hidden Ability: Flashfire
+
+**Evolution:**
+    - Evolves from: ROLYCOLY
+    - Evolves to:
+
+        - COALOSSAL
+            - Method: EVO_LEVEL
+            - Condition: 34
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Reflect
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Endure
+
+    - Willowisp
+
+    - Explosion
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Irondefense
+
+    - Ironhead
+
+    - Heatwave
+
+    - Confide
+
+    - Spikes
+
+    - Firespin
+
+    - Sandtomb
+
+    - Rockblast
+
+    - Bodypress
+
+    - Heatcrash
+
+    - Heavyslam
+
+    - Highhorsepower
+
+    - Flareblitz
+
+    - Meteorbeam
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

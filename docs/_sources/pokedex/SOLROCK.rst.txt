@@ -1,0 +1,313 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 95
+    - Defense: 85
+    - Special Attack: 55
+    - Special Defense: 65
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 150
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Levitate
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Stardust
+    - Held Item 2: Sun Stone
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Skillswap
+
+    - Overheat
+
+    - Chargebeam
+
+    - Endure
+
+    - Willowisp
+
+    - Explosion
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Flash
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Psyshock
+
+    - Acrobatics
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Signalbeam
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Ironhead
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Magiccoat
+
+    - Wonderroom
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Heatwave
+
+    - Psychup
+
+    - Confide
+
+    - Cosmicpower
+
+    - Batonpass
+
+    - Psychicterrain
+
+    - Firespin
+
+    - Sandtomb
+
+    - Rockblast
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Weatherball
+
+    - Flareblitz
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

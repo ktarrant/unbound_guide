@@ -1,0 +1,208 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 30
+    - Defense: 35
+    - Special Attack: 50
+    - Special Defense: 70
+    - Speed: 55
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 68
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Naturalcure
+    - Ability 2: Poisonpoint
+    - Hidden Ability: Leafguard
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - ROSELIA
+            - Method: EVO_FRIENDSHIP_DAY
+            - Condition: 0
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Poison Barb
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Venoshock
+
+    - Flash
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Worryseed
+
+    - Covet
+
+    - Synthesis
+
+    - Seedbomb
+
+    - Psychup
+
+    - Confide
+
+    - Spikes
+
+    - Pinmissile
+
+    - Weatherball
+
+    - Leafstorm
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

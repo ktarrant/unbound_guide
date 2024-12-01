@@ -1,0 +1,300 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 65
+    - Attack: 136
+    - Defense: 94
+    - Special Attack: 54
+    - Special Defense: 96
+    - Speed: 135
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 168
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Scrappy
+    - Ability 2: Scrappy
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: LOPUNNY
+    - Evolves to:
+
+        - LOPUNNY
+            - Method: EVO_MEGA
+            - Condition: None
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Payback
+
+    - Gigaimpact
+
+    - Thunderwave
+
+    - Lowsweep
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Workup
+
+    - Poweruppunch
+
+    - Brutalswing
+
+    - Acrobatics
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Healbell
+
+    - Lowkick
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Afteryou
+
+    - Bounce
+
+    - Endeavor
+
+    - Laserfocus
+
+    - Magiccoat
+
+    - Hypervoice
+
+    - Lastresort
+
+    - Confide
+
+    - Cosmicpower
+
+    - Batonpass
+
+    - Encore
+
+    - Faketears
+
+    - Agility
+
+    - Reversal
+
+    - Aurasphere
+
+    - Playrough
+
+    - Closecombat
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

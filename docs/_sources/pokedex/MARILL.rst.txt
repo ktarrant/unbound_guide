@@ -1,0 +1,248 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 20
+    - Defense: 50
+    - Special Attack: 20
+    - Special Defense: 50
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 58
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 10
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Thickfat
+    - Ability 2: Hugepower
+    - Hidden Ability: Sapsipper
+
+**Evolution:**
+    - Evolves from: AZURILL
+    - Evolves to:
+
+        - AZUMARILL
+            - Method: EVO_LEVEL
+            - Condition: 18
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Sleeptalk
+
+    - Scald
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Poweruppunch
+
+    - Brutalswing
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Bounce
+
+    - Icywind
+
+    - Hypervoice
+
+    - Superpower
+
+    - Knockoff
+
+    - Confide
+
+    - Encore
+
+    - Faketears
+
+    - Mistyterrain
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Muddywater
+
+    - Playrough
+
+    - Hydropump
+
+    - Poltergeist
+
+    - Mistyexplosion
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

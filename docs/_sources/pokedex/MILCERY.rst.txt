@@ -1,0 +1,149 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 40
+    - Defense: 40
+    - Special Attack: 50
+    - Special Defense: 61
+    - Speed: 34
+
+**Types:**
+    - Primary Type: TYPE_FAIRY
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 200
+    - Experience Yield: 54
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Amorphous
+
+**Abilities:**
+    - Ability 1: Sweetveil
+    - Ability 2: None
+    - Hidden Ability: Aromaveil
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Recycle
+
+    - Flash
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Lastresort
+
+    - Confide
+
+    - Mistyterrain
+
+    - Storedpower
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

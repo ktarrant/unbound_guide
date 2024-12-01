@@ -1,0 +1,232 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 30
+    - Defense: 50
+    - Special Attack: 55
+    - Special Defense: 55
+    - Speed: 100
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 103
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Soundproof
+    - Ability 2: Static
+    - Hidden Ability: Aftermath
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - ELECTRODE_H
+            - Method: EVO_ITEM
+            - Condition: Leaf Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Thief
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Explosion
+
+    - Flash
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Voltswitch
+
+    - Wildcharge
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Worryseed
+
+    - Synthesis
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Seedbomb
+
+    - Magiccoat
+
+    - Foulplay
+
+    - Confide
+
+    - Screech
+
+    - Agility
+
+    - Grassyterrain
+
+    - Electroball
+
+    - Leafstorm
+
+    - Poltergeist
+
+    - Grassyglide
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

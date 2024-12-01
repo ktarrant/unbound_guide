@@ -1,0 +1,253 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 120
+    - Attack: 125
+    - Defense: 80
+    - Special Attack: 55
+    - Special Defense: 60
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 70
+    - Experience Yield: 173
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Fluffy
+    - Ability 2: Klutz
+    - Hidden Ability: Unnerve
+
+**Evolution:**
+    - Evolves from: STUFFUL
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Endure
+
+    - Drainpunch
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Swordsdance
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Bind
+
+    - Roleplay
+
+    - Ironhead
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Stompingtantrum
+
+    - Dualchop
+
+    - Superpower
+
+    - Confide
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Reversal
+
+    - Darkestlariat
+
+    - Highhorsepower
+
+    - Closecombat
+
+    - Coaching
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

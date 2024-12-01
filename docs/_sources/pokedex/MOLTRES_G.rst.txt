@@ -1,0 +1,227 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 85
+    - Defense: 90
+    - Special Attack: 100
+    - Special Defense: 125
+    - Speed: 90
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 217
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Berserk
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Steelwing
+
+    - Overheat
+
+    - Roost
+
+    - Endure
+
+    - Willowisp
+
+    - Payback
+
+    - Gigaimpact
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Pluck
+
+    - Uturn
+
+    - Substitute
+
+    - Incinerate
+
+    - Snarl
+
+    - Defog
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Quash
+
+    - Skydrop
+
+    - Fly
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Afteryou
+
+    - Tailwind
+
+    - Laserfocus
+
+    - Foulplay
+
+    - Skyattack
+
+    - Hypervoice
+
+    - Confide
+
+    - Scaryface
+
+    - Agility
+
+    - Nastyplot
+
+    - Hex
+
+    - Airslash
+
+    - Bravebird
+
+    - Hurricane
+
+    - Lashout
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,281 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 70
+    - Defense: 70
+    - Special Attack: 90
+    - Special Defense: 100
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 181
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Swiftswim
+    - Ability 2: Raindish
+    - Hidden Ability: Owntempo
+
+**Evolution:**
+    - Evolves from: LOMBRE
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Mental Herb
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Focusblast
+
+    - Energyball
+
+    - Honeclaws
+
+    - Endure
+
+    - Drainpunch
+
+    - Gigaimpact
+
+    - Flash
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Scald
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Poweruppunch
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Uproar
+
+    - Synthesis
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Confide
+
+    - Encore
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Weatherball
+
+    - Muddywater
+
+    - Hydropump
+
+    - Leafstorm
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

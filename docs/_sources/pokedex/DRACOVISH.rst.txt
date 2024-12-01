@@ -1,0 +1,235 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 90
+    - Defense: 100
+    - Special Attack: 70
+    - Special Defense: 80
+    - Speed: 75
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 177
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 35
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Waterabsorb
+    - Ability 2: Strongjaw
+    - Hidden Ability: Sandrush
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Leechfang
+
+    - Brine
+
+    - Endure
+
+    - Dragonpulse
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Ironhead
+
+    - Zenheadbutt
+
+    - Liquidation
+
+    - Superfang
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Confide
+
+    - Whirlpool
+
+    - Rockblast
+
+    - Icefang
+
+    - Bodyslam
+
+    - Crunch
+
+    - Muddywater
+
+    - Psychicfangs
+
+    - Hydropump
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

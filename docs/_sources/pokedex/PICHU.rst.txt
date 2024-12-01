@@ -1,0 +1,214 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 20
+    - Attack: 40
+    - Defense: 15
+    - Special Attack: 35
+    - Special Defense: 35
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_ELECTRIC
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 42
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 10
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Static
+    - Ability 2: Static
+    - Hidden Ability: Lightningrod
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - PIKACHU
+            - Method: EVO_FRIENDSHIP
+            - Condition: 0
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Oran Berry
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Chargebeam
+
+    - Endure
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Voltswitch
+
+    - Wildcharge
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Surf
+
+
+**Tutor Moves:**
+
+    - Thunderpunch
+
+    - Snore
+
+    - Electroweb
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Endeavor
+
+    - Confide
+
+    - Encore
+
+    - Nastyplot
+
+    - Electricterrain
+
+    - Bodyslam
+
+    - Reversal
+
+    - Playrough
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

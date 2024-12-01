@@ -1,0 +1,258 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 100
+    - Defense: 70
+    - Special Attack: 105
+    - Special Defense: 75
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 150
+    - Experience Yield: 175
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Magmaarmor
+    - Ability 2: Filter
+    - Hidden Ability: Angerpoint
+
+**Evolution:**
+    - Evolves from: NUMEL, CAMERUPT_MEGA
+    - Evolves to:
+
+        - CAMERUPT_MEGA
+            - Method: EVO_MEGA
+            - Condition: Cameruptite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: Rawst Berry
+    - Held Item 2: Rawst Berry
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Endure
+
+    - Willowisp
+
+    - Explosion
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Stealthrock
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Afteryou
+
+    - Ironhead
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Heatwave
+
+    - Confide
+
+    - Focusenergy
+
+    - Scaryface
+
+    - Sandtomb
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heatcrash
+
+    - Heavyslam
+
+    - Highhorsepower
+
+    - Flareblitz
+
+    - Burningjealousy
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

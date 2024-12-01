@@ -1,0 +1,243 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 108
+    - Attack: 100
+    - Defense: 121
+    - Special Attack: 81
+    - Special Defense: 95
+    - Speed: 95
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Aurabreak
+    - Ability 2: None
+    - Hidden Ability: Powerconstruct
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Sandstorm
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Focusblast
+
+    - Endure
+
+    - Dragonpulse
+
+    - Silverwind
+
+    - Payback
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Sludgewave
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Block
+
+    - Spite
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Hypervoice
+
+    - Superpower
+
+    - Confide
+
+    - Dragondance
+
+    - Bodyslam
+
+    - Reversal
+
+    - Breakingswipe
+
+    - Crunch
+
+    - Highhorsepower
+
+    - Scaleshot
+
+    - Skittersmack
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

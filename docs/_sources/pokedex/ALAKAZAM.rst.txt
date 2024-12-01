@@ -1,0 +1,290 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 55
+    - Attack: 50
+    - Defense: 45
+    - Special Attack: 135
+    - Special Defense: 95
+    - Speed: 120
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 50
+    - Experience Yield: 186
+    - EV Yield:
+    - Gender Ratio: 25.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Synchronize
+    - Ability 2: Innerfocus
+    - Hidden Ability: Magicguard
+
+**Evolution:**
+    - Evolves from: ALAKAZAM_MEGA
+    - Evolves to:
+
+        - ALAKAZAM_MEGA
+            - Method: EVO_MEGA
+            - Condition: Alakazite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Twisted Spoon
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Focusblast
+
+    - Energyball
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Snatch
+
+    - Signalbeam
+
+    - Gravity
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Foulplay
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Encore
+
+    - Nastyplot
+
+    - Psychicterrain
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Psychocut
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

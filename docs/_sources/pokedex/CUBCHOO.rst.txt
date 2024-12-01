@@ -1,0 +1,226 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 55
+    - Attack: 70
+    - Defense: 40
+    - Special Attack: 60
+    - Special Defense: 40
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 61
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Snowcloak
+    - Ability 2: Slushrush
+    - Hidden Ability: Rattled
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - BEARTIC
+            - Method: EVO_LEVEL
+            - Condition: 37
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Aspear Berry
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Brine
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Poweruppunch
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Lowkick
+
+    - Covet
+
+    - Icywind
+
+    - Superpower
+
+    - Confide
+
+    - Encore
+
+    - Icefang
+
+    - Playrough
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

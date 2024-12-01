@@ -1,0 +1,254 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 100
+    - Attack: 100
+    - Defense: 90
+    - Special Attack: 150
+    - Special Defense: 140
+    - Speed: 90
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_WATER
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 218
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Drizzle
+    - Ability 2: None
+    - Hidden Ability: Hydration
+
+**Evolution:**
+    - Evolves from: KYOGRE_PRIMAL
+    - Evolves to:
+
+        - KYOGRE_PRIMAL
+            - Method: EVO_MEGA
+            - Condition: Blue Orb
+            - Extra: MEGA_VARIANT_PRIMAL
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Brine
+
+    - Endure
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Scald
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Rocksmash
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Block
+
+    - Signalbeam
+
+    - Ironhead
+
+    - Aquatail
+
+    - Icywind
+
+    - Liquidation
+
+    - Psychup
+
+    - Confide
+
+    - Scaryface
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Heavyslam
+
+    - Muddywater
+
+    - Hydropump
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

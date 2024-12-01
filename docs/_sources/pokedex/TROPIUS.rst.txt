@@ -1,0 +1,247 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 99
+    - Attack: 68
+    - Defense: 83
+    - Special Attack: 72
+    - Special Defense: 87
+    - Speed: 51
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 200
+    - Experience Yield: 169
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Chlorophyll
+    - Ability 2: Ripen
+    - Hidden Ability: Harvest
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Steelwing
+
+    - Roost
+
+    - Energyball
+
+    - Endure
+
+    - Dragonpulse
+
+    - Silverwind
+
+    - Gigaimpact
+
+    - Flash
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+    - Fly
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Worryseed
+
+    - Synthesis
+
+    - Tailwind
+
+    - Seedbomb
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Confide
+
+    - Dragondance
+
+    - Bodyslam
+
+    - Airslash
+
+    - Leafblade
+
+    - Hurricane
+
+    - Leafstorm
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

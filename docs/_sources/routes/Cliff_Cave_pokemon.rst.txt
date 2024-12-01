@@ -1,0 +1,162 @@
+Cliff Cave Wild Pokemon
+-----------------------
+
+.. list-table:: Cliff Cave - Land
+   :widths: 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+   :header-rows: 1
+
+   * - Name
+     - Type 1
+     - Type 2
+     - Catch Rate
+     - Exp
+     - Ev 1
+     - Ev 2
+     - Item 1
+     - Item 2
+     - Gender Ratio
+     - Growth Rate
+     - Ability 1
+     - Ability 2
+     - Hidden Ability
+   * - :doc:`Golbat </pokedex/GOLBAT>`
+     - Poison
+     - Flying
+     - 90
+     - 171
+     - 2 Spe
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Innerfocus
+     - 
+     - Infiltrator
+   * - :doc:`Geodude </pokedex/GEODUDE_A>`
+     - Rock
+     - Electric
+     - 255
+     - 86
+     - 1 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
+   * - :doc:`Machop </pokedex/MACHOP>`
+     - Fighting
+     - Fighting
+     - 180
+     - 75
+     - 1 Att
+     - 
+     - 
+     - Focus Band
+     - 25%
+     - Medium Slow
+     - Guts
+     - Noguard
+     - Steadfast
+   * - :doc:`Onix </pokedex/ONIX>`
+     - Rock
+     - Ground
+     - 45
+     - 108
+     - 1 Def
+     - 
+     - 
+     - Hard Stone
+     - 50%
+     - Medium Fast
+     - Rockhead
+     - Sturdy
+     - Weakarmor
+   * - :doc:`Wooper </pokedex/WOOPER>`
+     - Water
+     - Ground
+     - 255
+     - 52
+     - 1 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Damp
+     - Waterabsorb
+     - Unaware
+   * - :doc:`Misdreavus </pokedex/MISDREAVUS>`
+     - Ghost
+     - Ghost
+     - 45
+     - 147
+     - 1 SpD
+     - 
+     - 
+     - Spell Tag
+     - 50%
+     - Fast
+     - Levitate
+     - 
+     - Magician
+   * - :doc:`Quagsire </pokedex/QUAGSIRE>`
+     - Water
+     - Ground
+     - 90
+     - 137
+     - 2 HP
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Fast
+     - Damp
+     - Waterabsorb
+     - Unaware
+   * - :doc:`Graveler </pokedex/GRAVELER_A>`
+     - Rock
+     - Electric
+     - 120
+     - 134
+     - 2 Def
+     - 
+     - 
+     - 
+     - 50%
+     - Medium Slow
+     - Magnetpull
+     - Sturdy
+     - Galvanize
+   * - :doc:`Machoke </pokedex/MACHOKE>`
+     - Fighting
+     - Fighting
+     - 90
+     - 146
+     - 2 Att
+     - 
+     - 
+     - Focus Band
+     - 25%
+     - Medium Slow
+     - Guts
+     - Noguard
+     - Sturdy
+   * - :doc:`Steelix </pokedex/STEELIX_MEGA>`
+     - Steel
+     - Ground
+     - 25
+     - 196
+     - 2 Def
+     - 
+     - 
+     - Metal Coat
+     - 50%
+     - Medium Fast
+     - Sandforce
+     - Sandforce
+     - 
+

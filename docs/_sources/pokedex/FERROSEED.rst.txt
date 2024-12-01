@@ -1,0 +1,220 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 44
+    - Attack: 50
+    - Defense: 91
+    - Special Attack: 24
+    - Special Defense: 86
+    - Speed: 10
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 61
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Roughskin
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - FERROTHORN
+            - Method: EVO_LEVEL
+            - Condition: 40
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Sticky Barb
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Honeclaws
+
+    - Endure
+
+    - Explosion
+
+    - Payback
+
+    - Rockpolish
+
+    - Flash
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Worryseed
+
+    - Gravity
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Endeavor
+
+    - Seedbomb
+
+    - Knockoff
+
+    - Confide
+
+    - Spikes
+
+    - Pinmissile
+
+    - Poltergeist
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

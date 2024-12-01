@@ -1,0 +1,350 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 250
+    - Attack: 5
+    - Defense: 5
+    - Special Attack: 35
+    - Special Defense: 105
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 30
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Naturalcure
+    - Ability 2: Serenegrace
+    - Hidden Ability: Healer
+
+**Evolution:**
+    - Evolves from: HAPPINY
+    - Evolves to:
+
+        - BLISSEY
+            - Method: EVO_FRIENDSHIP
+            - Condition: 0
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Lucky Punch
+    - Held Item 2: Lucky Egg
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Skillswap
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Workup
+
+    - Wildcharge
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Healbell
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Snatch
+
+    - Gravity
+
+    - Telekinesis
+
+    - Endeavor
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Stompingtantrum
+
+    - Hypervoice
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Bodyslam
+
+    - Storedpower
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

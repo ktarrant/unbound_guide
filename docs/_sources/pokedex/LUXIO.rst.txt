@@ -1,0 +1,208 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 85
+    - Defense: 49
+    - Special Attack: 60
+    - Special Defense: 49
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_ELECTRIC
+
+**Other Stats:**
+    - Catch Rate: 120
+    - Experience Yield: 117
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Rivalry
+    - Ability 2: Intimidate
+    - Hidden Ability: Guts
+
+**Evolution:**
+    - Evolves from: SHINX
+    - Evolves to:
+
+        - LUXRAY
+            - Method: EVO_LEVEL
+            - Condition: 30
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Chargebeam
+
+    - Endure
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Voltswitch
+
+    - Wildcharge
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Confide
+
+    - Faketears
+
+    - Scaryface
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Electroball
+
+    - Crunch
+
+    - Playrough
+
+    - Psychicfangs
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,312 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 55
+    - Defense: 75
+    - Special Attack: 60
+    - Special Defense: 75
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 127
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Monster
+
+**Abilities:**
+    - Ability 1: Thickfat
+    - Ability 2: Oblivious
+    - Hidden Ability: Cloudnine
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - LICKILICKY
+            - Method: EVO_MOVE
+            - Condition: Rollout
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Lagging Tail
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Gigaimpact
+
+    - Swordsdance
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Surf
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Healbell
+
+    - Bind
+
+    - Helpinghand
+
+    - Aquatail
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Stompingtantrum
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Screech
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Muddywater
+
+    - Hydropump
+
+    - Powerwhip
+
+    - Poltergeist
+
+    - Terrainpulse
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

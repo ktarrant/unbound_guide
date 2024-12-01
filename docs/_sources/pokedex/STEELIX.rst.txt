@@ -1,0 +1,300 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 75
+    - Attack: 85
+    - Defense: 200
+    - Special Attack: 55
+    - Special Defense: 65
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_STEEL
+    - Secondary Type: TYPE_GROUND
+
+**Other Stats:**
+    - Catch Rate: 25
+    - Experience Yield: 196
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Rockhead
+    - Ability 2: Sturdy
+    - Hidden Ability: Sheerforce
+
+**Evolution:**
+    - Evolves from: STEELIX_MEGA
+    - Evolves to:
+
+        - STEELIX_MEGA
+            - Method: EVO_MEGA
+            - Condition: Steelixite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Metal Coat
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Dragonpulse
+
+    - Explosion
+
+    - Payback
+
+    - Gigaimpact
+
+    - Rockpolish
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Brutalswing
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Block
+
+    - Irondefense
+
+    - Magnetrise
+
+    - Ironhead
+
+    - Aquatail
+
+    - Zenheadbutt
+
+    - Drillrun
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Psychup
+
+    - Confide
+
+    - Screech
+
+    - Scaryface
+
+    - Dragondance
+
+    - Sandtomb
+
+    - Rockblast
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Bodypress
+
+    - Heavyslam
+
+    - Breakingswipe
+
+    - Crunch
+
+    - Highhorsepower
+
+    - Psychicfangs
+
+    - Poltergeist
+
+    - Meteorbeam
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,249 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 107
+    - Attack: 139
+    - Defense: 139
+    - Special Attack: 53
+    - Special Defense: 53
+    - Speed: 79
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Beastboost
+    - Ability 2: None
+    - Hidden Ability: None
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Protect
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Leechfang
+
+    - Roost
+
+    - Falseswipe
+
+    - Endure
+
+    - Drainpunch
+
+    - Payback
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Strugglebug
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Bugbite
+
+    - Bounce
+
+    - Ironhead
+
+    - Endeavor
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Dualchop
+
+    - Superpower
+
+    - Confide
+
+    - Focusenergy
+
+    - Bodyslam
+
+    - Reversal
+
+    - Darkestlariat
+
+    - Highhorsepower
+
+    - Closecombat
+
+    - Coaching
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

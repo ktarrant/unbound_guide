@@ -1,0 +1,208 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 49
+    - Defense: 65
+    - Special Attack: 49
+    - Special Defense: 65
+    - Speed: 45
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 64
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Overgrow
+    - Ability 2: None
+    - Hidden Ability: Leafguard
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - BAYLEEF
+            - Method: EVO_LEVEL
+            - Condition: 16
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Flash
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Worryseed
+
+    - Synthesis
+
+    - Seedbomb
+
+    - Magiccoat
+
+    - Confide
+
+    - Grasspledge
+
+    - Grassyterrain
+
+    - Bodyslam
+
+    - Pollenpuff
+
+    - Leafstorm
+
+    - Solarblade
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

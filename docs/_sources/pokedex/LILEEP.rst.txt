@@ -1,0 +1,210 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 66
+    - Attack: 41
+    - Defense: 77
+    - Special Attack: 61
+    - Special Defense: 87
+    - Speed: 23
+
+**Types:**
+    - Primary Type: TYPE_ROCK
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 99
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 30
+    - Growth Rate: GROWTH_ERRATIC
+
+**Egg Groups:**
+    - Group 1: Water 3
+    - Group 2: Water 3
+
+**Abilities:**
+    - Ability 1: Suctioncups
+    - Ability 2: Simple
+    - Hidden Ability: Stormdrain
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - CRADILY
+            - Method: EVO_LEVEL
+            - Condition: 40
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Big Root
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Sandstorm
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Brine
+
+    - Endure
+
+    - Rockpolish
+
+    - Flash
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Infestation
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Worryseed
+
+    - Synthesis
+
+    - Painsplit
+
+    - Seedbomb
+
+    - Gastroacid
+
+    - Earthpower
+
+    - Confide
+
+    - Rockblast
+
+    - Bodyslam
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

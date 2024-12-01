@@ -1,0 +1,337 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 76
+    - Attack: 104
+    - Defense: 71
+    - Special Attack: 104
+    - Special Defense: 71
+    - Speed: 108
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 209
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Blaze
+    - Ability 2: None
+    - Hidden Ability: Ironfist
+
+**Evolution:**
+    - Evolves from: MONFERNO
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Focusblast
+
+    - Honeclaws
+
+    - Endure
+
+    - Drainpunch
+
+    - Willowisp
+
+    - Shadowclaw
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Swordsdance
+
+    - Stealthrock
+
+    - Flamecharge
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Acrobatics
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Roleplay
+
+    - Endeavor
+
+    - Laserfocus
+
+    - Gunkshot
+
+    - Dualchop
+
+    - Heatwave
+
+    - Vacuumwave
+
+    - Confide
+
+    - Firepledge
+
+    - Blastburn
+
+    - Focusenergy
+
+    - Encore
+
+    - Nastyplot
+
+    - Firespin
+
+    - Blazekick
+
+    - Closecombat
+
+    - Flareblitz
+
+    - Coaching
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

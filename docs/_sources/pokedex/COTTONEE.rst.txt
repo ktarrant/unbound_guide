@@ -1,0 +1,194 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 27
+    - Defense: 60
+    - Special Attack: 37
+    - Special Defense: 50
+    - Speed: 66
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 55
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Prankster
+    - Ability 2: Infiltrator
+    - Hidden Ability: Cottondown
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - WHIMSICOTT
+            - Method: EVO_ITEM
+            - Condition: Sun Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Absorb Bulb
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Flash
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Covet
+
+    - Tailwind
+
+    - Endeavor
+
+    - Seedbomb
+
+    - Knockoff
+
+    - Confide
+
+    - Encore
+
+    - Faketears
+
+    - Grassyterrain
+
+    - Mistyterrain
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

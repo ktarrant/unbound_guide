@@ -1,0 +1,269 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 100
+    - Attack: 100
+    - Defense: 125
+    - Special Attack: 110
+    - Special Defense: 50
+    - Speed: 50
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 30
+    - Experience Yield: 211
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Chlorophyll
+    - Ability 2: Leafguard
+    - Hidden Ability: Regenerator
+
+**Evolution:**
+    - Evolves from: TANGELA
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Earthquake
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Sludgebomb
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Focusblast
+
+    - Energyball
+
+    - Endure
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Swordsdance
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Infestation
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Block
+
+    - Worryseed
+
+    - Synthesis
+
+    - Painsplit
+
+    - Endeavor
+
+    - Seedbomb
+
+    - Stompingtantrum
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Grassyterrain
+
+    - Bodyslam
+
+    - Leafstorm
+
+    - Powerwhip
+
+    - Solarblade
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

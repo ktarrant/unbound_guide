@@ -1,0 +1,255 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 68
+    - Attack: 64
+    - Defense: 60
+    - Special Attack: 111
+    - Special Defense: 60
+    - Speed: 117
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 171
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Monster
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Corrosion
+    - Ability 2: None
+    - Hidden Ability: Oblivious
+
+**Evolution:**
+    - Evolves from: SALANDIT
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Smoke Ball
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Protect
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Sludgebomb
+
+    - Fireblast
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Leechfang
+
+    - Overheat
+
+    - Honeclaws
+
+    - Endure
+
+    - Dragonpulse
+
+    - Willowisp
+
+    - Venoshock
+
+    - Shadowclaw
+
+    - Payback
+
+    - Thunderwave
+
+    - Flamecharge
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Sludgewave
+
+    - Acrobatics
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Covet
+
+    - Snatch
+
+    - Laserfocus
+
+    - Foulplay
+
+    - Gunkshot
+
+    - Heatwave
+
+    - Knockoff
+
+    - Confide
+
+    - Encore
+
+    - Faketears
+
+    - Venomdrench
+
+    - Dragondance
+
+    - Nastyplot
+
+    - Breakingswipe
+
+    - Crosspoison
+
+    - Flareblitz
+
+    - Scaleshot
+
+    - Skittersmack
+
+    - Corrosivegas
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

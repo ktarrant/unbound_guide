@@ -1,0 +1,247 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 51
+    - Attack: 52
+    - Defense: 90
+    - Special Attack: 82
+    - Special Defense: 110
+    - Speed: 100
+
+**Types:**
+    - Primary Type: TYPE_FAIRY
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 168
+    - EV Yield:
+    - Gender Ratio: 75.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Flowerveil
+    - Ability 2: Triage
+    - Hidden Ability: Naturalcure
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Misty Seed
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Energyball
+
+    - Endure
+
+    - Silverwind
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Acrobatics
+
+    - Defog
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Bind
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Covet
+
+    - Afteryou
+
+    - Synthesis
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Painsplit
+
+    - Tailwind
+
+    - Seedbomb
+
+    - Trick
+
+    - Magiccoat
+
+    - Psychup
+
+    - Confide
+
+    - Encore
+
+    - Grassyterrain
+
+    - Storedpower
+
+    - Playrough
+
+    - Pollenpuff
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,223 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 70
+    - Defense: 80
+    - Special Attack: 70
+    - Special Defense: 95
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 176
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Water 1
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Thickfat
+    - Ability 2: Icebody
+    - Hidden Ability: Icescales
+
+**Evolution:**
+    - Evolves from: SEEL
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Aspear Berry
+    - Held Item 2: Never Melt Ice
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Brine
+
+    - Endure
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Smartstrike
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Surf
+
+    - Strength
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Signalbeam
+
+    - Aquatail
+
+    - Icywind
+
+    - Drillrun
+
+    - Liquidation
+
+    - Confide
+
+    - Encore
+
+    - Whirlpool
+
+    - Iciclespear
+
+    - Bodyslam
+
+    - Hydropump
+
+    - Flipturn
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

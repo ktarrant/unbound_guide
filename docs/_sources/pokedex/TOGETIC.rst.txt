@@ -1,0 +1,322 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 55
+    - Attack: 40
+    - Defense: 85
+    - Special Attack: 80
+    - Special Defense: 105
+    - Speed: 40
+
+**Types:**
+    - Primary Type: TYPE_FAIRY
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 114
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 10
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Flying
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Hustle
+    - Ability 2: Serenegrace
+    - Hidden Ability: Superluck
+
+**Evolution:**
+    - Evolves from: TOGEPI
+    - Evolves to:
+
+        - TOGEKISS
+            - Method: EVO_ITEM
+            - Condition: Shiny Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Steelwing
+
+    - Roost
+
+    - Endure
+
+    - Drainpunch
+
+    - Silverwind
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Workup
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Smartstrike
+
+    - Defog
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Fly
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Afteryou
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Tailwind
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Skyattack
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Batonpass
+
+    - Encore
+
+    - Nastyplot
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Airslash
+
+    - Mysticalfire
+
+    - Playrough
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

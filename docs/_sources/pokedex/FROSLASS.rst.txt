@@ -1,0 +1,265 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 80
+    - Defense: 70
+    - Special Attack: 80
+    - Special Defense: 70
+    - Speed: 110
+
+**Types:**
+    - Primary Type: TYPE_ICE
+    - Secondary Type: TYPE_GHOST
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 187
+    - EV Yield:
+    - Gender Ratio: 100.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Snowcloak
+    - Ability 2: Cursedbody
+    - Hidden Ability: Perishbody
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Babiri Berry
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Willowisp
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Avalanche
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Drainingkiss
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Auroraveil
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Block
+
+    - Snatch
+
+    - Spite
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Painsplit
+
+    - Icywind
+
+    - Laserfocus
+
+    - Trick
+
+    - Psychup
+
+    - Confide
+
+    - Faketears
+
+    - Spikes
+
+    - Iciclespear
+
+    - Icefang
+
+    - Bodyslam
+
+    - Hex
+
+    - Weatherball
+
+    - Crunch
+
+    - Tripleaxel
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,273 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 85
+    - Attack: 73
+    - Defense: 70
+    - Special Attack: 73
+    - Special Defense: 115
+    - Speed: 67
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 165
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Insomnia
+    - Ability 2: Innerfocus
+    - Hidden Ability: Psychicsurge
+
+**Evolution:**
+    - Evolves from: DROWZEE
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Skillswap
+
+    - Focusblast
+
+    - Endure
+
+    - Drainpunch
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Lowsweep
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Psyshock
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Snatch
+
+    - Signalbeam
+
+    - Telekinesis
+
+    - Roleplay
+
+    - Zenheadbutt
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Foulplay
+
+    - Psychup
+
+    - Confide
+
+    - Batonpass
+
+    - Nastyplot
+
+    - Psychicterrain
+
+    - Bodyslam
+
+    - Psychocut
+
+    - Expandingforce
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

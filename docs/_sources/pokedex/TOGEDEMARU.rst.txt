@@ -1,0 +1,239 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 65
+    - Attack: 98
+    - Defense: 63
+    - Special Attack: 40
+    - Special Defense: 73
+    - Speed: 96
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 180
+    - Experience Yield: 132
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Roughskin
+    - Ability 2: Lightningrod
+    - Hidden Ability: Sturdy
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Electric Seed
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Protect
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Chargebeam
+
+    - Endure
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Voltswitch
+
+    - Workup
+
+    - Wildcharge
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Electroweb
+
+    - Helpinghand
+
+    - Covet
+
+    - Afteryou
+
+    - Gravity
+
+    - Magnetrise
+
+    - Bounce
+
+    - Roleplay
+
+    - Ironhead
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Superfang
+
+    - Lastresort
+
+    - Confide
+
+    - Encore
+
+    - Agility
+
+    - Electricterrain
+
+    - Pinmissile
+
+    - Reversal
+
+    - Electroball
+
+    - Poltergeist
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

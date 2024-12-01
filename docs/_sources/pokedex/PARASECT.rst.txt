@@ -1,0 +1,245 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 95
+    - Defense: 80
+    - Special Attack: 60
+    - Special Defense: 80
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_BUG
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 128
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Bug
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Effectspore
+    - Ability 2: Dryskin
+    - Hidden Ability: Toxicboost
+
+**Evolution:**
+    - Evolves from: PARAS
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Tiny Mushroom
+    - Held Item 2: Big Mushroom
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Sludgebomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Leechfang
+
+    - Energyball
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Venoshock
+
+    - Gigaimpact
+
+    - Flash
+
+    - Swordsdance
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Strugglebug
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Worryseed
+
+    - Bugbite
+
+    - Afteryou
+
+    - Synthesis
+
+    - Seedbomb
+
+    - Throatchop
+
+    - Knockoff
+
+    - Confide
+
+    - Screech
+
+    - Agility
+
+    - Grassyterrain
+
+    - Bodyslam
+
+    - Crosspoison
+
+    - Grassyglide
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

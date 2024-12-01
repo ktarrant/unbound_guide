@@ -1,0 +1,247 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 115
+    - Attack: 115
+    - Defense: 85
+    - Special Attack: 90
+    - Special Defense: 75
+    - Speed: 100
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 217
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 80
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Pressure
+    - Ability 2: Innerfocus
+    - Hidden Ability: Flashfire
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Flamethrower
+
+    - Sandstorm
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Overheat
+
+    - Endure
+
+    - Willowisp
+
+    - Gigaimpact
+
+    - Flash
+
+    - Stoneedge
+
+    - Flamecharge
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Quash
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Ironhead
+
+    - Laserfocus
+
+    - Stompingtantrum
+
+    - Heatwave
+
+    - Psychup
+
+    - Confide
+
+    - Agility
+
+    - Firespin
+
+    - Firefang
+
+    - Bodyslam
+
+    - Weatherball
+
+    - Flareblitz
+
+    - Scorchingsands
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

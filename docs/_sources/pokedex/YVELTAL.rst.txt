@@ -1,0 +1,251 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 126
+    - Attack: 131
+    - Defense: 95
+    - Special Attack: 131
+    - Special Defense: 98
+    - Speed: 99
+
+**Types:**
+    - Primary Type: TYPE_DARK
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 255
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Darkaura
+    - Ability 2: None
+    - Hidden Ability: Aerilate
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Thief
+
+    - Steelwing
+
+    - Roost
+
+    - Focusblast
+
+    - Honeclaws
+
+    - Endure
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Darkpulse
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Swagger
+
+    - Uturn
+
+    - Substitute
+
+    - Acrobatics
+
+    - Snarl
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Skydrop
+
+    - Cut
+
+    - Fly
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Block
+
+    - Tailwind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Foulplay
+
+    - Skyattack
+
+    - Heatwave
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Confide
+
+    - Bodyslam
+
+    - Airslash
+
+    - Phantomforce
+
+    - Hurricane
+
+    - Lashout
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

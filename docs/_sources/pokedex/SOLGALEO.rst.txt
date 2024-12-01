@@ -1,0 +1,303 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 137
+    - Attack: 137
+    - Defense: 107
+    - Special Attack: 113
+    - Special Defense: 89
+    - Speed: 97
+
+**Types:**
+    - Primary Type: TYPE_PSYCHIC
+    - Secondary Type: TYPE_STEEL
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 220
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Fullmetalbody
+    - Ability 2: None
+    - Hidden Ability: Battlearmor
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Focusblast
+
+    - Honeclaws
+
+    - Endure
+
+    - Gigaimpact
+
+    - Stoneedge
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Flamecharge
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Flashcannon
+
+    - Incinerate
+
+    - Bulldoze
+
+    - Workup
+
+    - Wildcharge
+
+    - Psyshock
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Trickroom
+
+    - Cut
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Irondefense
+
+    - Ironhead
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Outrage
+
+    - Hypervoice
+
+    - Superpower
+
+    - Knockoff
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Cosmicpower
+
+    - Scaryface
+
+    - Agility
+
+    - Firespin
+
+    - Heatcrash
+
+    - Heavyslam
+
+    - Crunch
+
+    - Mysticalfire
+
+    - Psychicfangs
+
+    - Closecombat
+
+    - Flareblitz
+
+    - Expandingforce
+
+    - Poltergeist
+
+    - Meteorbeam
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

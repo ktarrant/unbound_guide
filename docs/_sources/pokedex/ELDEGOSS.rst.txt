@@ -1,0 +1,189 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 60
+    - Attack: 50
+    - Defense: 90
+    - Special Attack: 80
+    - Special Defense: 120
+    - Speed: 60
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_GRASS
+
+**Other Stats:**
+    - Catch Rate: 75
+    - Experience Yield: 161
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Grass
+    - Group 2: Grass
+
+**Abilities:**
+    - Ability 1: Cottondown
+    - Ability 2: Regenerator
+    - Hidden Ability: Effectspore
+
+**Evolution:**
+    - Evolves from: GOSSIFLEUR
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Doubleteam
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Energyball
+
+    - Endure
+
+    - Silverwind
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Infestation
+
+    - Round
+
+    - Naturalgift
+
+    - Naturepower
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Worryseed
+
+    - Synthesis
+
+    - Seedbomb
+
+    - Hypervoice
+
+    - Confide
+
+    - Grassyterrain
+
+    - Weatherball
+
+    - Pollenpuff
+
+    - Leafstorm
+
+    - Grassyglide
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

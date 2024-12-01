@@ -1,0 +1,275 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 100
+    - Defense: 90
+    - Special Attack: 80
+    - Special Defense: 70
+    - Speed: 75
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 177
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 35
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Voltabsorb
+    - Ability 2: Hustle
+    - Hidden Ability: Sandrush
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Chargebeam
+
+    - Endure
+
+    - Dragonpulse
+
+    - Gigaimpact
+
+    - Flash
+
+    - Stoneedge
+
+    - Thunderwave
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Pluck
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Wildcharge
+
+    - Brutalswing
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Naturepower
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Earthpower
+
+    - Confide
+
+    - Firespin
+
+    - Rockblast
+
+    - Thunderfang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Electroball
+
+    - Breakingswipe
+
+    - Highhorsepower
+
+    - Meteorbeam
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

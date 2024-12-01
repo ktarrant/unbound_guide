@@ -1,0 +1,339 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 140
+    - Attack: 70
+    - Defense: 45
+    - Special Attack: 85
+    - Special Defense: 50
+    - Speed: 45
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 50
+    - Experience Yield: 109
+    - EV Yield:
+    - Gender Ratio: 75.0
+    - Egg Cycles: 10
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Fairy
+    - Group 2: Fairy
+
+**Abilities:**
+    - Ability 1: Cutecharm
+    - Ability 2: Competitive
+    - Hidden Ability: Hugepower
+
+**Evolution:**
+    - Evolves from: JIGGLYPUFF
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Oran Berry
+    - Held Item 2: Moon Stone
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Chargebeam
+
+    - Endure
+
+    - Drainpunch
+
+    - Recycle
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Gyroball
+
+    - Stealthrock
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Workup
+
+    - Wildcharge
+
+    - Poweruppunch
+
+    - Dazzlinggleam
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Firepunch
+
+    - Icepunch
+
+    - Thunderpunch
+
+    - Snore
+
+    - Healbell
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Snatch
+
+    - Gravity
+
+    - Telekinesis
+
+    - Bounce
+
+    - Roleplay
+
+    - Painsplit
+
+    - Endeavor
+
+    - Icywind
+
+    - Laserfocus
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Hypervoice
+
+    - Knockoff
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Batonpass
+
+    - Screech
+
+    - Faketears
+
+    - Mistyterrain
+
+    - Bodyslam
+
+    - Playrough
+
+    - Expandingforce
+
+    - Poltergeist
+
+    - Mistyexplosion
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,237 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 73
+    - Attack: 100
+    - Defense: 60
+    - Special Attack: 100
+    - Special Defense: 60
+    - Speed: 65
+
+**Types:**
+    - Primary Type: TYPE_POISON
+    - Secondary Type: TYPE_POISON
+
+**Other Stats:**
+    - Catch Rate: 90
+    - Experience Yield: 165
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_FLUCTUATING
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Dragon
+
+**Abilities:**
+    - Ability 1: Shedskin
+    - Ability 2: Infiltrator
+    - Hidden Ability: Galewings
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Shed Shell
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Protect
+
+    - Raindance
+
+    - Gigadrain
+
+    - Frustration
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Sludgebomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Endure
+
+    - Venoshock
+
+    - Payback
+
+    - Swordsdance
+
+    - Darkpulse
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Bulldoze
+
+    - Infestation
+
+    - Sludgewave
+
+    - Brutalswing
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Bind
+
+    - Snatch
+
+    - Aquatail
+
+    - Gastroacid
+
+    - Throatchop
+
+    - Knockoff
+
+    - Confide
+
+    - Screech
+
+    - Scaryface
+
+    - Venomdrench
+
+    - Bodyslam
+
+    - Crunch
+
+    - Powerwhip
+
+    - Scaleshot
+
+    - Skittersmack
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

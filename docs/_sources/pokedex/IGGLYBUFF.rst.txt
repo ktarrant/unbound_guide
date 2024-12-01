@@ -1,0 +1,256 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 90
+    - Attack: 30
+    - Defense: 15
+    - Special Attack: 40
+    - Special Defense: 20
+    - Speed: 15
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 170
+    - Experience Yield: 39
+    - EV Yield:
+    - Gender Ratio: 75.0
+    - Egg Cycles: 10
+    - Growth Rate: GROWTH_FAST
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Cutecharm
+    - Ability 2: Competitive
+    - Hidden Ability: Friendguard
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - JIGGLYPUFF
+            - Method: EVO_FRIENDSHIP
+            - Condition: 0
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Oran Berry
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Return
+
+    - Dig
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Recycle
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Workup
+
+    - Wildcharge
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Healbell
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Gravity
+
+    - Bounce
+
+    - Roleplay
+
+    - Painsplit
+
+    - Endeavor
+
+    - Icywind
+
+    - Magiccoat
+
+    - Hypervoice
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Screech
+
+    - Faketears
+
+    - Mistyterrain
+
+    - Bodyslam
+
+    - Playrough
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

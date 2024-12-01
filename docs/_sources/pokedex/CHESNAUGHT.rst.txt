@@ -1,0 +1,329 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 88
+    - Attack: 107
+    - Defense: 122
+    - Special Attack: 74
+    - Special Defense: 75
+    - Speed: 64
+
+**Types:**
+    - Primary Type: TYPE_GRASS
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 239
+    - EV Yield:
+    - Gender Ratio: 12.5
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Overgrow
+    - Ability 2: None
+    - Hidden Ability: Bulletproof
+
+**Evolution:**
+    - Evolves from: QUILLADIN
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Hyperbeam
+
+    - Protect
+
+    - Gigadrain
+
+    - Frustration
+
+    - Solarbeam
+
+    - Irontail
+
+    - Earthquake
+
+    - Return
+
+    - Dig
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Reflect
+
+    - Sludgebomb
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Focusblast
+
+    - Energyball
+
+    - Honeclaws
+
+    - Endure
+
+    - Drainpunch
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Flash
+
+    - Stoneedge
+
+    - Gyroball
+
+    - Swordsdance
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Smackdown
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Thunderpunch
+
+    - Snore
+
+    - Lowkick
+
+    - Helpinghand
+
+    - Block
+
+    - Worryseed
+
+    - Synthesis
+
+    - Irondefense
+
+    - Ironhead
+
+    - Painsplit
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Superfang
+
+    - Stompingtantrum
+
+    - Dualchop
+
+    - Superpower
+
+    - Confide
+
+    - Grasspledge
+
+    - Frenzyplant
+
+    - Spikes
+
+    - Pinmissile
+
+    - Bodyslam
+
+    - Poltergeist
+
+    - Grassyglide
+
+    - Coaching
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

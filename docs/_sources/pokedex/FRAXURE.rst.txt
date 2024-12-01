@@ -1,0 +1,250 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 66
+    - Attack: 117
+    - Defense: 70
+    - Special Attack: 40
+    - Special Defense: 50
+    - Speed: 67
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_DRAGON
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 144
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Dragon
+    - Group 2: Monster
+
+**Abilities:**
+    - Ability 1: Rivalry
+    - Ability 2: Moldbreaker
+    - Hidden Ability: Unnerve
+
+**Evolution:**
+    - Evolves from: AXEW
+    - Evolves to:
+
+        - HAXORUS
+            - Method: EVO_LEVEL
+            - Condition: 48
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Taunt
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Rocktomb
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Falseswipe
+
+    - Honeclaws
+
+    - Endure
+
+    - Dragonpulse
+
+    - Shadowclaw
+
+    - Payback
+
+    - Gigaimpact
+
+    - Swordsdance
+
+    - Xscissor
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Dragontail
+
+    - Incinerate
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+    - Strength
+
+    - Rocksmash
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Aquatail
+
+    - Endeavor
+
+    - Outrage
+
+    - Stompingtantrum
+
+    - Dualchop
+
+    - Superpower
+
+    - Confide
+
+    - Focusenergy
+
+    - Scaryface
+
+    - Dragondance
+
+    - Reversal
+
+    - Breakingswipe
+
+    - Crunch
+
+    - Scaleshot
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

@@ -1,0 +1,251 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 75
+    - Defense: 115
+    - Special Attack: 95
+    - Special Defense: 130
+    - Speed: 85
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_FAIRY
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 210
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Mistysurge
+    - Ability 2: None
+    - Hidden Ability: Telepathy
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Taunt
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Return
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Brine
+
+    - Endure
+
+    - Gigaimpact
+
+    - Sleeptalk
+
+    - Scald
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Dazzlinggleam
+
+    - Smartstrike
+
+    - Defog
+
+    - Drainingkiss
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fling
+
+    - Naturepower
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Icepunch
+
+    - Snore
+
+    - Gravity
+
+    - Irondefense
+
+    - Telekinesis
+
+    - Icywind
+
+    - Trick
+
+    - Magiccoat
+
+    - Magicroom
+
+    - Wonderroom
+
+    - Knockoff
+
+    - Psychup
+
+    - Confide
+
+    - Mistyterrain
+
+    - Whirlpool
+
+    - Storedpower
+
+    - Muddywater
+
+    - Playrough
+
+    - Hydropump
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

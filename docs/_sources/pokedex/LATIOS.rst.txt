@@ -1,0 +1,332 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 80
+    - Attack: 90
+    - Defense: 80
+    - Special Attack: 130
+    - Special Defense: 110
+    - Speed: 110
+
+**Types:**
+    - Primary Type: TYPE_DRAGON
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 211
+    - EV Yield:
+    - Gender Ratio: 0.0
+    - Egg Cycles: 120
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Undiscovered
+    - Group 2: Undiscovered
+
+**Abilities:**
+    - Ability 1: Levitate
+    - Ability 2: None
+    - Hidden Ability: Serenegrace
+
+**Evolution:**
+    - Evolves from: LATIOS_MEGA
+    - Evolves to:
+
+        - LATIOS_MEGA
+            - Method: EVO_MEGA
+            - Condition: Latiosite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Dragonclaw
+
+    - Waterpulse
+
+    - Calmmind
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Icebeam
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Safeguard
+
+    - Frustration
+
+    - Solarbeam
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Earthquake
+
+    - Return
+
+    - Psychic
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Reflect
+
+    - Shockwave
+
+    - Sandstorm
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Steelwing
+
+    - Roost
+
+    - Energyball
+
+    - Honeclaws
+
+    - Chargebeam
+
+    - Endure
+
+    - Dragonpulse
+
+    - Shadowclaw
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Dreameater
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Psyshock
+
+    - Defog
+
+    - Round
+
+    - Naturalgift
+
+    - Cut
+
+    - Fly
+
+    - Surf
+
+    - Dive
+
+    - Waterfall
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Helpinghand
+
+    - Telekinesis
+
+    - Tailwind
+
+    - Icywind
+
+    - Zenheadbutt
+
+    - Laserfocus
+
+    - Trick
+
+    - Magiccoat
+
+    - Wonderroom
+
+    - Outrage
+
+    - Psychup
+
+    - Lastresort
+
+    - Confide
+
+    - Batonpass
+
+    - Dragondance
+
+    - Agility
+
+    - Whirlpool
+
+    - Bodyslam
+
+    - Storedpower
+
+    - Breakingswipe
+
+    - Airslash
+
+    - Aurasphere
+
+    - Mysticalfire
+
+    - Psychocut
+
+    - Scaleshot
+
+    - Dualwingbeat
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

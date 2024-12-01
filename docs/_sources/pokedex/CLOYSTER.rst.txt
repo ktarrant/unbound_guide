@@ -1,0 +1,219 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 95
+    - Defense: 180
+    - Special Attack: 85
+    - Special Defense: 45
+    - Speed: 70
+
+**Types:**
+    - Primary Type: TYPE_WATER
+    - Secondary Type: TYPE_ICE
+
+**Other Stats:**
+    - Catch Rate: 60
+    - Experience Yield: 203
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Water 3
+    - Group 2: Water 3
+
+**Abilities:**
+    - Ability 1: Shellarmor
+    - Ability 2: Skilllink
+    - Hidden Ability: Overcoat
+
+**Evolution:**
+    - Evolves from: SHELLDER
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: Pearl
+    - Held Item 2: Big Pearl
+
+**TM Moves:**
+
+    - Waterpulse
+
+    - Toxic
+
+    - Hail
+
+    - Hiddenpower
+
+    - Icebeam
+
+    - Blizzard
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Torment
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Brine
+
+    - Endure
+
+    - Explosion
+
+    - Payback
+
+    - Gigaimpact
+
+    - Avalanche
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Frostbreath
+
+    - Smartstrike
+
+    - Round
+
+    - Naturalgift
+
+    - Surf
+
+    - Dive
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Signalbeam
+
+    - Irondefense
+
+    - Icywind
+
+    - Liquidation
+
+    - Confide
+
+    - Screech
+
+    - Spikes
+
+    - Toxicspikes
+
+    - Whirlpool
+
+    - Pinmissile
+
+    - Iciclespear
+
+    - Rockblast
+
+    - Razorshell
+
+    - Weatherball
+
+    - Hydropump
+
+    - Poltergeist
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

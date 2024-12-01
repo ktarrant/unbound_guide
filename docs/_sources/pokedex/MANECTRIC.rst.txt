@@ -1,0 +1,230 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 70
+    - Attack: 75
+    - Defense: 60
+    - Special Attack: 105
+    - Special Defense: 60
+    - Speed: 105
+
+**Types:**
+    - Primary Type: TYPE_ELECTRIC
+    - Secondary Type: TYPE_ELECTRIC
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 168
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_SLOW
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Static
+    - Ability 2: Lightningrod
+    - Hidden Ability: Flareboost
+
+**Evolution:**
+    - Evolves from: ELECTRIKE, MANECTRIC_MEGA
+    - Evolves to:
+
+        - MANECTRIC_MEGA
+            - Method: EVO_MEGA
+            - Condition: Manectite
+            - Extra: MEGA_VARIANT_STANDARD
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Hyperbeam
+
+    - Lightscreen
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Thunder
+
+    - Return
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Flamethrower
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Overheat
+
+    - Chargebeam
+
+    - Endure
+
+    - Gigaimpact
+
+    - Flash
+
+    - Thunderwave
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Voltswitch
+
+    - Wildcharge
+
+    - Snarl
+
+    - Round
+
+    - Naturalgift
+
+    - Strength
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Signalbeam
+
+    - Magnetrise
+
+    - Laserfocus
+
+    - Hypervoice
+
+    - Confide
+
+    - Scaryface
+
+    - Agility
+
+    - Electricterrain
+
+    - Thunderfang
+
+    - Icefang
+
+    - Firefang
+
+    - Bodyslam
+
+    - Electroball
+
+    - Crunch
+
+    - Psychicfangs
+
+    - Risingvoltage
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

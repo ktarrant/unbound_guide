@@ -1,0 +1,235 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 50
+    - Attack: 120
+    - Defense: 53
+    - Special Attack: 35
+    - Special Defense: 110
+    - Speed: 87
+
+**Types:**
+    - Primary Type: TYPE_FIGHTING
+    - Secondary Type: TYPE_FIGHTING
+
+**Other Stats:**
+    - Catch Rate: 45
+    - Experience Yield: 139
+    - EV Yield:
+    - Gender Ratio: 0.0
+    - Egg Cycles: 25
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Human Like
+    - Group 2: Human Like
+
+**Abilities:**
+    - Ability 1: Limber
+    - Ability 2: Reckless
+    - Hidden Ability: Unburden
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Focuspunch
+
+    - Toxic
+
+    - Bulkup
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Earthquake
+
+    - Return
+
+    - Brickbreak
+
+    - Doubleteam
+
+    - Rocktomb
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Focusblast
+
+    - Endure
+
+    - Stoneedge
+
+    - Lowsweep
+
+    - Rockslide
+
+    - Sleeptalk
+
+    - Poisonjab
+
+    - Swagger
+
+    - Substitute
+
+    - Bulldoze
+
+    - Workup
+
+    - Poweruppunch
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Strength
+
+    - Rocksmash
+
+    - Rockclimb
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Uproar
+
+    - Helpinghand
+
+    - Covet
+
+    - Bounce
+
+    - Roleplay
+
+    - Laserfocus
+
+    - Throatchop
+
+    - Stompingtantrum
+
+    - Superpower
+
+    - Knockoff
+
+    - Vacuumwave
+
+    - Confide
+
+    - Focusenergy
+
+    - Bodyslam
+
+    - Reversal
+
+    - Aurasphere
+
+    - Blazekick
+
+    - Closecombat
+
+    - Coaching
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

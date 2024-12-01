@@ -1,0 +1,49 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 
+    - Attack: 
+    - Defense: 
+    - Special Attack: 
+    - Special Defense: 
+    - Speed: 
+
+**Types:**
+    - Primary Type: 
+    - Secondary Type: 
+
+**Other Stats:**
+    - Catch Rate: 
+    - Experience Yield: 
+    - EV Yield:
+    - Gender Ratio: 
+    - Egg Cycles: 
+    - Growth Rate: 
+
+**Egg Groups:**
+    - Group 1: 
+    - Group 2: 
+
+**Abilities:**
+    - Ability 1: 
+    - Ability 2: 
+    - Hidden Ability: 
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+
+**Items:**
+    - Held Item 1: 
+    - Held Item 2: 
+
+**TM Moves:**
+
+
+**Tutor Moves:**
+
+
+**Learnset:**

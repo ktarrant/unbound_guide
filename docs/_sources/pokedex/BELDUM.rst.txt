@@ -1,0 +1,64 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 40
+    - Attack: 55
+    - Defense: 80
+    - Special Attack: 35
+    - Special Defense: 60
+    - Speed: 30
+
+**Types:**
+    - Primary Type: TYPE_STEEL
+    - Secondary Type: TYPE_PSYCHIC
+
+**Other Stats:**
+    - Catch Rate: 3
+    - Experience Yield: 103
+    - EV Yield:
+    - Gender Ratio: MON_GENDERLESS
+    - Egg Cycles: 40
+    - Growth Rate: GROWTH_MEDIUM_SLOW
+
+**Egg Groups:**
+    - Group 1: Mineral
+    - Group 2: Mineral
+
+**Abilities:**
+    - Ability 1: Clearbody
+    - Ability 2: None
+    - Hidden Ability: Lightmetal
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - METANG
+            - Method: EVO_LEVEL
+            - Condition: 20
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Metal Coat
+
+**TM Moves:**
+
+    - Flash
+
+
+**Tutor Moves:**
+
+    - Irondefense
+
+    - Ironhead
+
+    - Zenheadbutt
+
+
+**Learnset:**
+
+    - Level : 

@@ -1,0 +1,208 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 45
+    - Attack: 55
+    - Defense: 39
+    - Special Attack: 35
+    - Special Defense: 39
+    - Speed: 42
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_NORMAL
+
+**Other Stats:**
+    - Catch Rate: 255
+    - Experience Yield: 57
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 15
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Stakeout
+    - Ability 2: Keeneye
+    - Hidden Ability: Analytic
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - WATCHOG
+            - Method: EVO_LEVEL
+            - Condition: 20
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: None
+
+**TM Moves:**
+
+    - Toxic
+
+    - Bulletseed
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Raindance
+
+    - Frustration
+
+    - Irontail
+
+    - Thunderbolt
+
+    - Return
+
+    - Dig
+
+    - Shadowball
+
+    - Doubleteam
+
+    - Shockwave
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Endure
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Grassknot
+
+    - Swagger
+
+    - Substitute
+
+    - Workup
+
+    - Round
+
+    - Naturalgift
+
+    - Fling
+
+    - Cut
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Lowkick
+
+    - Helpinghand
+
+    - Covet
+
+    - Afteryou
+
+    - Aquatail
+
+    - Endeavor
+
+    - Zenheadbutt
+
+    - Seedbomb
+
+    - Laserfocus
+
+    - Superfang
+
+    - Gunkshot
+
+    - Lastresort
+
+    - Confide
+
+    - Focusenergy
+
+    - Batonpass
+
+    - Screech
+
+    - Nastyplot
+
+    - Crunch
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

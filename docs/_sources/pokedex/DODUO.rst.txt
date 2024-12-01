@@ -1,0 +1,174 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 35
+    - Attack: 85
+    - Defense: 45
+    - Special Attack: 35
+    - Special Defense: 35
+    - Speed: 75
+
+**Types:**
+    - Primary Type: TYPE_NORMAL
+    - Secondary Type: TYPE_FLYING
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 96
+    - EV Yield:
+    - Gender Ratio: 50.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Flying
+    - Group 2: Flying
+
+**Abilities:**
+    - Ability 1: Tangledfeet
+    - Ability 2: Earlybird
+    - Hidden Ability: Reckless
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - DODRIO
+            - Method: EVO_LEVEL
+            - Condition: 31
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: None
+    - Held Item 2: Sharp Beak
+
+**TM Moves:**
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Frustration
+
+    - Return
+
+    - Doubleteam
+
+    - Aerialace
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Thief
+
+    - Steelwing
+
+    - Roost
+
+    - Endure
+
+    - Swordsdance
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Pluck
+
+    - Substitute
+
+    - Workup
+
+    - Round
+
+    - Echoedvoice
+
+    - Naturalgift
+
+    - Fly
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Uproar
+
+    - Endeavor
+
+    - Knockoff
+
+    - Confide
+
+    - Agility
+
+    - Bodyslam
+
+    - Bravebird
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 

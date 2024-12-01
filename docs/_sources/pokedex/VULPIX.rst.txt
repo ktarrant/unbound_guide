@@ -1,0 +1,216 @@
+======================
+Banette Information
+======================
+
+**Base Stats:**
+    - HP: 38
+    - Attack: 41
+    - Defense: 40
+    - Special Attack: 50
+    - Special Defense: 65
+    - Speed: 65
+
+**Types:**
+    - Primary Type: TYPE_FIRE
+    - Secondary Type: TYPE_FIRE
+
+**Other Stats:**
+    - Catch Rate: 190
+    - Experience Yield: 63
+    - EV Yield:
+    - Gender Ratio: 75.0
+    - Egg Cycles: 20
+    - Growth Rate: GROWTH_MEDIUM_FAST
+
+**Egg Groups:**
+    - Group 1: Field
+    - Group 2: Field
+
+**Abilities:**
+    - Ability 1: Flashfire
+    - Ability 2: None
+    - Hidden Ability: Drought
+
+**Evolution:**
+    - Evolves from: 
+    - Evolves to:
+
+        - NINETALES
+            - Method: EVO_ITEM
+            - Condition: Fire Stone
+            - Extra: 0
+
+
+**Items:**
+    - Held Item 1: Rawst Berry
+    - Held Item 2: Charcoal
+
+**TM Moves:**
+
+    - Roar
+
+    - Toxic
+
+    - Hiddenpower
+
+    - Sunnyday
+
+    - Protect
+
+    - Safeguard
+
+    - Frustration
+
+    - Irontail
+
+    - Return
+
+    - Dig
+
+    - Doubleteam
+
+    - Flamethrower
+
+    - Fireblast
+
+    - Facade
+
+    - Secretpower
+
+    - Rest
+
+    - Attract
+
+    - Overheat
+
+    - Energyball
+
+    - Endure
+
+    - Willowisp
+
+    - Payback
+
+    - Flamecharge
+
+    - Darkpulse
+
+    - Sleeptalk
+
+    - Swagger
+
+    - Substitute
+
+    - Incinerate
+
+    - Round
+
+    - Naturalgift
+
+
+**Tutor Moves:**
+
+    - Snore
+
+    - Covet
+
+    - Spite
+
+    - Roleplay
+
+    - Painsplit
+
+    - Zenheadbutt
+
+    - Foulplay
+
+    - Heatwave
+
+    - Psychup
+
+    - Confide
+
+    - Encore
+
+    - Agility
+
+    - Nastyplot
+
+    - Firespin
+
+    - Tailslap
+
+    - Bodyslam
+
+    - Hex
+
+    - Weatherball
+
+    - Mysticalfire
+
+    - Flareblitz
+
+    - Burningjealousy
+
+
+**Learnset:**
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
+
+    - Level : 
