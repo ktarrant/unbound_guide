@@ -3,19 +3,540 @@ Held Items
 ======================
 
 
+- Never Melt Ice
+    
+        - Abomasnow
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Cryogonal
+        
+            - Frost Mountain
+        
+    
+        - Dewgong
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+            - Frost Mountain
+        
+            - Victory Road
+        
+            - Victory Road
+        
+    
+        - Glalie
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Glalie
+        
+            - Victory Road
+        
+            - Victory Road
+        
+    
+        - Piloswine
+        
+            - Ice Hole
+        
+            - Icicle Cave
+        
+            - Victory Road
+        
+    
+        - Snover
+        
+            - Route 8
+        
+            - Frozen Forest
+        
+    
+        - Vanillish
+        
+            - Victory Road
+        
+    
+        - Vanillite
+        
+            - Route 1
+        
+    
+        - Vanilluxe
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Twisted Spoon
+    
+        - Abra
+        
+            - Route 7
+        
+    
+        - Alakazam
+        
+    
+        - Alakazam
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Kadabra
+        
+    
+
+- Life Orb
+    
+        - Absol
+        
+    
+
+- Hard Stone
+    
+        - Aggron
+        
+    
+        - Aggron
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Aron
+        
+            - Valley Cave
+        
+            - Valley Cave
+        
+            - KBT Expressway
+        
+            - Frost Mountain
+        
+    
+        - Boldore
+        
+            - Ice Hole
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Victory Road
+        
+    
+        - Crustle
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Dwebble
+        
+            - Great Desert
+        
+            - Great Desert
+        
+    
+        - Gigalith
+        
+    
+        - Lairon
+        
+            - KBT Expressway
+        
+            - Lost Tunnel
+        
+    
+        - Onix
+        
+            - Frost Mountain
+        
+            - Cliff Cave
+        
+            - Crystal Peak
+        
+            - Crystal Peak
+        
+            - Crystal Peak
+        
+    
+        - Roggenrola
+        
+            - Route 2
+        
+            - Route 8
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+    
+
+- Tiny Mushroom
+    
+        - Amoonguss
+        
+    
+        - Breloom
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Foongus
+        
+    
+        - Morelull
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Paras
+        
+    
+        - Parasect
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Shiinotic
+        
+    
+        - Shroomish
+        
+            - Route 9 + Autl Woods
+        
+    
+
+- Big Mushroom
+    
+        - Amoonguss
+        
+    
+        - Foongus
+        
+    
+        - Morelull
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Paras
+        
+    
+        - Parasect
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Shiinotic
+        
+    
+
+- Mystic Water
+    
+        - Araquanid
+        
+            - Route 3
+        
+    
+        - Castform
+        
+    
+        - Castform
+        
+    
+        - Dewpider
+        
+            - Route 3
+        
+    
+        - Goldeen
+        
+            - Route 6
+        
+            - Route 7
+        
+            - Route 9 + Autl Woods
+        
+            - Auburn Waterway
+        
+    
+        - Lapras
+        
+    
+        - Lapras
+        
+    
+        - Lapras
+        
+            - Route 17
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+            - Victory Road
+        
+    
+        - Lapras
+        
+            - Route 17
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+            - Victory Road
+        
+    
+        - Seaking
+        
+            - Route 6
+        
+            - Route 7
+        
+            - Route 9 + Autl Woods
+        
+            - Auburn Waterway
+        
+    
+
+- Poison Barb
+    
+        - Arbok
+        
+    
+        - Beedrill
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Beedrill
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Budew
+        
+            - Route 4
+        
+    
+        - Drapion
+        
+            - Cootes Bog
+        
+    
+        - Mareanie
+        
+            - Route 14
+        
+            - Ruins of Void
+        
+    
+        - Overqwil
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Qwilfish
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Qwilfish
+        
+            - Crystal Peak
+        
+            - Magnolia Fields
+        
+    
+        - Roselia
+        
+            - Victory Road
+        
+    
+        - Roserade
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Scolipede
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Skorupi
+        
+            - Route 9 + Autl Woods
+        
+    
+        - Tentacool
+        
+            - Route 2
+        
+            - Route 3
+        
+            - Route 4
+        
+            - Route 5
+        
+            - Route 6
+        
+            - Route 7
+        
+            - Route 11
+        
+            - Route 12
+        
+            - Route 14
+        
+            - Route 16
+        
+            - Route 17
+        
+            - Route 18
+        
+            - Ruins of Void
+        
+    
+        - Tentacruel
+        
+            - Route 2
+        
+            - Route 3
+        
+            - Route 4
+        
+            - Route 5
+        
+            - Route 6
+        
+            - Route 7
+        
+            - Route 11
+        
+            - Route 12
+        
+            - Route 14
+        
+            - Route 16
+        
+            - Route 17
+        
+            - Route 18
+        
+            - Ruins of Void
+        
+    
+        - Toxapex
+        
+            - Route 14
+        
+            - Ruins of Void
+        
+    
+        - Venipede
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Vespiquen
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Whirlipede
+        
+            - Antisis Sewers
+        
+    
+
 - Rawst Berry
     
-        - Growlithe
+        - Arcanine
         
-            - Route 5
+            - Route 14
         
-    
-        - Growlithe
-        
-            - Route 5
+            - Route 14
         
     
-        - Ninetales
+        - Arcanine
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Arcanine
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Arcanine
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Camerupt
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Camerupt
         
             - Route 14
         
@@ -34,29 +555,9 @@ Held Items
             - Cinder Volcano
         
             - Victory Road
-        
-    
-        - Toucannon
-        
-    
-        - Arcanine
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Arcanine
-        
-            - Route 14
-        
-            - Route 14
         
     
         - Darmanitan
-        
-    
-        - Vulpix
         
     
         - Darumaka
@@ -76,25 +577,21 @@ Held Items
             - Route 14
         
     
-        - Camerupt
+        - Growlithe
         
-            - Route 14
-        
-            - Route 14
+            - Route 5
         
     
-        - Camerupt
+        - Growlithe
         
-            - Route 14
-        
-            - Route 14
+            - Route 5
         
     
-        - Numel
+        - Ninetales
         
-            - Route 4
+            - Route 14
         
-            - Cinder Volcano
+            - Route 14
         
     
         - Numel
@@ -104,14 +601,198 @@ Held Items
             - Cinder Volcano
         
     
-        - Arcanine
+        - Numel
+        
+            - Route 4
+        
+            - Cinder Volcano
+        
+    
+        - Toucannon
+        
+    
+        - Vulpix
+        
+    
+
+- Oran Berry
+    
+        - Audino
+        
+    
+        - Bibarel
+        
+            - Route 14
+        
+    
+        - Furret
         
             - Route 14
         
             - Route 14
         
     
-        - Arcanine
+        - Gulpin
+        
+            - Route 11
+        
+    
+        - Igglybuff
+        
+    
+        - Jigglypuff
+        
+            - Victory Road
+        
+    
+        - Panpour
+        
+            - Flower Paradise
+        
+    
+        - Pansage
+        
+            - Flower Paradise
+        
+    
+        - Pansear
+        
+            - Flower Paradise
+        
+    
+        - Pichu
+        
+    
+        - Pichu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+            - Vivill Woods
+        
+    
+        - Pikachu
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikipek
+        
+            - Route 2
+        
+    
+        - Raichu
+        
+    
+        - Sentret
+        
+            - Route 3
+        
+    
+        - Simipour
+        
+    
+        - Simisage
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Simisear
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Skwovet
+        
+            - Route 3
+        
+    
+        - Swalot
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Teddiursa
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Ursaluna
+        
+    
+        - Ursaring
+        
+            - Redwood Forest
+        
+    
+        - Wigglytuff
         
             - Route 14
         
@@ -119,60 +800,348 @@ Held Items
         
     
 
-- Never Melt Ice
+- Sitrus Berry
     
-        - Snover
+        - Audino
+        
+    
+        - Bibarel
+        
+            - Route 14
+        
+    
+        - Furret
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Greedent
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Gulpin
+        
+            - Route 11
+        
+    
+        - Swalot
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Teddiursa
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Trumbeak
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Ursaluna
+        
+    
+        - Ursaring
+        
+            - Redwood Forest
+        
+    
+
+- Dragon Fang
+    
+        - Bagon
+        
+            - Route 17
+        
+    
+        - Druddigon
+        
+            - Victory Road
+        
+    
+        - Salamence
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Shelgon
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Light Clay
+    
+        - Baltoy
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+    
+        - Claydol
+        
+            - Ruins of Void
+        
+    
+        - Golett
+        
+            - Rift Cave
+        
+    
+        - Golurk
+        
+            - Rift Cave
+        
+    
+        - Mudbray
+        
+    
+        - Mudsdale
+        
+            - Magnolia Fields
+        
+    
+
+- Spell Tag
+    
+        - Banette
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Banette
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Cofagrigus
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+    
+        - Dusclops
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+            - Rift Cave
+        
+            - Rift Cave
+        
+    
+        - Dusknoir
+        
+    
+        - Duskull
+        
+            - Grim Woods
+        
+            - Ruins of Void
+        
+            - Rift Cave
+        
+    
+        - Gengar
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Gengar
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Gengar
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Haunter
+        
+            - Rift Cave
+        
+            - Rift Cave
+        
+    
+        - Misdreavus
+        
+            - Cliff Cave
+        
+    
+        - Palossand
+        
+    
+        - Sandygast
+        
+    
+        - Shuppet
+        
+            - Grim Woods
+        
+    
+        - Yamask
+        
+    
+
+- Deep Sea Tooth
+    
+        - Basculegon
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Basculegon
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Basculin
+        
+            - Route 2
+        
+            - Route 4
+        
+            - Route 5
+        
+            - Route 11
+        
+            - Victory Road
+        
+    
+        - Basculin
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Carvanha
+        
+            - Route 12
+        
+            - Route 14
+        
+            - Route 17
+        
+    
+        - Huntail
+        
+    
+        - Sharpedo
+        
+            - Route 12
+        
+            - Route 14
+        
+            - Route 17
+        
+    
+
+- Deep Sea Scale
+    
+        - Basculin
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Chinchou
+        
+            - Route 14
+        
+            - Route 16
+        
+            - Route 17
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+            - Ruins of Void
+        
+    
+        - Gorebyss
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Lanturn
+        
+            - Route 14
+        
+            - Route 16
+        
+            - Route 17
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+            - Ruins of Void
+        
+    
+        - Relicanth
+        
+            - Ruins of Void
+        
+    
+
+- Aspear Berry
+    
+        - Beartic
+        
+            - Victory Road
+        
+    
+        - Crabrawler
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Cubchoo
         
             - Route 8
         
             - Frozen Forest
-        
-    
-        - Vanilluxe
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Glalie
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Cryogonal
-        
-            - Frost Mountain
-        
-    
-        - Glalie
-        
-            - Victory Road
-        
-            - Victory Road
-        
-    
-        - Piloswine
-        
-            - Ice Hole
-        
-            - Icicle Cave
-        
-            - Victory Road
-        
-    
-        - Vanillite
-        
-            - Route 1
-        
-    
-        - Abomasnow
-        
-            - Route 14
-        
-            - Route 14
         
     
         - Dewgong
@@ -190,32 +1159,105 @@ Held Items
             - Victory Road
         
     
-        - Vanillish
+        - Jynx
+        
+            - Ice Hole
+        
+            - Icicle Cave
         
             - Victory Road
         
     
+        - Jynx
+        
+            - Ice Hole
+        
+            - Icicle Cave
+        
+            - Victory Road
+        
+    
+        - Piloswine
+        
+            - Ice Hole
+        
+            - Icicle Cave
+        
+            - Victory Road
+        
+    
+        - Seel
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+            - Frost Mountain
+        
+            - Victory Road
+        
+    
+        - Smoochum
+        
+            - Icicle Cave
+        
+    
+        - Smoochum
+        
+            - Icicle Cave
+        
+    
+        - Swinub
+        
+            - Icicle Cave
+        
+    
 
-- Thick Club
+- Shed Shell
     
-        - Cubone
-        
-            - Thundercap Mt.
-        
-    
-        - Muk
+        - Beautifly
         
             - Route 14
         
             - Route 14
         
     
-        - Marowak
-        
-            - Thundercap Mt.
+        - Dustox
         
     
-        - Muk
+        - Goomy
+        
+            - Route 10
+        
+            - Auburn Waterway
+        
+    
+        - Scrafty
+        
+    
+        - Scraggy
+        
+            - Route 2
+        
+    
+        - Seviper
+        
+            - Route 17
+        
+    
+        - Sliggoo
+        
+    
+        - Sliggoo
+        
+            - Cootes Bog
+        
+            - Cootes Bog
+        
+    
+        - Venomoth
         
             - Route 14
         
@@ -225,11 +1267,22 @@ Held Items
 
 - Metal Coat
     
-        - Magnemite
+        - Beldum
         
-            - Thundercap Mt.
+            - Route 14
         
-            - Thundercap Mt.
+            - Route 14
+        
+    
+        - Bronzong
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+            - Rift Cave
+        
+            - Rift Cave
         
     
         - Bronzor
@@ -239,27 +1292,11 @@ Held Items
             - Rift Cave
         
     
-        - Metagross
+        - Magnemite
         
-            - Route 14
+            - Thundercap Mt.
         
-            - Route 14
-        
-    
-        - Steelix
-        
-            - Cliff Cave
-        
-            - Crystal Peak
-        
-            - Crystal Peak
-        
-    
-        - Skarmory
-        
-            - Crystal Peak
-        
-            - Crystal Peak
+            - Thundercap Mt.
         
     
         - Magneton
@@ -280,27 +1317,6 @@ Held Items
             - Route 14
         
     
-        - Steelix
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Beldum
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Metang
-        
-            - Route 14
-        
-            - Route 14
-        
-    
         - Mawile
         
             - Route 14
@@ -315,328 +1331,49 @@ Held Items
             - Route 14
         
     
-        - Bronzong
-        
-            - Ruins of Void
-        
-            - Ruins of Void
-        
-            - Rift Cave
-        
-            - Rift Cave
-        
-    
-
-- Oran Berry
-    
-        - Ursaluna
-        
-    
-        - Panpour
-        
-            - Flower Paradise
-        
-    
-        - Pikachu
+        - Metagross
         
             - Route 14
         
             - Route 14
         
     
-        - Pikachu
-        
-    
-        - Wigglytuff
+        - Metang
         
             - Route 14
         
             - Route 14
         
     
-        - Pikachu
+        - Skarmory
+        
+            - Crystal Peak
+        
+            - Crystal Peak
         
     
-        - Simisear
+        - Steelix
         
             - Route 14
         
             - Route 14
         
     
-        - Pikachu
+        - Steelix
         
-            - Route 14
+            - Cliff Cave
         
-            - Route 14
+            - Crystal Peak
         
-    
-        - Pikachu
-        
-    
-        - Pansage
-        
-            - Flower Paradise
-        
-    
-        - Pikachu
-        
-    
-        - Audino
-        
-    
-        - Igglybuff
-        
-    
-        - Ursaring
-        
-            - Redwood Forest
-        
-    
-        - Pikachu
-        
-            - Vivill Woods
-        
-    
-        - Jigglypuff
-        
-            - Victory Road
-        
-    
-        - Pichu
-        
-    
-        - Swalot
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pikachu
-        
-    
-        - Pichu
-        
-    
-        - Pikachu
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Raichu
-        
-    
-        - Simipour
-        
-    
-        - Pikipek
-        
-            - Route 2
-        
-    
-        - Pikachu
-        
-    
-        - Simisage
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Sentret
-        
-            - Route 3
-        
-    
-        - Pansear
-        
-            - Flower Paradise
-        
-    
-        - Skwovet
-        
-            - Route 3
-        
-    
-        - Teddiursa
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pikachu
-        
-    
-        - Gulpin
-        
-            - Route 11
-        
-    
-        - Bibarel
-        
-            - Route 14
-        
-    
-        - Furret
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Sitrus Berry
-    
-        - Ursaluna
-        
-    
-        - Audino
-        
-    
-        - Ursaring
-        
-            - Redwood Forest
-        
-    
-        - Swalot
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Teddiursa
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Greedent
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Gulpin
-        
-            - Route 11
-        
-    
-        - Bibarel
-        
-            - Route 14
-        
-    
-        - Trumbeak
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Furret
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Water Stone
-    
-        - Panpour
-        
-            - Flower Paradise
-        
-    
-        - Simipour
-        
-    
-
-- Electric Seed
-    
-        - Togedemaru
-        
-            - Route 11
-        
-    
-
-- Up Grade
-    
-        - Porygon2
-        
-    
-        - Porygon2
-        
-    
-
-- Haban Berry
-    
-        - Ho-Oh
-        
-    
-        - Muk
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Garchomp
-        
-    
-        - Gabite
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Gible
-        
-            - Route 14
-        
-            - Route 14
+            - Crystal Peak
         
     
 
 - Absorb Bulb
     
-        - Petilil
+        - Bellossom
         
-            - Vivill Woods
-        
-    
-        - Oddish
+            - Route 14
         
             - Route 14
         
@@ -646,9 +1383,6 @@ Held Items
             - Vivill Woods
         
     
-        - Lilligant
-        
-    
         - Gloom
         
             - Route 14
@@ -656,7 +1390,23 @@ Held Items
             - Cootes Bog
         
     
-        - Bellossom
+        - Lilligant
+        
+    
+        - Lilligant
+        
+    
+        - Oddish
+        
+            - Route 14
+        
+    
+        - Petilil
+        
+            - Vivill Woods
+        
+    
+        - Vileplume
         
             - Route 14
         
@@ -668,228 +1418,6 @@ Held Items
             - Route 14
         
             - Route 14
-        
-    
-        - Vileplume
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Lilligant
-        
-    
-
-- Metronome
-    
-        - Kricketune
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Kricketot
-        
-            - Route 6
-        
-    
-        - Chatot
-        
-            - Route 16
-        
-    
-
-- Spell Tag
-    
-        - Cofagrigus
-        
-            - Ruins of Void
-        
-            - Ruins of Void
-        
-    
-        - Banette
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Dusclops
-        
-            - Ruins of Void
-        
-            - Ruins of Void
-        
-            - Rift Cave
-        
-            - Rift Cave
-        
-    
-        - Gengar
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Misdreavus
-        
-            - Cliff Cave
-        
-    
-        - Haunter
-        
-            - Rift Cave
-        
-            - Rift Cave
-        
-    
-        - Gengar
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Duskull
-        
-            - Grim Woods
-        
-            - Ruins of Void
-        
-            - Rift Cave
-        
-    
-        - Sandygast
-        
-    
-        - Banette
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Palossand
-        
-    
-        - Shuppet
-        
-            - Grim Woods
-        
-    
-        - Gengar
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Yamask
-        
-    
-        - Dusknoir
-        
-    
-
-- Kings Rock
-    
-        - Slowbro
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Hariyama
-        
-            - Ice Hole
-        
-            - Icicle Cave
-        
-            - KBT Expressway
-        
-            - Victory Road
-        
-    
-        - Poliwhirl
-        
-            - Cootes Bog
-        
-            - Cootes Bog
-        
-    
-        - Slowking
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Politoed
-        
-            - Cootes Bog
-        
-    
-        - Hawlucha
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Poliwrath
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Cheri Berry
-    
-        - Emolga
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Emolga
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Minior
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Purugly
-        
-    
-        - Blitzle
-        
-            - Safari Zone
-        
-    
-        - Glameow
-        
-            - Route 11
-        
-    
-        - Zebstrika
-        
-            - Safari Zone
-        
-            - Safari Zone
         
     
 
@@ -907,6 +1435,16 @@ Held Items
             - Route 14
         
             - Route 14
+        
+    
+        - Chansey
+        
+            - Victory Road
+        
+    
+        - Happiny
+        
+            - Route 18
         
     
         - Pelipper
@@ -944,279 +1482,480 @@ Held Items
             - Magnolia Fields
         
     
+
+- Cheri Berry
+    
+        - Blitzle
+        
+            - Safari Zone
+        
+    
+        - Minior
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Emolga
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Emolga
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Glameow
+        
+            - Route 11
+        
+    
+        - Purugly
+        
+    
+        - Zebstrika
+        
+            - Safari Zone
+        
+            - Safari Zone
+        
+    
+
+- Everstone
+    
+        - Boldore
+        
+            - Ice Hole
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Victory Road
+        
+    
+        - Geodude
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Gigalith
+        
+    
+        - Golem
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Graveler
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Roggenrola
+        
+            - Route 2
+        
+            - Route 8
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+    
+
+- Grassy Seed
+    
+        - Bounsweet
+        
+            - Safari Zone
+        
+    
+        - Steenee
+        
+            - Safari Zone
+        
+    
+        - Tsareena
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Kebia Berry
+    
+        - Breloom
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Shroomish
+        
+            - Route 9 + Autl Woods
+        
+    
+
+- Razor Fang
+    
+        - Bruxish
+        
+            - Route 9 + Autl Woods
+        
+            - Route 10
+        
+            - Auburn Waterway
+        
+            - Victory Road
+        
+    
+
+- Wacan Berry
+    
+        - Buizel
+        
+            - Route 3
+        
+    
+        - Floatzel
+        
+            - Route 14
+        
+            - Victory Road
+        
+    
+
+- Pecha Berry
+    
+        - Buneary
+        
+            - Route 7
+        
+    
+        - Delcatty
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Gumshoos
+        
+            - Route 7
+        
+    
+        - Lopunny
+        
+    
+        - Mightyena
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Palpitoad
+        
+            - Route 10
+        
+            - Route 10
+        
+            - Auburn Waterway
+        
+            - Auburn Waterway
+        
+    
+        - Poochyena
+        
+            - Route 2
+        
+    
+        - Raticate
+        
+            - Route 7
+        
+            - Antisis Sewers
+        
+    
+        - Rattata
+        
+            - Route 2
+        
+            - Route 7
+        
+    
+        - Scolipede
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Seismitoad
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Skitty
+        
+            - Safari Zone
+        
+    
+        - Skuntank
+        
+            - Route 18
+        
+    
+        - Stunky
+        
+    
+        - Tympole
+        
+            - Route 10
+        
+            - Auburn Waterway
+        
+    
+        - Venipede
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Whirlipede
+        
+            - Antisis Sewers
+        
+    
+        - Wurmple
+        
+            - Vivill Woods
+        
+    
+        - Yungoos
+        
+            - Route 7
+        
+    
+
+- Chople Berry
+    
+        - Buneary
+        
+            - Route 7
+        
+    
+        - Lopunny
+        
+    
+
+- Silver Powder
+    
+        - Butterfree
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Butterfree
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Masquerain
+        
+            - Route 9 + Autl Woods
+        
+            - Route 10
+        
+            - Grim Woods
+        
+            - Auburn Waterway
+        
+            - Vivill Woods
+        
+            - Redwood Forest
+        
+    
+        - Mothim
+        
+    
+        - Volcarona
+        
+    
+        - Volcarona
+        
+    
+        - Bad Egg
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Bad Egg
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Ho-Oh
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Sticky Barb
+    
+        - Cacnea
+        
+            - Great Desert
+        
+    
+        - Cacturne
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Ferroseed
+        
+            - Thundercap Mt.
+        
+    
+        - Ferrothorn
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Lum Berry
+    
+        - Celebi
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Celebi
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Mew
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Mew
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Shaymin
+        
+    
+        - Shaymin
+        
+    
+
+- Lucky Punch
+    
         - Chansey
         
             - Victory Road
         
     
-        - Happiny
-        
-            - Route 18
-        
-    
 
-- Quick Claw
+- Cell Battery
     
-        - Zangoose
-        
-            - Route 17
+        - Charjabug
         
     
-        - Persian
-        
-            - Route 18
-        
-    
-        - Persian
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Meowth
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Sneasel
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Weavile
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Sneasel
-        
-            - Route 8
-        
-            - Frost Mountain
-        
-            - Frozen Forest
-        
-    
-        - Meowth
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Ho-Oh
+        - Minun
         
             - Safari Zone
         
     
-        - Sneasler
+        - Plusle
         
-            - Route 14
-        
-            - Route 14
+            - Safari Zone
         
     
 
-- Stardust
+- Metronome
     
-        - Staryu
+        - Chatot
         
-            - Route 2
-        
-            - Route 2
-        
-            - Route 3
-        
-            - Route 3
-        
-            - Route 4
-        
-            - Route 4
-        
-            - Route 5
-        
-            - Route 5
+            - Route 16
         
     
-        - Solrock
+        - Kricketot
         
-            - Ruins of Void
-        
-            - Ruins of Void
+            - Route 6
         
     
-        - Lunatone
-        
-            - Ruins of Void
-        
-            - Ruins of Void
-        
-    
-        - Starmie
-        
-            - Route 2
-        
-            - Route 4
-        
-            - Route 5
-        
-    
-
-- Star Piece
-    
-        - Staryu
-        
-            - Route 2
-        
-            - Route 2
-        
-            - Route 3
-        
-            - Route 3
-        
-            - Route 4
-        
-            - Route 4
-        
-            - Route 5
-        
-            - Route 5
-        
-    
-        - Meloetta
+        - Kricketune
         
             - Route 14
         
             - Route 14
-        
-    
-        - Meloetta
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Minior
-        
-            - Route 1
-        
-            - Route 8
-        
-            - Victory Road
-        
-    
-        - Minior
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Minior
-        
-    
-        - Minior
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Minior
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Ho-Oh
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Minior
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Starmie
-        
-            - Route 2
-        
-            - Route 4
-        
-            - Route 5
-        
-    
-        - Jirachi
-        
-    
-        - Jirachi
-        
-    
-        - Minior
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Light Clay
-    
-        - Mudbray
-        
-    
-        - Claydol
-        
-            - Ruins of Void
-        
-    
-        - Golurk
-        
-            - Rift Cave
-        
-    
-        - Golett
-        
-            - Rift Cave
-        
-    
-        - Baltoy
-        
-            - Ruins of Void
-        
-            - Ruins of Void
-        
-    
-        - Mudsdale
-        
-            - Magnolia Fields
         
     
 
 - Miracle Seed
-    
-        - Fomantis
-        
     
         - Cherrim
         
             - Route 14
         
             - Route 14
+        
+    
+        - Cherubi
+        
+            - Route 3
+        
+    
+        - Fomantis
         
     
         - Gourgeist
@@ -1238,42 +1977,145 @@ Held Items
             - Victory Road
         
     
-        - Pumpkaboo
-        
-    
-        - Pumpkaboo
-        
-    
-        - Cherubi
-        
-            - Route 3
-        
-    
         - Maractus
         
             - Great Desert
         
     
-
-- Poison Barb
+        - Pumpkaboo
+        
     
-        - Tentacruel
+        - Pumpkaboo
+        
+    
+
+- Cleanse Tag
+    
+        - Chimecho
+        
+            - Rift Cave
+        
+            - Rift Cave
+        
+    
+        - Chingling
+        
+    
+
+- Chesto Berry
+    
+        - Cinccino
+        
+    
+        - Exploud
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Loudred
+        
+            - Crystal Peak
+        
+            - Crystal Peak
+        
+    
+        - Mimikyu
+        
+    
+        - Mimikyu
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Minccino
+        
+            - Route 2
+        
+    
+        - Spinda
+        
+            - Safari Zone
+        
+            - Safari Zone
+        
+    
+        - Whismur
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Pearl
+    
+        - Clamperl
+        
+            - Route 14
+        
+            - Route 16
+        
+            - Route 17
+        
+            - Ruins of Void
+        
+    
+        - Cloyster
+        
+            - Route 3
+        
+            - Route 14
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+    
+        - Shellder
+        
+            - Route 2
         
             - Route 2
         
             - Route 3
         
-            - Route 4
+            - Route 3
         
-            - Route 5
+            - Route 14
         
-            - Route 6
+            - Route 14
         
-            - Route 7
+            - Route 14
         
-            - Route 11
+            - Route 14
         
-            - Route 12
+            - Route 14
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+            - Frost Mountain
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+            - Victory Road
+        
+            - Victory Road
+        
+    
+
+- Big Pearl
+    
+        - Clamperl
         
             - Route 14
         
@@ -1281,391 +2123,79 @@ Held Items
         
             - Route 17
         
-            - Route 18
-        
             - Ruins of Void
         
     
-        - Tentacool
+        - Cloyster
+        
+            - Route 3
+        
+            - Route 14
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+    
+        - Shellder
+        
+            - Route 2
         
             - Route 2
         
             - Route 3
         
-            - Route 4
-        
-            - Route 5
-        
-            - Route 6
-        
-            - Route 7
-        
-            - Route 11
-        
-            - Route 12
+            - Route 3
         
             - Route 14
         
-            - Route 16
+            - Route 14
         
-            - Route 17
+            - Route 14
         
-            - Route 18
+            - Route 14
+        
+            - Route 14
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - Frost Mountain
+        
+            - Frost Mountain
         
             - Ruins of Void
         
-    
-        - Toxapex
-        
-            - Route 14
-        
             - Ruins of Void
         
-    
-        - Beedrill
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Drapion
-        
-            - Cootes Bog
-        
-    
-        - Beedrill
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Overqwil
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Skorupi
-        
-            - Route 9 + Autl Woods
-        
-    
-        - Scolipede
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Whirlipede
-        
-            - Antisis Sewers
-        
-    
-        - Venipede
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Roselia
+            - Victory Road
         
             - Victory Road
         
     
-        - Vespiquen
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Budew
-        
-            - Route 4
-        
-    
-        - Arbok
-        
-    
-        - Qwilfish
-        
-            - Crystal Peak
-        
-            - Magnolia Fields
-        
-    
-        - Mareanie
-        
-            - Route 14
-        
-            - Ruins of Void
-        
-    
-        - Qwilfish
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Roserade
-        
-            - Route 14
-        
-            - Route 14
-        
-    
 
-- Lagging Tail
+- Leppa Berry
     
-        - Copperajah
+        - Clefable
         
             - Route 14
         
             - Route 14
         
     
-        - Lickilicky
-        
-    
-        - Cufant
-        
-    
-        - Lickitung
-        
-            - Route 5
-        
-    
-        - Slowpoke
+        - Clefairy
         
             - Route 14
         
             - Route 14
         
     
-        - Copperajah
-        
-            - Route 16
-        
-    
-
-- Hard Stone
-    
-        - Lairon
-        
-            - KBT Expressway
-        
-            - Lost Tunnel
-        
-    
-        - Boldore
-        
-            - Ice Hole
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Victory Road
-        
-    
-        - Aron
-        
-            - Valley Cave
-        
-            - Valley Cave
-        
-            - KBT Expressway
-        
-            - Frost Mountain
-        
-    
-        - Aggron
+        - Cleffa
         
             - Route 14
         
             - Route 14
-        
-    
-        - Gigalith
-        
-    
-        - Onix
-        
-            - Frost Mountain
-        
-            - Cliff Cave
-        
-            - Crystal Peak
-        
-            - Crystal Peak
-        
-            - Crystal Peak
-        
-    
-        - Dwebble
-        
-            - Great Desert
-        
-            - Great Desert
-        
-    
-        - Roggenrola
-        
-            - Route 2
-        
-            - Route 8
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-    
-        - Aggron
-        
-    
-        - Crustle
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Electirizer
-    
-        - Electivire
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Electabuzz
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-    
-        - Elekid
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-    
-
-- Shed Shell
-    
-        - Goomy
-        
-            - Route 10
-        
-            - Auburn Waterway
-        
-    
-        - Venomoth
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Sliggoo
-        
-    
-        - Beautifly
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Scraggy
-        
-            - Route 2
-        
-    
-        - Seviper
-        
-            - Route 17
-        
-    
-        - Dustox
-        
-    
-        - Sliggoo
-        
-            - Cootes Bog
-        
-            - Cootes Bog
-        
-    
-        - Scrafty
-        
-    
-
-- Pecha Berry
-    
-        - Palpitoad
-        
-            - Route 10
-        
-            - Route 10
-        
-            - Auburn Waterway
-        
-            - Auburn Waterway
-        
-    
-        - Skuntank
-        
-            - Route 18
-        
-    
-        - Raticate
-        
-            - Route 7
-        
-            - Antisis Sewers
-        
-    
-        - Gumshoos
-        
-            - Route 7
-        
-    
-        - Mightyena
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Scolipede
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Wurmple
-        
-            - Vivill Woods
         
     
         - Delcatty
@@ -1675,58 +2205,25 @@ Held Items
             - Route 14
         
     
-        - Whirlipede
-        
-            - Antisis Sewers
-        
-    
-        - Venipede
+        - Mime Jr.
         
             - Route 14
         
             - Route 14
         
     
-        - Poochyena
-        
-            - Route 2
-        
-    
-        - Lopunny
-        
-    
-        - Rattata
-        
-            - Route 2
-        
-            - Route 7
-        
-    
-        - Seismitoad
+        - Mime Jr.
         
             - Route 14
         
             - Route 14
         
     
-        - Yungoos
+        - Mr. Mime
         
-            - Route 7
+            - Route 14
         
-    
-        - Stunky
-        
-    
-        - Buneary
-        
-            - Route 7
-        
-    
-        - Tympole
-        
-            - Route 10
-        
-            - Auburn Waterway
+            - Route 14
         
     
         - Skitty
@@ -1735,182 +2232,50 @@ Held Items
         
     
 
-- Charcoal
+- Moon Stone
     
-        - Ninetales
+        - Clefable
         
             - Route 14
         
             - Route 14
         
     
-        - Torkoal
+        - Clefairy
         
-            - Cinder Volcano
+            - Route 14
         
-    
-        - Vulpix
-        
-    
-        - Turtonator
-        
-            - Victory Road
-        
-            - Victory Road
+            - Route 14
         
     
-
-- Rindo Berry
+        - Cleffa
+        
+            - Route 14
+        
+            - Route 14
+        
     
-        - Lumineon
-        
-            - Valley Cave
-        
-            - Crystal Peak
-        
-            - Victory Road
-        
-            - Victory Road
+        - Jigglypuff
         
             - Victory Road
         
     
-        - Finneon
+        - Lunatone
         
-            - Valley Cave
+            - Ruins of Void
         
-            - Valley Cave
-        
-            - Crystal Peak
-        
-            - Victory Road
+            - Ruins of Void
         
     
-
-- Mystic Water
-    
-        - Araquanid
+        - Wigglytuff
         
-            - Route 3
+            - Route 14
         
-    
-        - Lapras
-        
-            - Route 17
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-            - Victory Road
-        
-    
-        - Lapras
-        
-            - Route 17
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-            - Victory Road
-        
-    
-        - Castform
-        
-    
-        - Castform
-        
-    
-        - Seaking
-        
-            - Route 6
-        
-            - Route 7
-        
-            - Route 9 + Autl Woods
-        
-            - Auburn Waterway
-        
-    
-        - Lapras
-        
-    
-        - Lapras
-        
-    
-        - Goldeen
-        
-            - Route 6
-        
-            - Route 7
-        
-            - Route 9 + Autl Woods
-        
-            - Auburn Waterway
-        
-    
-        - Dewpider
-        
-            - Route 3
-        
-    
-
-- Purple Nectar
-    
-        - Oricorio
-        
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-            - Flower Paradise
+            - Route 14
         
     
 
 - Honey
-    
-        - Oricorio
-        
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-    
-        - Oricorio
-        
-    
-        - Ribombee
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Surskit
-        
-            - Route 3
-        
-            - Route 9 + Autl Woods
-        
-            - Route 10
-        
-            - Grim Woods
-        
-            - Auburn Waterway
-        
-            - Vivill Woods
-        
     
         - Combee
         
@@ -1963,217 +2328,120 @@ Held Items
         - Oricorio
         
     
-
-- Light Ball
-    
-        - Pikachu
+        - Oricorio
         
-            - Route 14
+            - Flower Paradise
         
-            - Route 14
+            - Flower Paradise
         
-    
-        - Pikachu
+            - Flower Paradise
         
-    
-        - Pikachu
+            - Flower Paradise
         
-    
-        - Pikachu
+            - Flower Paradise
         
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-            - Vivill Woods
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-    
-        - Pikachu
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pikachu
-        
-    
-
-- Wide Lens
-    
-        - Yanma
-        
-            - Route 5
-        
-    
-        - Yanmega
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Sableye
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Flame Orb
-    
-        - Heatmor
-        
-            - Cinder Volcano
-        
-            - Victory Road
-        
-            - Victory Road
-        
-    
-
-- Smoke Ball
-    
-        - Spiritomb
-        
-    
-        - Spiritomb
-        
-    
-        - Koffing
-        
-    
-        - Salazzle
-        
-            - Victory Road
-        
-    
-        - Salandit
-        
-            - Cinder Volcano
-        
-            - Cinder Volcano
-        
-    
-        - Koffing
-        
-            - Antisis Sewers
-        
-    
-        - Weezing
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Red Nectar
     
         - Oricorio
         
     
+        - Ribombee
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Surskit
+        
+            - Route 3
+        
+            - Route 9 + Autl Woods
+        
+            - Route 10
+        
+            - Grim Woods
+        
+            - Auburn Waterway
+        
+            - Vivill Woods
+        
+    
 
-- Moon Stone
+- Misty Seed
     
-        - Wigglytuff
+        - Comfey
         
-            - Route 14
+            - Flower Paradise
         
-            - Route 14
+            - Flower Paradise
         
-    
-        - Clefable
-        
-            - Route 14
-        
-            - Route 14
+            - Flower Paradise
         
     
-        - Jigglypuff
-        
-            - Victory Road
-        
+
+- Lagging Tail
     
-        - Clefairy
+        - Copperajah
         
             - Route 14
         
             - Route 14
         
     
-        - Cleffa
+        - Copperajah
+        
+            - Route 16
+        
+    
+        - Cufant
+        
+    
+        - Lickilicky
+        
+    
+        - Lickitung
+        
+            - Route 5
+        
+    
+        - Slowpoke
         
             - Route 14
         
             - Route 14
         
     
-        - Lunatone
+
+- Luminous Moss
+    
+        - Corsola
         
-            - Ruins of Void
+    
+
+- Big Root
+    
+        - Cradily
         
-            - Ruins of Void
+    
+        - Lileep
+        
+            - Route 14
+        
+            - Route 14
         
     
 
 - Black Sludge
     
-        - Garbodor
-        
-    
-        - Trubbish
-        
-    
-        - Toxicroak
-        
-            - Cootes Bog
-        
-    
-        - Muk
-        
-    
         - Croagunk
         
             - Cootes Bog
+        
+    
+        - Garbodor
+        
+    
+        - Garbodor
         
     
         - Grimer
@@ -2183,676 +2451,46 @@ Held Items
             - Route 14
         
     
-        - Garbodor
+        - Muk
+        
+    
+        - Toxicroak
+        
+            - Cootes Bog
+        
+    
+        - Trubbish
         
     
 
-- Nugget
+- Thick Club
     
-        - Garbodor
-        
-    
-        - Garbodor
-        
-    
-
-- Grassy Seed
-    
-        - Steenee
-        
-            - Safari Zone
-        
-    
-        - Tsareena
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Bounsweet
-        
-            - Safari Zone
-        
-    
-
-- Mental Herb
-    
-        - Lombre
-        
-            - Route 10
-        
-            - Route 10
-        
-            - Auburn Waterway
-        
-            - Auburn Waterway
-        
-    
-        - Sewaddle
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Swadloon
-        
-            - Vivill Woods
-        
-    
-        - Ludicolo
-        
-    
-        - Leavanny
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pangoro
-        
-    
-        - Pancham
-        
-            - Route 16
-        
-    
-        - Lotad
-        
-            - Route 10
-        
-            - Auburn Waterway
-        
-    
-
-- Sticky Barb
-    
-        - Ferroseed
+        - Cubone
         
             - Thundercap Mt.
         
     
-        - Ferrothorn
+        - Muk
         
             - Route 14
         
             - Route 14
         
     
-        - Cacturne
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Cacnea
-        
-            - Great Desert
-        
-    
-
-- Pearl
-    
-        - Clamperl
-        
-            - Route 14
-        
-            - Route 16
-        
-            - Route 17
-        
-            - Ruins of Void
-        
-    
-        - Shellder
-        
-            - Route 2
-        
-            - Route 2
-        
-            - Route 3
-        
-            - Route 3
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-            - Frost Mountain
-        
-            - Ruins of Void
-        
-            - Ruins of Void
-        
-            - Victory Road
-        
-            - Victory Road
-        
-    
-        - Cloyster
-        
-            - Route 3
-        
-            - Route 14
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-    
-
-- Big Pearl
-    
-        - Clamperl
-        
-            - Route 14
-        
-            - Route 16
-        
-            - Route 17
-        
-            - Ruins of Void
-        
-    
-        - Shellder
-        
-            - Route 2
-        
-            - Route 2
-        
-            - Route 3
-        
-            - Route 3
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-            - Frost Mountain
-        
-            - Ruins of Void
-        
-            - Ruins of Void
-        
-            - Victory Road
-        
-            - Victory Road
-        
-    
-        - Cloyster
-        
-            - Route 3
-        
-            - Route 14
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-    
-
-- Fire Stone
-    
-        - Simisear
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Pansear
-        
-            - Flower Paradise
-        
-    
-
-- Black Belt
-    
-        - Makuhita
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - KBT Expressway
-        
-    
-
-- Deep Sea Scale
-    
-        - Gorebyss
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Relicanth
-        
-            - Ruins of Void
-        
-    
-        - Lanturn
-        
-            - Route 14
-        
-            - Route 16
-        
-            - Route 17
+        - Marowak
         
             - Thundercap Mt.
         
-            - Thundercap Mt.
-        
-            - Ruins of Void
-        
     
-        - Basculin
+        - Muk
         
             - Route 14
         
             - Route 14
-        
-    
-        - Chinchou
-        
-            - Route 14
-        
-            - Route 16
-        
-            - Route 17
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-            - Ruins of Void
-        
-    
-
-- Potion
-    
-        - Linoone
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Zigzagoon
-        
-    
-
-- Max Revive
-    
-        - Linoone
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Persim Berry
-    
-        - Gothita
-        
-            - Route 12
-        
-    
-        - Kecleon
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Gothorita
-        
-    
-        - Gothitelle
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Spoink
-        
-            - Route 11
-        
-    
-        - Reuniclus
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Drampa
-        
-            - Victory Road
-        
-            - Victory Road
-        
-    
-        - Girafarig
-        
-            - Route 16
-        
-    
-        - Duosion
-        
-    
-        - Grumpig
-        
-    
-        - Solosis
-        
-            - Route 12
-        
-    
-
-- Leaf Stone
-    
-        - Pansage
-        
-            - Flower Paradise
-        
-    
-        - Simisage
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Razor Claw
-    
-        - Kommo-o
-        
-    
-        - Jangmo-o
-        
-    
-        - Ho-Oh
-        
-    
-
-- Grip Claw
-    
-        - Sneasel
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Weavile
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Sneasel
-        
-            - Route 8
-        
-            - Frost Mountain
-        
-            - Frozen Forest
-        
-    
-        - Sandslash
-        
-            - Great Desert
-        
-    
-        - Sandshrew
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Sneasler
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Twisted Spoon
-    
-        - Alakazam
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Kadabra
-        
-    
-        - Alakazam
-        
-    
-        - Abra
-        
-            - Route 7
-        
-    
-
-- Leftovers
-    
-        - Munchlax
-        
-    
-        - Munchlax
-        
-    
-        - Snorlax
-        
-    
-        - Snorlax
-        
-    
-        - Snorlax
-        
-    
-        - Snorlax
-        
-    
-
-- Everstone
-    
-        - Graveler
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Geodude
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Golem
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Boldore
-        
-            - Ice Hole
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Victory Road
-        
-    
-        - Gigalith
-        
-    
-        - Roggenrola
-        
-            - Route 2
-        
-            - Route 8
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-    
-
-- Leppa Berry
-    
-        - Mime Jr.
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Clefable
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Clefairy
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Cleffa
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Mr. Mime
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Mime Jr.
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Delcatty
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Skitty
-        
-            - Safari Zone
-        
-    
-
-- Casteliacone
-    
-        - Vanilluxe
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Vanillish
-        
-            - Victory Road
-        
-    
-
-- Payapa Berry
-    
-        - Primeape
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Mankey
-        
-            - Route 4
-        
-    
-
-- Shuca Berry
-    
-        - Rapidash
-        
-    
-        - Ponyta
         
     
 
 - Soft Sand
-    
-        - Stunfisk
-        
-    
-        - Dugtrio
-        
-    
-        - Trapinch
-        
     
         - Diglett
         
@@ -2866,6 +2504,16 @@ Held Items
             - Lost Tunnel
         
             - Safari Zone
+        
+            - Safari Zone
+        
+    
+        - Dugtrio
+        
+    
+        - Dugtrio
+        
+            - Lost Tunnel
         
             - Safari Zone
         
@@ -2875,204 +2523,10 @@ Held Items
             - Redwood Forest
         
     
-        - Dugtrio
-        
-            - Lost Tunnel
-        
-            - Safari Zone
+        - Stunfisk
         
     
-
-- Dragon Scale
-    
-        - Dragonair
-        
-            - Crystal Peak
-        
-    
-        - Kingdra
-        
-            - Ruins of Void
-        
-    
-        - Horsea
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 16
-        
-            - Route 17
-        
-            - Route 18
-        
-            - Ruins of Void
-        
-    
-        - Seadra
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 16
-        
-            - Route 17
-        
-            - Route 18
-        
-            - Ruins of Void
-        
-    
-        - Dragonite
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Dratini
-        
-    
-
-- Big Root
-    
-        - Lileep
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Cradily
-        
-    
-
-- Magmarizer
-    
-        - Magmortar
-        
-    
-        - Magmar
-        
-            - Cinder Volcano
-        
-            - Victory Road
-        
-    
-        - Magby
-        
-            - Cinder Volcano
-        
-    
-
-- Big Mushroom
-    
-        - Shiinotic
-        
-    
-        - Paras
-        
-    
-        - Amoonguss
-        
-    
-        - Morelull
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Foongus
-        
-    
-        - Parasect
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Tiny Mushroom
-    
-        - Shiinotic
-        
-    
-        - Paras
-        
-    
-        - Breloom
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Amoonguss
-        
-    
-        - Morelull
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Foongus
-        
-    
-        - Shroomish
-        
-            - Route 9 + Autl Woods
-        
-    
-        - Parasect
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Cleanse Tag
-    
-        - Chingling
-        
-    
-        - Chimecho
-        
-            - Rift Cave
-        
-            - Rift Cave
-        
-    
-
-- Sacred Ash
-    
-        - Ho-Oh
-        
-    
-        - Ho-Oh
-        
-    
-
-- Moomoo Milk
-    
-        - Miltank
-        
-            - Magnolia Fields
-        
-    
-        - Miltank
-        
-            - Magnolia Fields
+        - Trapinch
         
     
 
@@ -3100,16 +2554,45 @@ Held Items
         
     
 
+- Sharp Beak
+    
+        - Dodrio
+        
+    
+        - Doduo
+        
+            - Route 7
+        
+    
+        - Fearow
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Spearow
+        
+            - Route 9 + Autl Woods
+        
+    
+
+- Passho Berry
+    
+        - Donphan
+        
+    
+        - Phanpy
+        
+            - Valley Cave
+        
+            - Valley Cave
+        
+    
+
 - Psychic Seed
     
-        - Orbeetle
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Orbeetle
+        - Dottler
         
             - Route 14
         
@@ -3121,7 +2604,14 @@ Held Items
             - Route 11
         
     
-        - Dottler
+        - Orbeetle
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Orbeetle
         
             - Route 14
         
@@ -3129,228 +2619,160 @@ Held Items
         
     
 
-- Chesto Berry
+- Dragon Scale
     
-        - Exploud
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Cinccino
-        
-    
-        - Mimikyu
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Minccino
-        
-            - Route 2
-        
-    
-        - Spinda
-        
-            - Safari Zone
-        
-            - Safari Zone
-        
-    
-        - Mimikyu
-        
-    
-        - Loudred
-        
-            - Crystal Peak
+        - Dragonair
         
             - Crystal Peak
         
     
-        - Whismur
+        - Dragonite
         
             - Route 14
         
             - Route 14
         
     
-
-- Aspear Berry
-    
-        - Jynx
-        
-            - Ice Hole
-        
-            - Icicle Cave
-        
-            - Victory Road
+        - Dratini
         
     
-        - Jynx
-        
-            - Ice Hole
-        
-            - Icicle Cave
-        
-            - Victory Road
-        
-    
-        - Seel
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-            - Frost Mountain
-        
-            - Victory Road
-        
-    
-        - Cubchoo
-        
-            - Route 8
-        
-            - Frozen Forest
-        
-    
-        - Crabrawler
+        - Horsea
         
             - Route 14
         
             - Route 14
         
-    
-        - Piloswine
-        
-            - Ice Hole
-        
-            - Icicle Cave
-        
-            - Victory Road
-        
-    
-        - Smoochum
-        
-            - Icicle Cave
-        
-    
-        - Smoochum
-        
-            - Icicle Cave
-        
-    
-        - Swinub
-        
-            - Icicle Cave
-        
-    
-        - Dewgong
-        
-            - Icicle Cave
-        
-            - Icicle Cave
-        
-            - Frost Mountain
-        
-            - Frost Mountain
-        
-            - Victory Road
-        
-            - Victory Road
-        
-    
-        - Beartic
-        
-            - Victory Road
-        
-    
-
-- Wacan Berry
-    
-        - Floatzel
-        
             - Route 14
         
-            - Victory Road
+            - Route 16
         
-    
-        - Buizel
+            - Route 17
         
-            - Route 3
-        
-    
-
-- Sun Stone
-    
-        - Solrock
+            - Route 18
         
             - Ruins of Void
+        
+    
+        - Kingdra
+        
+            - Ruins of Void
+        
+    
+        - Seadra
+        
+            - Route 14
+        
+            - Route 14
+        
+            - Route 14
+        
+            - Route 16
+        
+            - Route 17
+        
+            - Route 18
         
             - Ruins of Void
         
     
 
-- Chilan Berry
+- Persim Berry
     
-        - Rattata
+        - Drampa
+        
+            - Victory Road
+        
+            - Victory Road
         
     
-        - Raticate
+        - Duosion
+        
+    
+        - Girafarig
+        
+            - Route 16
+        
+    
+        - Gothita
+        
+            - Route 12
+        
+    
+        - Gothitelle
         
             - Route 14
         
             - Route 14
+        
+    
+        - Gothorita
+        
+    
+        - Grumpig
+        
+    
+        - Kecleon
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Reuniclus
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Solosis
+        
+            - Route 12
+        
+    
+        - Spoink
+        
+            - Route 11
         
     
 
-- Black Glasses
+- Air Balloon
     
-        - Sandile
+        - Drifblim
         
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Krookodile
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Krokorok
-        
-            - Great Desert
+            - Crystal Peak
         
     
 
-- Snowball
+- Electirizer
     
-        - Snom
+        - Electabuzz
         
-            - Frozen Forest
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
         
     
-        - Snorunt
+        - Electivire
         
-            - Route 1
+            - Route 14
         
-            - Route 8
+            - Route 14
+        
+    
+        - Elekid
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
         
     
 
 - Leek
-    
-        - Sirfetch'd
-        
-            - Route 17
-        
     
         - Farfetch'd
         
@@ -3359,35 +2781,255 @@ Held Items
             - Route 14
         
     
+        - Sirfetch'd
+        
+            - Route 17
+        
+    
 
-- Silver Powder
+- Rindo Berry
     
-        - Mothim
+        - Finneon
+        
+            - Valley Cave
+        
+            - Valley Cave
+        
+            - Crystal Peak
+        
+            - Victory Road
         
     
-        - Masquerain
+        - Lumineon
         
-            - Route 9 + Autl Woods
+            - Valley Cave
         
-            - Route 10
+            - Crystal Peak
         
-            - Grim Woods
+            - Victory Road
         
-            - Auburn Waterway
+            - Victory Road
+        
+            - Victory Road
+        
+    
+
+- Babiri Berry
+    
+        - Froslass
+        
+    
+
+- Haban Berry
+    
+        - Gabite
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Muk
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Garchomp
+        
+    
+        - Ho-Oh
+        
+    
+        - Gible
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Nugget
+    
+        - Garbodor
+        
+    
+        - Garbodor
+        
+    
+
+- Tanga Berry
+    
+        - Grumpig
+        
+    
+        - Spoink
+        
+            - Route 11
+        
+    
+
+- Razor Claw
+    
+        - Ho-Oh
+        
+    
+        - Jangmo-o
+        
+    
+        - Kommo-o
+        
+    
+
+- Oval Stone
+    
+        - Happiny
+        
+            - Route 18
+        
+    
+
+- Kings Rock
+    
+        - Hariyama
+        
+            - Ice Hole
+        
+            - Icicle Cave
+        
+            - KBT Expressway
+        
+            - Victory Road
+        
+    
+        - Hawlucha
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Politoed
+        
+            - Cootes Bog
+        
+    
+        - Poliwhirl
+        
+            - Cootes Bog
+        
+            - Cootes Bog
+        
+    
+        - Poliwrath
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Slowbro
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Slowking
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Flame Orb
+    
+        - Heatmor
+        
+            - Cinder Volcano
+        
+            - Victory Road
+        
+            - Victory Road
+        
+    
+
+- Sacred Ash
+    
+        - Ho-Oh
+        
+    
+        - Ho-Oh
+        
+    
+
+- Bright Powder
+    
+        - Illumise
+        
+            - Route 17
+        
+    
+        - Volbeat
+        
+            - Route 17
+        
+    
+        - Wurmple
         
             - Vivill Woods
         
-            - Redwood Forest
+    
+
+- Star Piece
+    
+        - Jirachi
         
     
-        - Butterfree
+        - Jirachi
+        
+    
+        - Meloetta
         
             - Route 14
         
             - Route 14
         
     
-        - Bad Egg
+        - Meloetta
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Minior
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Minior
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Minior
+        
+    
+        - Minior
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Minior
         
             - Route 14
         
@@ -3401,20 +3043,80 @@ Held Items
             - Route 14
         
     
-        - Bad Egg
+        - Minior
+        
+            - Route 1
+        
+            - Route 8
+        
+            - Victory Road
+        
+    
+        - Minior
         
             - Route 14
         
             - Route 14
         
     
-        - Volcarona
+        - Starmie
+        
+            - Route 2
+        
+            - Route 4
+        
+            - Route 5
         
     
-        - Volcarona
+        - Staryu
+        
+            - Route 2
+        
+            - Route 2
+        
+            - Route 3
+        
+            - Route 3
+        
+            - Route 4
+        
+            - Route 4
+        
+            - Route 5
+        
+            - Route 5
         
     
-        - Butterfree
+
+- Smoke Ball
+    
+        - Koffing
+        
+    
+        - Koffing
+        
+            - Antisis Sewers
+        
+    
+        - Salandit
+        
+            - Cinder Volcano
+        
+            - Cinder Volcano
+        
+    
+        - Salazzle
+        
+            - Victory Road
+        
+    
+        - Spiritomb
+        
+    
+        - Spiritomb
+        
+    
+        - Weezing
         
             - Route 14
         
@@ -3422,11 +3124,172 @@ Held Items
         
     
 
+- Black Glasses
+    
+        - Krokorok
+        
+            - Great Desert
+        
+    
+        - Krookodile
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Sandile
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Mental Herb
+    
+        - Leavanny
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Lombre
+        
+            - Route 10
+        
+            - Route 10
+        
+            - Auburn Waterway
+        
+            - Auburn Waterway
+        
+    
+        - Lotad
+        
+            - Route 10
+        
+            - Auburn Waterway
+        
+    
+        - Ludicolo
+        
+    
+        - Pancham
+        
+            - Route 16
+        
+    
+        - Pangoro
+        
+    
+        - Sewaddle
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Swadloon
+        
+            - Vivill Woods
+        
+    
+
+- Potion
+    
+        - Linoone
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Zigzagoon
+        
+    
+
+- Max Revive
+    
+        - Linoone
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Stardust
+    
+        - Lunatone
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+    
+        - Solrock
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+    
+        - Starmie
+        
+            - Route 2
+        
+            - Route 4
+        
+            - Route 5
+        
+    
+        - Staryu
+        
+            - Route 2
+        
+            - Route 2
+        
+            - Route 3
+        
+            - Route 3
+        
+            - Route 4
+        
+            - Route 4
+        
+            - Route 5
+        
+            - Route 5
+        
+    
+
+- Heart Scale
+    
+        - Luvdisc
+        
+            - Route 11
+        
+            - Route 11
+        
+            - Route 14
+        
+            - Route 14
+        
+            - Route 14
+        
+            - Ruins of Void
+        
+            - Victory Road
+        
+            - Victory Road
+        
+    
+
 - Focus Band
     
-        - Machop
-        
-            - Cliff Cave
+        - Machamp
         
     
         - Machamp
@@ -3437,7 +3300,314 @@ Held Items
             - Cliff Cave
         
     
-        - Machamp
+        - Machop
+        
+            - Cliff Cave
+        
+    
+
+- Magmarizer
+    
+        - Magby
+        
+            - Cinder Volcano
+        
+    
+        - Magmar
+        
+            - Cinder Volcano
+        
+            - Victory Road
+        
+    
+        - Magmortar
+        
+    
+
+- Black Belt
+    
+        - Makuhita
+        
+            - Icicle Cave
+        
+            - Icicle Cave
+        
+            - KBT Expressway
+        
+    
+
+- Payapa Berry
+    
+        - Mankey
+        
+            - Route 4
+        
+    
+        - Primeape
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Quick Claw
+    
+        - Meowth
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Ho-Oh
+        
+            - Safari Zone
+        
+    
+        - Meowth
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Persian
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Persian
+        
+            - Route 18
+        
+    
+        - Sneasel
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Sneasel
+        
+            - Route 8
+        
+            - Frost Mountain
+        
+            - Frozen Forest
+        
+    
+        - Sneasler
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Weavile
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Zangoose
+        
+            - Route 17
+        
+    
+
+- Moomoo Milk
+    
+        - Miltank
+        
+            - Magnolia Fields
+        
+    
+        - Miltank
+        
+            - Magnolia Fields
+        
+    
+
+- Toxic Orb
+    
+        - Muk
+        
+    
+
+- Leftovers
+    
+        - Munchlax
+        
+    
+        - Munchlax
+        
+    
+        - Snorlax
+        
+    
+        - Snorlax
+        
+    
+        - Snorlax
+        
+    
+        - Snorlax
+        
+    
+
+- Charcoal
+    
+        - Ninetales
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Torkoal
+        
+            - Cinder Volcano
+        
+    
+        - Turtonator
+        
+            - Victory Road
+        
+            - Victory Road
+        
+    
+        - Vulpix
+        
+    
+
+- Magnet
+    
+        - Nosepass
+        
+            - Valley Cave
+        
+            - Valley Cave
+        
+            - Valley Cave
+        
+            - KBT Expressway
+        
+            - KBT Expressway
+        
+            - KBT Expressway
+        
+            - Frost Mountain
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+            - Thundercap Mt.
+        
+    
+        - Probopass
+        
+    
+
+- Power Herb
+    
+        - Nuzleaf
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Seedot
+        
+            - Grim Woods
+        
+    
+        - Shiftry
+        
+    
+
+- Red Nectar
+    
+        - Oricorio
+        
+    
+
+- Pink Nectar
+    
+        - Oricorio
+        
+    
+
+- Purple Nectar
+    
+        - Oricorio
+        
+            - Flower Paradise
+        
+            - Flower Paradise
+        
+            - Flower Paradise
+        
+            - Flower Paradise
+        
+            - Flower Paradise
+        
+    
+
+- Yellow Nectar
+    
+        - Oricorio
+        
+    
+
+- Water Stone
+    
+        - Panpour
+        
+            - Flower Paradise
+        
+    
+        - Simipour
+        
+    
+
+- Leaf Stone
+    
+        - Pansage
+        
+            - Flower Paradise
+        
+    
+        - Simisage
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Fire Stone
+    
+        - Pansear
+        
+            - Flower Paradise
+        
+    
+        - Simisear
+        
+            - Route 14
+        
+            - Route 14
         
     
 
@@ -3484,334 +3654,186 @@ Held Items
         
     
 
-- Yellow Nectar
+- Light Ball
     
-        - Oricorio
+        - Pikachu
         
     
-
-- Luminous Moss
-    
-        - Corsola
-        
-    
-
-- Air Balloon
-    
-        - Drifblim
-        
-            - Crystal Peak
-        
-    
-
-- Deep Sea Tooth
-    
-        - Huntail
-        
-    
-        - Basculin
+        - Pikachu
         
             - Route 14
         
             - Route 14
         
     
-        - Carvanha
-        
-            - Route 12
-        
-            - Route 14
-        
-            - Route 17
+        - Pikachu
         
     
-        - Sharpedo
-        
-            - Route 12
-        
-            - Route 14
-        
-            - Route 17
-        
-    
-        - Basculegon
+        - Pikachu
         
             - Route 14
         
             - Route 14
         
     
-        - Basculin
-        
-            - Route 2
-        
-            - Route 4
-        
-            - Route 5
-        
-            - Route 11
-        
-            - Victory Road
+        - Pikachu
         
     
-        - Basculegon
+        - Pikachu
+        
+    
+        - Pikachu
         
             - Route 14
         
             - Route 14
         
     
-
-- Tanga Berry
-    
-        - Spoink
-        
-            - Route 11
+        - Pikachu
         
     
-        - Grumpig
+        - Pikachu
         
     
-
-- Cell Battery
-    
-        - Plusle
-        
-            - Safari Zone
+        - Pikachu
         
     
-        - Charjabug
+        - Pikachu
         
     
-        - Minun
-        
-            - Safari Zone
-        
-    
-
-- Charti Berry
-    
-        - Swellow
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Taillow
-        
-            - Route 5
-        
-    
-
-- Lum Berry
-    
-        - Shaymin
-        
-    
-        - Shaymin
-        
-    
-        - Mew
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Mew
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Celebi
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Celebi
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-
-- Passho Berry
-    
-        - Donphan
-        
-    
-        - Phanpy
-        
-            - Valley Cave
-        
-            - Valley Cave
-        
-    
-
-- Magnet
-    
-        - Probopass
-        
-    
-        - Nosepass
-        
-            - Valley Cave
-        
-            - Valley Cave
-        
-            - Valley Cave
-        
-            - KBT Expressway
-        
-            - KBT Expressway
-        
-            - KBT Expressway
-        
-            - Frost Mountain
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-            - Thundercap Mt.
-        
-    
-
-- Sharp Beak
-    
-        - Fearow
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Spearow
-        
-            - Route 9 + Autl Woods
-        
-    
-        - Doduo
-        
-            - Route 7
-        
-    
-        - Dodrio
-        
-    
-
-- Kebia Berry
-    
-        - Breloom
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Shroomish
-        
-            - Route 9 + Autl Woods
-        
-    
-
-- Lucky Punch
-    
-        - Chansey
-        
-            - Victory Road
-        
-    
-
-- Heart Scale
-    
-        - Luvdisc
-        
-            - Route 11
-        
-            - Route 11
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Route 14
-        
-            - Ruins of Void
-        
-            - Victory Road
-        
-            - Victory Road
-        
-    
-
-- Bright Powder
-    
-        - Wurmple
+        - Pikachu
         
             - Vivill Woods
         
     
-        - Volbeat
-        
-            - Route 17
-        
-    
-        - Illumise
-        
-            - Route 17
-        
-    
-
-- Toxic Orb
-    
-        - Muk
-        
-    
-
-- Power Herb
-    
-        - Seedot
-        
-            - Grim Woods
-        
-    
-        - Nuzleaf
+        - Pikachu
         
             - Route 14
         
             - Route 14
         
     
-        - Shiftry
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
+        
+    
+        - Pikachu
         
     
 
-- Misty Seed
+- Shuca Berry
     
-        - Comfey
+        - Ponyta
         
-            - Flower Paradise
-        
-            - Flower Paradise
-        
-            - Flower Paradise
+    
+        - Rapidash
         
     
 
-- Babiri Berry
+- Up Grade
     
-        - Froslass
+        - Porygon2
+        
+    
+        - Porygon2
+        
+    
+
+- Chilan Berry
+    
+        - Raticate
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Rattata
+        
+    
+
+- Wide Lens
+    
+        - Sableye
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Yanma
+        
+            - Route 5
+        
+    
+        - Yanmega
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Grip Claw
+    
+        - Sandshrew
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Sandslash
+        
+            - Great Desert
+        
+    
+        - Sneasel
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Sneasel
+        
+            - Route 8
+        
+            - Frost Mountain
+        
+            - Frozen Forest
+        
+    
+        - Sneasler
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+        - Weavile
+        
+            - Route 14
+        
+            - Route 14
+        
+    
+
+- Expert Belt
+    
+        - Sawk
+        
+            - Route 16
+        
+    
+        - Throh
+        
+            - Route 16
         
     
 
@@ -3840,16 +3862,42 @@ Held Items
         
     
 
-- Expert Belt
+- Snowball
     
-        - Throh
+        - Snom
         
-            - Route 16
+            - Frozen Forest
         
     
-        - Sawk
+        - Snorunt
         
-            - Route 16
+            - Route 1
+        
+            - Route 8
+        
+    
+
+- Sun Stone
+    
+        - Solrock
+        
+            - Ruins of Void
+        
+            - Ruins of Void
+        
+    
+
+- Yache Berry
+    
+        - Staraptor
+        
+    
+        - Staravia
+        
+    
+        - Starly
+        
+            - Route 4
         
     
 
@@ -3861,94 +3909,46 @@ Held Items
         
     
 
-- Chople Berry
+- Charti Berry
     
-        - Lopunny
+        - Swellow
+        
+            - Route 14
+        
+            - Route 14
         
     
-        - Buneary
+        - Taillow
         
-            - Route 7
-        
-    
-
-- Yache Berry
-    
-        - Staravia
-        
-    
-        - Starly
-        
-            - Route 4
-        
-    
-        - Staraptor
+            - Route 5
         
     
 
-- Razor Fang
+- Electric Seed
     
-        - Bruxish
+        - Togedemaru
         
-            - Route 9 + Autl Woods
+            - Route 11
         
-            - Route 10
-        
-            - Auburn Waterway
+    
+
+- Casteliacone
+    
+        - Vanillish
         
             - Victory Road
         
     
-
-- Oval Stone
-    
-        - Happiny
-        
-            - Route 18
-        
-    
-
-- Dragon Fang
-    
-        - Salamence
+        - Vanilluxe
         
             - Route 14
         
             - Route 14
-        
-    
-        - Druddigon
-        
-            - Victory Road
-        
-    
-        - Shelgon
-        
-            - Route 14
-        
-            - Route 14
-        
-    
-        - Bagon
-        
-            - Route 17
         
     
 
 - Revive
     
         - Zigzagoon
-        
-    
-
-- Life Orb
-    
-        - Absol
-        
-    
-
-- Pink Nectar
-    
-        - Oricorio
         
     

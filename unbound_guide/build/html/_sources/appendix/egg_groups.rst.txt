@@ -3,1258 +3,1258 @@ Egg Groups
 ======================
 
 
-.. list-table:: Field
-   :widths: 25 25 25 25 
-
-   * - Persian
-     - Boltund
-     - Gogoat
-     - Hippowdon
-   * - Serperior
-     - Slaking
-     - Eevee
-     - Muk
-   * - Raichu
-     - Lycanroc
-     - Delcatty
-     - Whismur
-   * - Cyndaquil
-     - Ho-Oh
-     - Scrafty
-     - Darumaka
-   * - Luxio
-     - Typhlosion
-     - Ampharos
-     - Nickit
-   * - Dubwool
-     - Rillaboom
-     - Zoroark
-     - Sandslash
-   * - Espeon
-     - Bunnelby
-     - Lillipup
-     - Scorbunny
-   * - Houndour
-     - Ponyta
-     - Houndoom
-     - Rhyperior
-   * - Blitzle
-     - Diglett
-     - Kecleon
-     - Donphan
-   * - Poochyena
-     - Rattata
-     - Floatzel
-     - Skitty
-   * - Passimian
-     - Furret
-     - Obstagoon
-     - Hippopotas
-   * - Absol
-     - Yungoos
-     - Quilava
-     - Buneary
-   * - Swinub
-     - Yamper
-     - Pikachu
-     - Miltank
-   * - Drizzile
-     - Cufant
-     - Seedot
-     - Zorua
-   * - Torkoal
-     - Monferno
-     - Krokorok
-     - Gumshoos
-   * - Pignite
-     - Torchic
-     - Darmanitan
-     - Wailord
-   * - Infernape
-     - Mareep
-     - Fennekin
-     - Nidorino
-   * - Sandile
-     - Combusken
-     - Teddiursa
-     - Beartic
-   * - Zebstrika
-     - Flareon
-     - Delibird
-     - Manectric
-   * - Chespin
-     - Snivy
-     - Popplio
-     - Rhydon
-   * - Spheal
-     - Simipour
-     - Nuzleaf
-     - Incineroar
-   * - Sneasel
-     - Stoutland
-     - Pancham
-     - Buizel
-   * - Nidoran[B6]
-     - Walrein
-     - Skuntank
-     - Granbull
-   * - Luxray
-     - Emolga
-     - Ekans
-     - Empoleon
-   * - Vaporeon
-     - Wailmer
-     - Chesnaught
-     - Leafeon
-   * - Raticate
-     - Mawile
-     - Mudsdale
-     - Spinda
-   * - Zigzagoon
-     - Exploud
-     - Smeargle
-     - Rockruff
-   * - Scraggy
-     - Stufful
-     - Mightyena
-     - Sandaconda
-   * - Morpeko
-     - Thievul
-     - Bidoof
-     - Sawsbuck
-   * - Furfrou
-     - Diggersby
-     - Dugtrio
-     - Drilbur
-   * - Herdier
-     - Panpour
-     - Stunky
-     - Grumpig
-   * - Loudred
-     - Lucario
-     - Wooloo
-     - Oranguru
-   * - Torracat
-     - Primeape
-     - Spoink
-     - Numel
-   * - Ambipom
-     - Heatmor
-     - Woobat
-     - Chimchar
-   * - Bibarel
-     - Grookey
-     - Linoone
-     - Cinderace
-   * - Jolteon
-     - Weavile
-     - Tauros
-     - Oshawott
-   * - Purugly
-     - Shinx
-     - Arbok
-     - Prinplup
-   * - Primarina
-     - Simisage
-     - Litleo
-     - Krookodile
-   * - Mienfoo
-     - Farfetch'd
-     - Seviper
-     - Litten
-   * - Umbreon
-     - Ursaring
-     - Vulpix
-     - Minccino
-   * - Togedemaru
-     - Shiftry
-     - Liepard
-     - Phanpy
-   * - Thwackey
-     - Komala
-     - Pachirisu
-     - Purrloin
-   * - Servine
-     - Mudbray
-     - Inteleon
-     - Sealeo
-   * - Pansage
-     - Psyduck
-     - Quilladin
-     - Vigoroth
-   * - Meowth
-     - Mienshao
-     - Cinccino
-     - Bewear
-   * - Ninetales
-     - Seel
-     - Mamoswine
-     - Electrike
-   * - Snubbull
-     - Quagsire
-     - Excadrill
-     - Ursaluna
-   * - Pangoro
-     - Glameow
-     - Nidoking
-     - Lopunny
-   * - Wyrdeer
-     - Camerupt
-     - Sandshrew
-     - Pansear
-   * - Tepig
-     - Dewgong
-     - Deerling
-     - Skwovet
-   * - Silicobra
-     - Sirfetch'd
-     - Zangoose
-     - Piloswine
-   * - Meowstic
-     - Mankey
-     - Bouffalant
-     - Braixen
-   * - Sobble
-     - Greedent
-     - Blaziken
-     - Watchog
-   * - Samurott
-     - Dedenne
-     - Swoobat
-     - Rhyhorn
-   * - Eiscue
-     - Sylveon
-     - Flaaffy
-     - Dunsparce
-   * - Cubchoo
-     - Simisear
-     - Aipom
-     - Sentret
-   * - Arcanine
-     - Pyroar
-     - Golduck
-     - Raboot
-   * - Growlithe
-     - Espurr
-     - Stantler
-     - Wooper
-   * - Skiddo
-     - Sneasler
-     - Warrior
-     - Rapidash
-   * - Glaceon
-     - Delphox
-     - Munna
-     - Girafarig
-   * - Musharna
-     - Piplup
-     - Copperajah
-     - Patrat
-   * - Dewott
-     - Perrserker
-     - Crobat
-     - Emboar
-   * - Slakoth
-   
-
 .. list-table:: Monster
    :widths: 25 25 25 25 
 
-   * - Muk
-     - Torterra
-     - Whismur
-     - Croconaw
-   * - Ho-Oh
-     - Ampharos
-     - Abomasnow
-     - Aggron
-   * - Rhyperior
-     - Salandit
-     - Tropius
+   * - Rampardos
      - Lairon
-   * - Squirtle
-     - Axew
-     - Garchomp
-     - Lapras
-   * - Cubone
-     - Kangaskhan
-     - Rampardos
-     - Slowking
-   * - Mareep
-     - Bastiodon
-     - Venusaur
-     - Nidorino
-   * - Charizard
-     - Helioptile
-     - Ivysaur
-     - Rhydon
-   * - Nidoran[B6]
-     - Feraligatr
-     - Bergmite
-     - Chewtle
-   * - Bulbasaur
-     - Charmander
-     - Lickilicky
-     - Grovyle
-   * - Gible
-     - Druddigon
-     - Amaura
-     - Lickitung
-   * - Marshtomp
-     - Avalugg
-     - Exploud
-     - Aurorus
-   * - Cranidos
-     - Fraxure
-     - Turtonator
-     - Pupitar
-   * - Gabite
-     - Heliolisk
-     - Loudred
-     - Marowak
-   * - Tyrantrum
-     - Totodile
-     - Shieldon
-     - Snorlax
-   * - Salazzle
-     - Treecko
      - Chikorita
-     - Tyranitar
-   * - Snover
-     - Swampert
-     - Blastoise
-     - Charmeleon
-   * - Mudkip
-     - Haxorus
-     - Aron
-     - Drednaw
-   * - Sceptile
+     - Ho-Oh
+   * - Nidoking
+     - Fraxure
+     - Treecko
+     - Aggron
+   * - Whismur
+     - Sceptile
+     - Charmander
      - Grotle
-     - Bayleef
-     - Nidoking
-   * - Slowbro
-     - Wartortle
-     - Brionne
-     - Rhyhorn
-   * - Flaaffy
-     - Slowpoke
-     - Magnezone
+   * - Pupitar
      - Larvitar
-   * - Drampa
-     - Turtwig
+     - Drampa
+     - Charmeleon
+   * - Flaaffy
+     - Lickitung
+     - Wartortle
+     - Turtonator
+   * - Turtwig
+     - Ampharos
+     - Rhydon
+     - Bayleef
+   * - Bulbasaur
+     - Amaura
+     - Chewtle
+     - Cubone
+   * - Exploud
+     - Charizard
+     - Helioptile
+     - Cranidos
+   * - Marowak
+     - Muk
+     - Slowking
+     - Kangaskhan
+   * - Magnezone
+     - Mareep
+     - Garchomp
+     - Feraligatr
+   * - Salazzle
+     - Druddigon
+     - Squirtle
+     - Marshtomp
+   * - Bastiodon
      - Tyrunt
+     - Rhyhorn
+     - Tyranitar
+   * - Abomasnow
+     - Snorlax
+     - Nidoran[B6]
+     - Shieldon
+   * - Grovyle
+     - Rhyperior
+     - Drednaw
+     - Loudred
+   * - Gabite
+     - Nidorino
+     - Tropius
+     - Salandit
+   * - Aurorus
+     - Aron
+     - Slowbro
+     - Haxorus
+   * - Snover
+     - Lickilicky
+     - Slowpoke
+     - Brionne
+   * - Torterra
+     - Lapras
+     - Bergmite
+     - Croconaw
+   * - Swampert
+     - Mudkip
+     - Blastoise
+     - Totodile
+   * - Ivysaur
      - Meganium
+     - Axew
+     - Gible
+   * - Heliolisk
+     - Venusaur
+     - Avalugg
+     - Tyrantrum
    
 
 .. list-table:: Grass
    :widths: 25 25 25 25 
 
-   * - Vileplume
-     - Serperior
-     - Roserade
-     - Muk
-   * - Torterra
-     - Lombre
-     - Whimsicott
-     - Ho-Oh
-   * - Cottonee
-     - Ludicolo
-     - Maractus
-     - Cacturne
-   * - Rillaboom
-     - Cacnea
-     - Abomasnow
-     - Tropius
-   * - Bounsweet
-     - Exeggutor
-     - Seedot
-     - Eldegoss
-   * - Ferroseed
-     - Lurantis
-     - Venusaur
-     - Ferrothorn
-   * - Lotad
-     - Ivysaur
-     - Snivy
-     - Bellossom
-   * - Nuzleaf
-     - Parasect
-     - Bulbasaur
-     - Tangela
-   * - Comfey
-     - Gloom
-     - Gossifleur
-     - Victreebel
-   * - Weepinbell
-     - Phantump
-     - Sunkern
-     - Shroomish
-   * - Jumpluff
-     - Tsareena
-     - Breloom
-     - Petilil
-   * - Morelull
-     - Steenee
-     - Paras
-     - Grookey
-   * - Chikorita
-     - Cherubi
-     - Snover
-     - Lilligant
-   * - Bellsprout
-     - Oddish
-     - Trevenant
-     - Shiftry
-   * - Thwackey
-     - Servine
-     - Shiinotic
-     - Grotle
-   * - Bayleef
-     - Exeggcute
-     - Applin
-     - Hoppip
-   * - Appletun
-     - Foongus
-     - Tangrowth
-     - Amoonguss
    * - Flapple
-     - Roselia
-     - Fomantis
-     - Cherrim
-   * - Sunflora
-     - Carnivine
-     - Turtwig
-     - Skiploom
-   * - Meganium
-   
-
-.. list-table:: Fairy
-   :widths: 25 25 25 25 
-
-   * - Aromatisse
-     - Impidimp
-     - Carbink
-     - Blissey
-   * - Snubbull
-     - Falinks
-     - Azumarill
-     - Hatenna
-   * - Hoppip
-     - Roserade
-     - Raichu
-     - Jumpluff
-   * - Slurpuff
-     - Milcery
-     - Breloom
-     - Delcatty
-   * - Whimsicott
-     - Florges
-     - Hatterene
-     - Hattrem
-   * - Togekiss
-     - Snorunt
-     - Ho-Oh
-     - Manaphy
-   * - Cottonee
-     - Granbull
-     - Alcremie
-     - Plusle
-   * - Spritzee
-     - Roselia
-     - Dedenne
+     - Chikorita
      - Cherubi
-   * - Minun
-     - Clefairy
-     - Clefable
-     - Marill
-   * - Cherrim
-     - Mawile
-     - Flabebe
-     - Swirlix
-   * - Skitty
-     - Grimmsnarl
-     - Phione
-     - Castform
-   * - Indeedee
-     - Floette
-     - Togedemaru
-     - Pikachu
-   * - Wigglytuff
-     - Glalie
-     - Chansey
-     - Morgrem
-   * - Pachirisu
-     - Morpeko
-     - Togetic
-     - Cutiefly
-   * - Ribombee
-     - Jigglypuff
+     - Ho-Oh
+   * - Lombre
+     - Grookey
+     - Grotle
+     - Ludicolo
+   * - Roserade
+     - Gloom
      - Skiploom
+     - Turtwig
+   * - Bayleef
+     - Weepinbell
+     - Whimsicott
+     - Fomantis
+   * - Bulbasaur
+     - Thwackey
+     - Bellsprout
+     - Shiinotic
+   * - Cacnea
+     - Sunkern
+     - Hoppip
+     - Cherrim
+   * - Gossifleur
+     - Foongus
+     - Roselia
+     - Muk
+   * - Carnivine
+     - Morelull
+     - Breloom
+     - Ferrothorn
+   * - Amoonguss
+     - Shiftry
+     - Phantump
+     - Abomasnow
+   * - Cacturne
+     - Applin
+     - Snivy
+     - Sunflora
+   * - Exeggcute
+     - Victreebel
+     - Bellossom
+     - Tropius
+   * - Nuzleaf
+     - Lilligant
+     - Petilil
+     - Tangela
+   * - Jumpluff
+     - Snover
+     - Exeggutor
+     - Steenee
+   * - Maractus
+     - Rillaboom
+     - Lurantis
+     - Tangrowth
+   * - Lotad
+     - Paras
+     - Torterra
+     - Seedot
+   * - Cottonee
+     - Bounsweet
+     - Ivysaur
+     - Meganium
+   * - Oddish
+     - Trevenant
+     - Eldegoss
+     - Tsareena
+   * - Ferroseed
+     - Comfey
+     - Venusaur
      - Shroomish
-   * - Froslass
-     - Audino
+   * - Servine
+     - Serperior
+     - Vileplume
+     - Appletun
+   * - Parasect
    
 
 .. list-table:: Human Like
    :widths: 25 25 25 25 
 
-   * - Hariyama
-     - Timburr
-     - Drowzee
-     - Impidimp
-   * - Hitmontop
-     - Infernape
-     - Clobbopus
-     - Beheeyem
-   * - Illumise
-     - Gurdurr
-     - Pangoro
-     - Lucario
-   * - Lopunny
-     - Gothorita
-     - Gallade
-     - Grapploct
-   * - Hitmonchan
-     - Meditite
-     - Medicham
-     - Ho-Oh
-   * - Pancham
-     - Machamp
-     - Throh
-     - Bisharp
-   * - Toxicroak
-     - Chimchar
-     - Ralts
+   * - Mienfoo
      - Cinderace
-   * - Electabuzz
-     - Hypno
-     - Sawk
-     - Cacturne
-   * - Pawniard
-     - Sableye
-     - Cacnea
-     - Croagunk
-   * - Machoke
-     - Scorbunny
-     - Mienfoo
-     - Hawlucha
-   * - Raboot
-     - Magmar
-     - Gardevoir
-     - Hitmonlee
-   * - Volbeat
-     - Electivire
-     - Gothita
-     - Spinda
-   * - Grimmsnarl
-     - Abra
-     - Buneary
      - Kadabra
-   * - Morgrem
-     - Mr. Rime
-     - Magmortar
-     - Elgyem
-   * - Machop
-     - Toxtricity
-     - Alakazam
-     - Mr. Mime
-   * - Jynx
-     - Gothitelle
-     - Monferno
-     - Makuhita
-   * - Conkeldurr
-     - Kirlia
-     - Mienshao
-   
-
-.. list-table:: Undiscovered
-   :widths: 25 25 25 25 
-
-   * - Regigigas
-     - Burmy
-     - Dracovish
-     - Spectrier
-   * - ?
-     - Muk
-     - Poipole
-     - Regice
-   * - Palkia
-     - Genesect
-     - Arceus
-     - Azelf
-   * - Arctovish
-     - Meltan
-     - Tapu Fini
-     - Ho-Oh
-   * - Dialga
-     - Kyurem
-     - Azurill
-     - Melmetal
-   * - Cosmog
-     - Buzzwole
-     - Tapu Koko
-     - Guzzlord
-   * - Heatran
-     - Zekrom
-     - Wynaut
-     - Togepi
-   * - Kartana
-     - Hoopa
-     - Moltres
-     - Glastrier
-   * - Tapu Bulu
-     - Registeel
-     - Volcanion
-     - Zacian
-   * - Zamazenta
-     - Zygarde
-     - Golem
-     - Mesprit
-   * - Regieleki
-     - Lunala
-     - Tornadus
-     - Elekid
-   * - Reshiram
-     - Latias
-     - Xurkitree
-     - Diancie
-   * - Nihilego
-     - Necrozma
-     - Nidoqueen
-     - Darkrai
-   * - Naganadel
-     - Zeraora
-     - Unown
-     - Dracozolt
-   * - Pichu
-     - Budew
-     - Toxel
-     - Kyogre
-   * - Lugia
-     - Pheromosa
-     - Virizion
-     - Mewtwo
-   * - Celebi
-     - Regidrago
-     - Raikou
-     - Riolu
-   * - Regirock
-     - Magby
-     - Cresselia
-     - Unown !
-   * - Meloetta
-     - Mime Jr.
-     - Unown ?
-     - Kubfu
-   * - Munchlax
-     - Victini
-     - MISSINGNO.
-     - Yveltal
-   * - Giratina
-     - Happiny
-     - Deoxys
-     - Cleffa
-   * - Chingling
-     - Latios
-     - Tyrogue
-     - Celesteela
-   * - Zarude
-     - Landorus
-     - Enamorus
-     - Groudon
-   * - Stakataka
-     - Tapu Lele
-     - Thundurus
-     - Urshifu
-   * - Uxie
-     - Terrakion
-     - Magearna
-     - Articuno
-   * - Marshadow
-     - Mantyke
-     - Bonsly
-     - Jirachi
-   * - Silvally
-     - Entei
-     - Cosmoem
-     - Suicune
-   * - Nidorina
-     - Rayquaza
-     - Xerneas
-     - Eternatus
-   * - Cobalion
-     - Keldeo
-     - Calyrex
-     - Arctozolt
-   * - Solgaleo
-     - Zapdos
-     - Igglybuff
-     - Mew
-   * - Type: Null
-     - Unown B
-     - Shaymin
-     - Smoochum
-   
-
-.. list-table:: Mineral
-   :widths: 25 25 25 25 
-
-   * - Carbink
-     - Steelix
-     - Falinks
-     - Magnemite
-   * - Yamask
-     - Solrock
-     - Klefki
-     - Geodude
-   * - Graveler
-     - Duraludon
-     - Doublade
-     - Ferrothorn
-   * - Aegislash
-     - Roggenrola
-     - Stonjorner
-     - Sudowoodo
-   * - Porygon2
-     - Golurk
-     - Cofagrigus
-     - Snorunt
-   * - Coalossal
-     - Ho-Oh
-     - Vanilluxe
-     - Klinklang
-   * - Klang
-     - Gigalith
-     - Probopass
-     - Bergmite
-   * - Carkol
-     - Vanillish
-     - Porygon
-     - Lunatone
-   * - Claydol
-     - Dhelmise
-     - Rolycoly
-     - Cryogonal
-   * - Dwebble
-     - Minior
-     - Bronzong
-     - Nosepass
-   * - Garbodor
-     - Boldore
-     - Voltorb
-     - Trubbish
-   * - Electrode
-     - Onix
-     - Avalugg
-     - Magneton
-   * - Sinistea
-     - Shedinja
-     - Bronzor
-     - Metang
-   * - Poltegeist
-     - Cufant
-     - Beldum
-     - Glalie
-   * - Baltoy
-     - Golem
-     - Porygon-Z
-     - Honedge
-   * - Golett
-     - Runerigus
-     - Vanillite
-     - Copperajah
-   * - Metagross
-     - Klink
-     - Crustle
-     - Froslass
-   * - Ferroseed
-   
-
-.. list-table:: Amorphous
-   :widths: 25 25 25 25 
-
-   * - Gengar
-     - Dusclops
-     - Magcargo
-     - Yamask
-   * - Haunter
-     - Gallade
-     - Drakloak
-     - Swalot
-   * - Muk
-     - Sandygast
-     - Pincurchin
-     - Milcery
-   * - Dragapult
-     - Drifloon
-     - Mismagius
-     - Spiritomb
-   * - Tynamo
-     - Cofagrigus
-     - Shellos
-     - Palossand
-   * - Dusknoir
-     - Ho-Oh
-     - Reuniclus
-     - Frillish
-   * - Ralts
-     - Pumpkaboo
-     - Alcremie
-     - Gourgeist
-   * - Gulpin
-     - Slugma
-     - Litwick
-     - Jellicent
-   * - Mimikyu
-     - Banette
-     - Koffing
-     - Lampent
-   * - Misdreavus
-     - Wobbuffet
-     - Phantump
-     - Weezing
-   * - Drifblim
-     - Castform
-     - Sinistea
-     - Eelektross
-   * - Duosion
-     - Gastrodon
-     - Duskull
-     - Trevenant
-   * - Poltegeist
-     - Eelektrik
-     - Solosis
-     - Stunfisk
-   * - Shuppet
-     - Chandelure
-     - Dreepy
-     - Runerigus
-   * - Kirlia
-     - Gastly
-     - Rotom
-     - Chimecho
-   * - Gardevoir
-     - Grimer
-   
-
-.. list-table:: Flying
-   :widths: 25 25 25 25 
-
-   * - Archeops
-     - Swablu
-     - Braviary
-     - Vullaby
-   * - Pidgeotto
-     - Muk
-     - Tranquill
-     - Corvknight
-   * - Noivern
-     - Murkrow
-     - Honchkrow
-     - Noibat
-   * - Toucannon
-     - Xatu
-     - Staraptor
-     - Sirfetch'd
-   * - Togekiss
-     - Staravia
-     - Ho-Oh
-     - Spearow
-   * - Starly
-     - Dodrio
-     - Woobat
-     - Sigilyph
-   * - Doduo
-     - Talonflame
-     - Fletchling
-     - Noctowl
-   * - Trumbeak
-     - Swanna
-     - Mandibuzz
-     - Corvsquire
-   * - Rufflet
-     - Pikipek
-     - Decidueye
-     - Swoobat
-   * - Pidove
-     - Wingull
-     - Chatot
-     - Taillow
-   * - Dartrix
-     - Hawlucha
-     - Oricorio
-     - Zubat
-   * - Altaria
-     - Farfetch'd
-     - Swellow
-     - Aerodactyl
-   * - Golbat
-     - Skarmory
-     - Ducklett
-     - Unfezant
-   * - Cramorant
-     - Pidgey
-     - Hoothoot
-     - Togetic
-   * - Pelipper
-     - Archen
-     - Rookidee
-     - Natu
-   * - Rowlet
-     - Fearow
-     - Pidgeot
-     - Crobat
-   
-
-.. list-table:: Dragon
-   :widths: 25 25 25 25 
-
-   * - Skrelp
-     - Trapinch
-     - Swablu
-     - Heliolisk
-   * - Applin
-     - Sliggoo
-     - Tyrantrum
-     - Duraludon
-   * - Appletun
-     - Muk
-     - Kingdra
-     - Charizard
-   * - Drakloak
-     - Gyarados
-     - Seadra
-     - Flygon
-   * - Helioptile
-     - Noivern
-     - Jangmo-o
-     - Silicobra
-   * - Noibat
-     - Goodra
-     - Dragapult
-     - Dratini
+     - Magmar
    * - Ho-Oh
-     - Salazzle
-     - Scrafty
-     - Flapple
-   * - Dragonair
-     - Treecko
-     - Hydreigon
-     - Dragonite
-   * - Ekans
-     - Magikarp
-     - Charmander
-     - Arbok
-   * - Grovyle
-     - Kommo-o
-     - Gible
-     - Druddigon
-   * - Salandit
-     - Altaria
-     - Charmeleon
-     - Salamence
-   * - Seviper
-     - Axew
-     - Bagon
-     - Goomy
-   * - Vibrava
-     - Bad Egg
-     - Zweilous
-     - Milotic
-   * - Scraggy
-     - Horsea
-     - Garchomp
-     - Haxorus
-   * - Fraxure
-     - Dragalge
+     - Pawniard
+     - Gardevoir
+     - Illumise
+   * - Pancham
+     - Throh
+     - Sableye
+     - Mienshao
+   * - Cacnea
+     - Infernape
+     - Meditite
+     - Hypno
+   * - Scorbunny
+     - Timburr
+     - Buneary
+     - Machop
+   * - Mr. Rime
+     - Electivire
+     - Chimchar
+     - Machamp
+   * - Electabuzz
+     - Hitmonchan
+     - Hitmontop
+     - Toxicroak
+   * - Croagunk
+     - Grimmsnarl
+     - Lucario
+     - Gothitelle
+   * - Makuhita
+     - Spinda
+     - Raboot
+     - Kirlia
+   * - Lopunny
+     - Morgrem
+     - Clobbopus
+     - Elgyem
+   * - Gallade
+     - Gurdurr
+     - Mr. Mime
+     - Gothita
+   * - Toxtricity
+     - Medicham
+     - Conkeldurr
+     - Hitmonlee
+   * - Beheeyem
+     - Hawlucha
+     - Pangoro
+     - Drowzee
+   * - Hariyama
+     - Grapploct
+     - Alakazam
+     - Sawk
+   * - Volbeat
+     - Bisharp
+     - Gothorita
+     - Jynx
+   * - Impidimp
+     - Abra
+     - Magmortar
+     - Ralts
+   * - Cacturne
+     - Monferno
+     - Machoke
+   
+
+.. list-table:: Field
+   :widths: 25 25 25 25 
+
+   * - Braixen
+     - Swinub
+     - Slaking
+     - Mudbray
+   * - Numel
+     - Ho-Oh
+     - Hippowdon
+     - Nidoking
+   * - Primarina
+     - Wooloo
+     - Darmanitan
+     - Woobat
+   * - Cubchoo
+     - Delcatty
+     - Donphan
+     - Nickit
+   * - Buneary
+     - Scorbunny
+     - Grookey
+     - Torracat
+   * - Miltank
+     - Whismur
+     - Zorua
+     - Chimchar
+   * - Gogoat
+     - Jolteon
+     - Pansage
+     - Espurr
+   * - Diglett
+     - Psyduck
+     - Raticate
+     - Deerling
+   * - Flaaffy
+     - Boltund
+     - Morpeko
+     - Houndoom
+   * - Aipom
+     - Dewott
+     - Purugly
+     - Ursaluna
+   * - Skwovet
+     - Sandile
+     - Ursaring
+     - Absol
+   * - Sentret
+     - Stufful
+     - Greedent
+     - Wyrdeer
+   * - Zigzagoon
+     - Ampharos
+     - Munna
+     - Mankey
+   * - Quagsire
+     - Emboar
+     - Rockruff
+     - Darumaka
+   * - Spheal
+     - Bibarel
+     - Rhydon
+     - Granbull
+   * - Dunsparce
+     - Obstagoon
+     - Wailmer
+     - Farfetch'd
+   * - Tauros
+     - Monferno
+     - Cyndaquil
+     - Mienfoo
+   * - Swoobat
+     - Chesnaught
+     - Meowstic
+     - Exploud
+   * - Inteleon
+     - Furret
+     - Glameow
+     - Piplup
+   * - Bunnelby
+     - Dewgong
+     - Raichu
+     - Thwackey
+   * - Ninetales
+     - Mienshao
+     - Infernape
+     - Seviper
+   * - Slakoth
+     - Delphox
+     - Rapidash
+     - Watchog
+   * - Muk
+     - Emolga
+     - Sawsbuck
+     - Excadrill
+   * - Flareon
+     - Umbreon
+     - Espeon
+     - Luxray
+   * - Ambipom
+     - Komala
+     - Arcanine
+     - Dubwool
+   * - Lucario
+     - Pignite
+     - Passimian
      - Sandaconda
-     - Turtonator
-   * - Dreepy
-     - Feebas
-     - Tyrunt
-     - Shelgon
-   * - Deino
-     - Gabite
-     - Sceptile
+   * - Oranguru
+     - Zebstrika
+     - Lopunny
+     - Mareep
+   * - Gumshoos
+     - Tepig
+     - Wooper
+     - Purrloin
+   * - Typhlosion
+     - Shiftry
+     - Walrein
+     - Mamoswine
+   * - Stoutland
+     - Arbok
+     - Musharna
+     - Bewear
+   * - Patrat
+     - Beartic
+     - Rhyhorn
+     - Stunky
+   * - Perrserker
+     - Pachirisu
+     - Nidoran[B6]
+     - Sirfetch'd
+   * - Smeargle
+     - Rhyperior
+     - Teddiursa
+     - Zangoose
+   * - Loudred
+     - Snivy
+     - Skuntank
+     - Incineroar
+   * - Eevee
+     - Nidorino
+     - Lycanroc
+     - Thievul
+   * - Lillipup
+     - Herdier
+     - Leafeon
+     - Krokorok
+   * - Skitty
+     - Zoroark
+     - Ponyta
+     - Torkoal
+   * - Nuzleaf
+     - Simisage
+     - Houndour
+     - Shinx
+   * - Combusken
+     - Spinda
+     - Scraggy
+     - Piloswine
+   * - Ekans
+     - Togedemaru
+     - Prinplup
+     - Rillaboom
+   * - Pansear
+     - Seel
+     - Bouffalant
+     - Quilladin
+   * - Simipour
+     - Sobble
+     - Vaporeon
+     - Drilbur
+   * - Blaziken
+     - Delibird
+     - Pangoro
+     - Manectric
+   * - Vigoroth
+     - Growlithe
+     - Sandslash
+     - Blitzle
+   * - Sandshrew
+     - Golduck
+     - Silicobra
+     - Quilava
+   * - Seedot
+     - Bidoof
+     - Cinderace
+     - Dedenne
+   * - Electrike
+     - Kecleon
+     - Samurott
+     - Buizel
+   * - Snubbull
+     - Grumpig
+     - Poochyena
+     - Simisear
+   * - Weavile
+     - Wailord
+     - Pancham
+     - Copperajah
+   * - Primeape
+     - Torchic
+     - Mightyena
+     - Litten
+   * - Sneasler
+     - Dugtrio
+     - Yamper
+     - Floatzel
+   * - Chespin
+     - Krookodile
+     - Mawile
+     - Pikachu
+   * - Diggersby
+     - Eiscue
+     - Scrafty
+     - Spoink
+   * - Sealeo
+     - Pyroar
+     - Linoone
+     - Phanpy
+   * - Vulpix
+     - Furfrou
+     - Raboot
+     - Cufant
+   * - Hippopotas
+     - Liepard
+     - Persian
+     - Luxio
+   * - Sylveon
+     - Minccino
+     - Crobat
+     - Litleo
+   * - Cinccino
+     - Panpour
+     - Skiddo
+     - Sneasel
+   * - Yungoos
+     - Mudsdale
+     - Girafarig
+     - Camerupt
+   * - Oshawott
+     - Servine
+     - Meowth
+     - Drizzile
+   * - Warrior
+     - Stantler
+     - Empoleon
+     - Serperior
+   * - Fennekin
+     - Rattata
+     - Glaceon
+     - Popplio
+   * - Heatmor
    
 
 .. list-table:: Bug
    :widths: 25 25 25 25 
 
-   * - Metapod
-     - Trapinch
-     - Burmy
-     - Pineco
-   * - Sewaddle
-     - Ledian
-     - Kleavor
-     - Scolipede
-   * - Spinarak
-     - Combee
+   * - Shuckle
+     - Wimpod
      - Ho-Oh
-     - Yanmega
-   * - Scatterbug
-     - Shelmet
-     - Spewpa
-     - Masquerain
-   * - Kricketot
-     - Caterpie
-     - Galvantula
-     - Grubbin
-   * - Heracross
-     - Cutiefly
-     - Dwebble
-     - Escavalier
-   * - Charjabug
-     - Venonat
-     - Illumise
-     - Vikavolt
-   * - Ariados
      - Ninjask
-     - Weedle
-     - Flygon
-   * - Accelgor
-     - Gliscor
-     - Araquanid
-     - Parasect
-   * - Dottler
-     - Dustox
-     - Silcoon
-     - Durant
-   * - Crustle
-     - Kricketune
-     - Skorupi
-     - Volcarona
-   * - Vespiquen
-     - Leavanny
-     - Swadloon
-     - Pinsir
-   * - Beautifly
-     - Whirlipede
-     - Scyther
-     - Paras
    * - Blipbug
-     - Cascoon
-     - Joltik
-     - Shuckle
-   * - Butterfree
-     - Snom
-     - Forretress
-     - Vibrava
-   * - Bad Egg
-     - Beedrill
-     - Yanma
-     - Ribombee
-   * - Wimpod
-     - Surskit
-     - Golisopod
-     - Sizzlipede
-   * - Gligar
-     - Mothim
-     - Venomoth
-     - Orbeetle
-   * - Nincada
-     - Karrablast
-     - Dewpider
-     - Ledyba
-   * - Frosmoth
-     - Vivillon
-     - Volbeat
-     - Drapion
-   * - Venipede
      - Larvesta
-     - Centskorch
+     - Leavanny
+     - Venonat
+   * - Masquerain
+     - Burmy
      - Kakuna
+     - Yanma
+   * - Snom
+     - Vivillon
+     - Vespiquen
+     - Surskit
+   * - Scizor
+     - Beautifly
+     - Scolipede
+     - Illumise
+   * - Ledian
+     - Araquanid
+     - Ariados
+     - Spewpa
+   * - Yanmega
+     - Venomoth
+     - Whirlipede
+     - Swadloon
+   * - Orbeetle
+     - Cutiefly
+     - Heracross
+     - Bad Egg
+   * - Kleavor
+     - Dwebble
+     - Volcarona
+     - Venipede
+   * - Gliscor
+     - Ledyba
+     - Trapinch
+     - Durant
+   * - Charjabug
+     - Kricketot
+     - Centskorch
+     - Vikavolt
    * - Wurmple
-     - Scizor
+     - Golisopod
+     - Dottler
+     - Butterfree
+   * - Joltik
+     - Combee
+     - Galvantula
+     - Sizzlipede
+   * - Vibrava
+     - Pineco
+     - Kricketune
+     - Caterpie
+   * - Paras
+     - Frosmoth
+     - Nincada
+     - Grubbin
+   * - Beedrill
+     - Dewpider
+     - Karrablast
+     - Silcoon
+   * - Crustle
+     - Gligar
+     - Shelmet
+     - Drapion
+   * - Ribombee
+     - Scyther
+     - Metapod
+     - Scatterbug
+   * - Pinsir
+     - Flygon
+     - Skorupi
+     - Cascoon
+   * - Sewaddle
+     - Spinarak
+     - Dustox
+     - Weedle
+   * - Escavalier
+     - Forretress
+     - Volbeat
+     - Mothim
+   * - Accelgor
+     - Parasect
+   
+
+.. list-table:: Mineral
+   :widths: 25 25 25 25 
+
+   * - Glalie
+     - Roggenrola
+     - Bergmite
+     - Garbodor
+   * - Solrock
+     - Vanillite
+     - Ho-Oh
+     - Duraludon
+   * - Cofagrigus
+     - Froslass
+     - Crustle
+     - Klink
+   * - Onix
+     - Bronzong
+     - Honedge
+     - Probopass
+   * - Rolycoly
+     - Baltoy
+     - Coalossal
+     - Copperajah
+   * - Electrode
+     - Stonjorner
+     - Yamask
+     - Golurk
+   * - Metang
+     - Carbink
+     - Shedinja
+     - Bronzor
+   * - Gigalith
+     - Porygon-Z
+     - Porygon2
+     - Ferroseed
+   * - Klinklang
+     - Graveler
+     - Beldum
+     - Carkol
+   * - Geodude
+     - Vanillish
+     - Magneton
+     - Minior
+   * - Cufant
+     - Ferrothorn
+     - Doublade
+     - Sudowoodo
+   * - Cryogonal
+     - Nosepass
+     - Magnemite
+     - Golem
+   * - Golett
+     - Steelix
+     - Falinks
+     - Poltegeist
+   * - Claydol
+     - Porygon
+     - Lunatone
+     - Sinistea
+   * - Dwebble
+     - Trubbish
+     - Boldore
+     - Vanilluxe
+   * - Voltorb
+     - Snorunt
+     - Dhelmise
+     - Metagross
+   * - Avalugg
+     - Runerigus
+     - Klang
+     - Klefki
+   * - Aegislash
+   
+
+.. list-table:: Flying
+   :widths: 25 25 25 25 
+
+   * - Staravia
+     - Swoobat
+     - Trumbeak
+     - Rufflet
+   * - Skarmory
+     - Tranquill
+     - Oricorio
+     - Swablu
+   * - Staraptor
+     - Vullaby
+     - Archeops
+     - Ho-Oh
+   * - Noibat
+     - Rookidee
+     - Murkrow
+     - Toucannon
+   * - Swanna
+     - Pidgeot
+     - Pikipek
+     - Decidueye
+   * - Hoothoot
+     - Togetic
+     - Woobat
+     - Muk
+   * - Ducklett
+     - Togekiss
+     - Golbat
+     - Swellow
+   * - Taillow
+     - Mandibuzz
+     - Archen
+     - Pidgeotto
+   * - Sigilyph
+     - Pidove
+     - Starly
+     - Corvsquire
+   * - Talonflame
+     - Pidgey
+     - Fletchling
+     - Rowlet
+   * - Aerodactyl
+     - Braviary
+     - Corvknight
+     - Dodrio
+   * - Cramorant
+     - Crobat
+     - Noctowl
+     - Noivern
+   * - Hawlucha
+     - Chatot
+     - Altaria
+     - Unfezant
+   * - Spearow
+     - Fearow
+     - Honchkrow
+     - Natu
+   * - Zubat
+     - Dartrix
+     - Wingull
+     - Doduo
+   * - Pelipper
+     - Sirfetch'd
+     - Farfetch'd
+     - Xatu
+   
+
+.. list-table:: Fairy
+   :widths: 25 25 25 25 
+
+   * - Glalie
+     - Dedenne
+     - Cherubi
+     - Manaphy
+   * - Spritzee
+     - Cottonee
+     - Ho-Oh
+     - Alcremie
+   * - Froslass
+     - Snubbull
+     - Castform
+     - Plusle
+   * - Raichu
+     - Flabebe
+     - Ribombee
+     - Hoppip
+   * - Chansey
+     - Togetic
+     - Carbink
+     - Cherrim
+   * - Skitty
+     - Delcatty
+     - Hatenna
+     - Roselia
+   * - Audino
+     - Milcery
+     - Clefable
+     - Mawile
+   * - Togekiss
+     - Whimsicott
+     - Pikachu
+     - Wigglytuff
+   * - Jigglypuff
+     - Roserade
+     - Jumpluff
+     - Grimmsnarl
+   * - Hattrem
+     - Azumarill
+     - Shroomish
+     - Blissey
+   * - Morpeko
+     - Breloom
+     - Morgrem
+     - Cutiefly
+   * - Togedemaru
+     - Phione
+     - Swirlix
+     - Skiploom
+   * - Minun
+     - Falinks
+     - Hatterene
+     - Indeedee
+   * - Aromatisse
+     - Pachirisu
+     - Floette
+     - Impidimp
+   * - Slurpuff
+     - Snorunt
+     - Granbull
+     - Clefairy
+   * - Marill
+     - Florges
+   
+
+.. list-table:: Amorphous
+   :widths: 25 25 25 25 
+
+   * - Koffing
+     - Wobbuffet
+     - Gastly
+     - Chimecho
+   * - Ho-Oh
+     - Alcremie
+     - Cofagrigus
+     - Banette
+   * - Castform
+     - Dragapult
+     - Gardevoir
+     - Yamask
+   * - Spiritomb
+     - Gengar
+     - Palossand
+     - Swalot
+   * - Frillish
+     - Magcargo
+     - Muk
+     - Shellos
+   * - Milcery
+     - Lampent
+     - Trevenant
+     - Tynamo
+   * - Grimer
+     - Stunfisk
+     - Chandelure
+     - Eelektrik
+   * - Drakloak
+     - Gourgeist
+     - Pumpkaboo
+     - Reuniclus
+   * - Dusknoir
+     - Drifloon
+     - Kirlia
+     - Mismagius
+   * - Litwick
+     - Slugma
+     - Jellicent
+     - Gallade
+   * - Dusclops
+     - Mimikyu
+     - Duskull
+     - Weezing
+   * - Haunter
+     - Duosion
+     - Eelektross
+     - Poltegeist
+   * - Shuppet
+     - Misdreavus
+     - Gulpin
+     - Phantump
+   * - Pincurchin
+     - Rotom
+     - Ralts
+     - Runerigus
+   * - Sandygast
+     - Gastrodon
+     - Solosis
+     - Dreepy
+   * - Sinistea
+     - Drifblim
    
 
 .. list-table:: Water 1
    :widths: 25 25 25 25 
 
-   * - Inkay
-     - Grapploct
-     - Lombre
-     - Poliwrath
-   * - Clamperl
-     - Croconaw
-     - Omastar
-     - Ho-Oh
    * - Manaphy
-     - Mantine
-     - Ludicolo
-     - Relicanth
-   * - Crawdaunt
-     - Masquerain
-     - Squirtle
-     - Floatzel
-   * - Horsea
-     - Drizzile
-     - Lapras
-     - Tirtouga
-   * - Slowking
-     - Azumarill
-     - Politoed
-     - Clobbopus
-   * - Lotad
-     - Delibird
-     - Popplio
-     - Froakie
-   * - Araquanid
-     - Spheal
-     - Alomomola
-     - Buizel
-   * - Walrein
-     - Feraligatr
-     - Chewtle
-     - Dragonite
-   * - Empoleon
-     - Marshtomp
-     - Milotic
-     - Huntail
-   * - Kabutops
-     - Omanyte
-     - Bidoof
-     - Clauncher
-   * - Skrelp
-     - Seismitoad
-     - Clawitzer
-     - Kingdra
-   * - Seadra
-     - Pyukumuku
-     - Totodile
-     - Frogadier
-   * - Bibarel
-     - Cursola
-     - Carracosta
-     - Swanna
-   * - Swampert
-     - Prinplup
-     - Primarina
-     - Octillery
-   * - Palpitoad
-     - Greninja
-     - Gorebyss
-     - Blastoise
-   * - Poliwhirl
-     - Poliwag
-     - Bad Egg
-     - Mudkip
-   * - Corsola
-     - Cramorant
-     - Tympole
-     - Kabuto
-   * - Dragalge
-     - Inteleon
-     - Sealeo
-     - Surskit
-   * - Feebas
-     - Corphish
-     - Psyduck
-     - Remoraid
-   * - Drednaw
-     - Seel
-     - Quagsire
-     - Mareanie
-   * - Dewgong
-     - Slowbro
-     - Pincurchin
-     - Dratini
-   * - Shellos
-     - Wartortle
-     - Brionne
-     - Sobble
-   * - Dragonair
-     - Wingull
-     - Dewpider
-     - Eiscue
-   * - Golduck
+     - Ho-Oh
+     - Lombre
+     - Dragonair
+   * - Primarina
      - Malamar
-     - Marill
-     - Slowpoke
-   * - Wooper
-     - Toxapex
-     - Ducklett
-     - Phione
-   * - Gastrodon
+     - Seismitoad
+     - Tympole
+   * - Dratini
+     - Politoed
      - Stunfisk
-     - Pelipper
+     - Huntail
+   * - Ludicolo
+     - Dragalge
+     - Psyduck
+     - Octillery
+   * - Masquerain
+     - Wartortle
+     - Skrelp
+     - Toxapex
+   * - Feebas
+     - Gorebyss
+     - Frogadier
+     - Omanyte
+   * - Quagsire
+     - Grapploct
+     - Spheal
+     - Remoraid
+   * - Bibarel
+     - Wingull
+     - Surskit
+     - Chewtle
+   * - Inteleon
      - Piplup
+     - Greninja
+     - Dewgong
+   * - Swanna
+     - Araquanid
+     - Shellos
+     - Slowking
+   * - Mareanie
+     - Pyukumuku
+     - Relicanth
+     - Mantine
+   * - Inkay
+     - Wooper
+     - Feraligatr
+     - Bad Egg
+   * - Walrein
+     - Squirtle
+     - Seadra
+     - Alomomola
+   * - Clamperl
+     - Marshtomp
+     - Cursola
+     - Kingdra
+   * - Gastrodon
+     - Drednaw
+     - Milotic
+     - Slowbro
+   * - Poliwhirl
+     - Slowpoke
+     - Brionne
+     - Phione
+   * - Prinplup
+     - Sobble
+     - Seel
+     - Palpitoad
+   * - Delibird
+     - Lotad
+     - Lapras
+     - Golduck
+   * - Froakie
+     - Pelipper
+     - Marill
+     - Omastar
+   * - Dewpider
+     - Bidoof
+     - Croconaw
+     - Swampert
+   * - Tirtouga
+     - Corphish
+     - Blastoise
+     - Buizel
+   * - Kabuto
+     - Mudkip
+     - Totodile
+     - Corsola
+   * - Ducklett
+     - Floatzel
+     - Horsea
+     - Eiscue
+   * - Sealeo
+     - Clauncher
+     - Dragonite
+     - Azumarill
+   * - Kabutops
+     - Crawdaunt
+     - Clobbopus
+     - Clawitzer
+   * - Poliwrath
+     - Cramorant
+     - Drizzile
+     - Poliwag
+   * - Carracosta
+     - Empoleon
+     - Pincurchin
+     - Popplio
    
 
 .. list-table:: Water 2
    :widths: 25 25 25 25 
 
-   * - Inkay
-     - Sharpedo
-     - Gyarados
-     - Wishiwashi
-   * - Whiscash
-     - Overqwil
-     - Ho-Oh
-     - Alomomola
-   * - Carvanha
-     - Goldeen
-     - Relicanth
-     - Luvdisc
-   * - Magikarp
-     - Basculegon
-     - Qwilfish
-     - Seaking
-   * - Wailmer
+   * - Goldeen
      - Chinchou
-     - Octillery
-     - Finneon
-   * - Malamar
      - Lanturn
-     - Bruxish
-     - Bad Egg
-   * - Arrokuda
-     - Baraskewda
-     - Barboach
+     - Luvdisc
+   * - Ho-Oh
      - Basculin
-   * - Lumineon
-     - Remoraid
      - Wailord
+     - Carvanha
+   * - Malamar
+     - Magikarp
+     - Bruxish
+     - Relicanth
+   * - Wishiwashi
+     - Basculegon
+     - Barboach
+     - Octillery
+   * - Inkay
+     - Bad Egg
+     - Seaking
+     - Gyarados
+   * - Lumineon
+     - Qwilfish
+     - Overqwil
+     - Finneon
+   * - Alomomola
+     - Arrokuda
+     - Whiscash
+     - Remoraid
+   * - Sharpedo
+     - Wailmer
+     - Baraskewda
+   
+
+.. list-table:: Dragon
+   :widths: 25 25 25 25 
+
+   * - Flapple
+     - Milotic
+     - Swablu
+     - Gabite
+   * - Charizard
+     - Ho-Oh
+     - Duraludon
+     - Noibat
+   * - Salamence
+     - Dragonair
+     - Helioptile
+     - Shelgon
+   * - Dragapult
+     - Sliggoo
+     - Fraxure
+     - Jangmo-o
+   * - Magikarp
+     - Salandit
+     - Seviper
+     - Dratini
+   * - Treecko
+     - Tyrantrum
+     - Muk
+     - Axew
+   * - Sceptile
+     - Horsea
+     - Charmander
+     - Gible
+   * - Dragalge
+     - Haxorus
+     - Heliolisk
+     - Hydreigon
+   * - Scrafty
+     - Goomy
+     - Charmeleon
+     - Dragonite
+   * - Grovyle
+     - Scraggy
+     - Sandaconda
+     - Vibrava
+   * - Ekans
+     - Kommo-o
+     - Flygon
+     - Garchomp
+   * - Bad Egg
+     - Salazzle
+     - Skrelp
+     - Deino
+   * - Feebas
+     - Noivern
+     - Turtonator
+     - Druddigon
+   * - Gyarados
+     - Altaria
+     - Zweilous
+     - Arbok
+   * - Seadra
+     - Goodra
+     - Tyrunt
+     - Bagon
+   * - Silicobra
+     - Kingdra
+     - Appletun
+     - Dreepy
+   * - Applin
+     - Drakloak
+     - Trapinch
    
 
 .. list-table:: Water 3
    :widths: 25 25 25 25 
 
-   * - Skorupi
-     - Archeops
-     - Golisopod
-     - Clawitzer
-   * - Lileep
-     - Omastar
-     - Starmie
-     - Cloyster
-   * - Kingler
-     - Cursola
-     - Carracosta
-     - Crawdaunt
-   * - Tentacruel
-     - Minior
-     - Cradily
-     - Barbaracle
-   * - Armaldo
-     - Drapion
-     - Crabrawler
+   * - Starmie
      - Binacle
-   * - Shellder
-     - Corsola
-     - Kabutops
-     - Omanyte
-   * - Kabuto
-     - Archen
-     - Clauncher
-     - Staryu
-   * - Wimpod
      - Tirtouga
-     - Tentacool
      - Corphish
-   * - Krabby
+   * - Kabuto
+     - Archeops
+     - Tentacruel
+     - Wimpod
+   * - Staryu
+     - Omastar
+     - Corsola
+     - Drapion
+   * - Golisopod
+     - Armaldo
+     - Barbaracle
+     - Tentacool
+   * - Archen
+     - Cradily
+     - Crabrawler
+     - Clauncher
+   * - Kingler
+     - Minior
+     - Kabutops
+     - Crawdaunt
+   * - Skorupi
+     - Clawitzer
+     - Krabby
+     - Cloyster
+   * - Omanyte
+     - Shellder
+     - Carracosta
+     - Cursola
+   * - Lileep
      - Anorith
+   
+
+.. list-table:: Undiscovered
+   :widths: 25 25 25 25 
+
+   * - Volcanion
+     - Articuno
+     - MISSINGNO.
+     - Celesteela
+   * - Ho-Oh
+     - Dracovish
+     - Groudon
+     - Pheromosa
+   * - Bonsly
+     - Cobalion
+     - Kartana
+     - Zekrom
+   * - Dialga
+     - Eternatus
+     - Zygarde
+     - Moltres
+   * - Darkrai
+     - Mantyke
+     - Regice
+     - Kubfu
+   * - Regirock
+     - Burmy
+     - Silvally
+     - Deoxys
+   * - Zeraora
+     - Rayquaza
+     - Entei
+     - Dracozolt
+   * - Melmetal
+     - Heatran
+     - Magby
+     - Palkia
+   * - Nihilego
+     - Suicune
+     - Naganadel
+     - Smoochum
+   * - Xurkitree
+     - Registeel
+     - Arctovish
+     - Zamazenta
+   * - Uxie
+     - Happiny
+     - Zapdos
+     - Meltan
+   * - Regidrago
+     - Yveltal
+     - Celebi
+     - Munchlax
+   * - Necrozma
+     - Muk
+     - Kyurem
+     - Marshadow
+   * - Mesprit
+     - Stakataka
+     - Mewtwo
+     - Riolu
+   * - Magearna
+     - Toxel
+     - Arctozolt
+     - Nidoqueen
+   * - Mew
+     - Giratina
+     - Thundurus
+     - Cleffa
+   * - Cresselia
+     - Golem
+     - Zarude
+     - Unown !
+   * - Diancie
+     - Guzzlord
+     - Shaymin
+     - Type: Null
+   * - Unown B
+     - Kyogre
+     - Cosmog
+     - Unown
+   * - Pichu
+     - Azelf
+     - Meloetta
+     - Lunala
+   * - Solgaleo
+     - Terrakion
+     - Regieleki
+     - Jirachi
+   * - Lugia
+     - Budew
+     - Unown ?
+     - Xerneas
+   * - Latias
+     - Spectrier
+     - Tornadus
+     - Zacian
+   * - Reshiram
+     - Glastrier
+     - Nidorina
+     - Landorus
+   * - Calyrex
+     - Latios
+     - Keldeo
+     - ?
+   * - Tapu Fini
+     - Tyrogue
+     - Poipole
+     - Buzzwole
+   * - Tapu Bulu
+     - Cosmoem
+     - Enamorus
+     - Wynaut
+   * - Hoopa
+     - Virizion
+     - Elekid
+     - Raikou
+   * - Regigigas
+     - Arceus
+     - Victini
+     - Tapu Koko
+   * - Tapu Lele
+     - Togepi
+     - Chingling
+     - Genesect
+   * - Azurill
+     - Urshifu
+     - Igglybuff
+     - Mime Jr.
    
 
 .. list-table:: Ditto
