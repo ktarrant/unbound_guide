@@ -1,7 +1,7 @@
 # PyCharm Workspace Files
 **/.idea/workspace.xml
 **/.idea/tasks.xml
-unbound_guide/build/
+docs/
 unbound_guide/source/pokedex
 unbound_guide/source/routes
 unbound_guide/source/appendix
