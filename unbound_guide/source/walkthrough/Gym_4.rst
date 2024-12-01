@@ -37,7 +37,7 @@ Tehl Town
 - Secret Passage
 
 Gym 4: Inverse Battle
----------------------
+=====================
 I had a lot of trouble with this gym.
 Ultimately I built a super cheesy composition built
 around Sticky Web, Toxic Spikes, and Hex.
