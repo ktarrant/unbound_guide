@@ -8,8 +8,8 @@
       <excludeFolder url="file://$MODULE_DIR$/unbound_guide/source/routes" />
       <excludeFolder url="file://$MODULE_DIR$/unbound_guide/source/appendix" />
       <excludeFolder url="file://$MODULE_DIR$/unbound_guide/source/egg_groups" />
-      <excludeFolder url="file://$MODULE_DIR$/docs" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/unbound_guide/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
