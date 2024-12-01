@@ -19,6 +19,17 @@ Route 11
 
 Epidemy Town
 ============
+- Hitmontop available for trade, in exchange for a Lickitung.
+    Lickitung can be found on Route 5.
+
+Thundercap Mt.
+==============
+
+Pokemon Spotlight: Magnemite
+----------------------------
+TODO
+
+.. include:: /routes/Thundercap_Mt._pokemon.rst
 
 Dehara City
 ===========
